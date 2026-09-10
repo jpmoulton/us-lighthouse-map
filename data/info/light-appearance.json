@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "checkedAt": "2026-09-09",
+  "records": [
+    {
+      "id": "nc-bald-head-light",
+      "mode": "local",
+      "statusLabel": "Unofficial / local light",
+      "label": "Local light only",
+      "note": "Old Baldy's official lighthouse service ended in 1935. Its later unofficial light has no verified modern visibility range, so the map shows a small local marker without a sweeping beam or an assumed 10 nm reach.",
+      "sourceUrl": "https://www.lighthousefriends.com/light.asp?ID=349",
+      "sourceLabel": "Lighthouse Friends · Bald Head",
+      "additionalSources": [
+        {"url": "https://www.oldbaldy.org/post/new-exhibit-generate-open-at-old-baldy", "label": "Old Baldy Foundation · deactivation history"}
+      ]
+    },
+    {
+      "id": "nc-oak-island-light",
+      "mode": "grouped",
+      "periodSeconds": 10,
+      "beamOffsetsTurns": [0, 0.1, 0.2, 0.3],
+      "label": "Four grouped sweeps · 10 s cycle",
+      "note": "Oak Island's rotating LED beacon preserves its distinctive group of four flashes followed by a long dark interval. Four grouped beams now illustrate that pattern over a 10-second cycle; their spacing and width are schematic. The current Coast Guard visibility range remains 22 nm.",
+      "sourceUrl": "https://www.oakislandlighthouse.org/1204/",
+      "sourceLabel": "Friends of Oak Island Lighthouse · rotating LED beacon",
+      "additionalSources": [
+        {"url": "https://navcen.uscg.gov/sites/default/files/msi/lightListD05_1.geojson", "label": "U.S. Coast Guard · light list"}
+      ]
+    },
+    {
+      "id": "nc-cape-hatteras-light",
+      "mode": "flash",
+      "periodSeconds": 7.5,
+      "displayPulseSeconds": 0.8,
+      "label": "Temporary flashing beacon · every 7.5 s",
+      "note": "During restoration, Hatteras uses a stationary temporary beacon that flashes every 7.5 seconds. The map now pulses instead of rotating; flash duration is illustrative. Its current Coast Guard range is 14 nm. The earlier rotating beacon's 24 nm NPS description predates this equipment change; a replacement Fresnel lens is still planned.",
+      "sourceUrl": "https://navcen.uscg.gov/sites/default/files/msi/lightListD05_1.geojson",
+      "sourceLabel": "U.S. Coast Guard · light list",
+      "additionalSources": [
+        {"url": "https://www.nps.gov/caha/learn/news/cape-hatteras-lighthouse-restoration-contractor-plans-to-activate-temporary-beacon-april-25-2024.htm", "label": "National Park Service · temporary stationary beacon"},
+        {"url": "https://www.nps.gov/caha/planyourvisit/chls.htm", "label": "National Park Service · Cape Hatteras beacon description"},
+        {"url": "https://www.nps.gov/caha/learn/news/cape-hatteras-lighthouse-restoration-project.htm", "label": "National Park Service · lighthouse restoration"}
+      ]
+    },
+    {
+      "id": "nc-ocracoke-light",
+      "mode": "steady",
+      "label": "Steady white light",
+      "note": "Ocracoke has a fixed white light, so its map glow is now steady rather than rotating. It was designed as a secondary coastal light with less powerful optics than Cape Hatteras. The map keeps the current Coast Guard nominal range of 15 nm; glow brightness is illustrative.",
+      "sourceUrl": "https://www.nps.gov/caha/planyourvisit/ols.htm",
+      "sourceLabel": "National Park Service · Ocracoke Light Station",
+      "additionalSources": [
+        {"url": "https://navcen.uscg.gov/sites/default/files/msi/lightListD05_1.geojson", "label": "U.S. Coast Guard · light list"}
+      ]
+    }
+  ]
+}

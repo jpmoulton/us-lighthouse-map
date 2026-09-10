@@ -1,0 +1,115 @@
+<div id="usa-lights">
+  <div class="nl-heading viz-row">
+    <span>America after dark</span>
+    <span class="text-small text-muted" id="nl-count">Loading lighthouse atlas…</span>
+  </div>
+  <div class="nl-stage">
+  <div class="nl-map">
+    <canvas id="nl-canvas" role="img" aria-label="Night map of United States lighthouses with animated beams. Choose a region or lighthouse to inspect approximate visibility ranges.">An interactive map of United States lighthouses. Lighthouse details are available in the selector below.</canvas>
+    <div class="nl-map-caption">ILLUSTRATIVE SWEEPS · APPROXIMATE REACH</div>
+    <div class="nl-map-hint" aria-hidden="true">Tap a light to explore</div>
+  </div>
+  <div class="nl-info-placement" id="nl-info-placement" hidden>
+    <section class="card" id="nl-info" aria-labelledby="nl-info-title">
+      <div class="nl-info-header">
+        <h3 id="nl-info-title">Lighthouse information</h3>
+        <button type="button" class="btn btn-ghost" id="nl-info-close" aria-label="Close lighthouse information">Close</button>
+      </div>
+      <div id="nl-info-content"></div>
+    </section>
+  </div>
+  </div>
+  <div class="viz-controls nl-controls">
+    <button class="btn" id="nl-play" type="button" aria-pressed="false">Pause beams</button>
+    <button class="btn" id="nl-out" type="button" aria-label="Zoom out">−</button>
+    <button class="btn" id="nl-in" type="button" aria-label="Zoom in">+</button>
+    <span class="text-small text-muted tabular-nums" id="nl-zoom">1×</span>
+    <label class="form-label nl-region-picker">Region · states & territories
+      <select class="form-select" id="nl-region" aria-label="Map region"></select>
+    </label>
+  </div>
+  <div class="viz-controls">
+    <label class="form-label nl-picker">Lighthouse
+      <select class="form-select" id="nl-select" aria-describedby="nl-detail"><option value="">All lighthouses</option></select>
+    </label>
+  </div>
+  <div id="nl-detail" class="text-small" aria-live="polite">Click any light for its history, details, and sources. Overlapping lights open a choice list.</div>
+  <div class="viz-row text-small text-muted nl-legend">
+    <span><span class="nl-dot nl-lit" aria-hidden="true"></span>Listed active</span>
+    <span><span class="nl-dot nl-unlit" aria-hidden="true"></span>Historic / unconfirmed</span>
+    <span><span class="nl-dash" aria-hidden="true"></span>Estimated range</span>
+    <span>Local lights have no range beam; other missing ranges use a 10 nm estimate</span>
+  </div>
+  <div class="viz-row text-small text-muted" style="margin-top:8px">
+    <a href="https://navcen.uscg.gov/msi" target="_blank" rel="noopener noreferrer">USCG light ranges</a>
+    <a href="https://www.naturalearthdata.com/" target="_blank" rel="noopener noreferrer">Natural Earth coastline</a>
+    <span>Snapshot: September 2026</span>
+  </div>
+</div>
+<style>
+#usa-lights { width:100%; }
+#usa-lights .nl-heading { justify-content:space-between; margin-bottom:12px; }
+#usa-lights .nl-map { position:relative; width:100%; height:600px; overflow:hidden; background:#06151f; color:#c0d0d4; }
+#usa-lights .nl-stage { display:grid; grid-template-columns:minmax(0,1fr); align-items:start; }
+#usa-lights .nl-map { grid-area:1/1; }
+#usa-lights .nl-info-placement { grid-area:1/1; z-index:2; width:min(338px,calc(100% - 24px)); min-width:0; justify-self:end; margin:46px 12px 12px; }
+#usa-lights .nl-info-placement[hidden] { display:none; }
+#usa-lights .nl-info-header { display:flex; align-items:start; justify-content:space-between; gap:12px; }
+#usa-lights .nl-info-header h3 { margin:0; overflow-wrap:anywhere; }
+#usa-lights .nl-info-header button { flex-shrink:0; }
+#usa-lights .nl-info-subtitle { margin:8px 0 12px; }
+#usa-lights .nl-info-summary { margin:12px 0; }
+#usa-lights .nl-light-behavior { margin:12px 0;padding-left:12px;border-left:2px solid #8d896d; }
+#usa-lights .nl-light-behavior p { margin:6px 0;line-height:1.6; }
+#usa-lights .nl-info-facts { display:grid; grid-template-columns:minmax(0,1fr) minmax(0,1.2fr); gap:8px 14px; margin:12px 0; }
+#usa-lights .nl-info-facts dt { color:var(--muted-foreground); }
+#usa-lights .nl-info-facts dd { margin:0; overflow-wrap:anywhere; }
+#usa-lights .nl-info-source-list { padding-left:20px; margin:10px 0; }
+#usa-lights .nl-info-source-list li { margin:6px 0; overflow-wrap:anywhere; }
+#usa-lights .nl-info-data-notes { margin:10px 0 0; }
+#usa-lights .nl-info-more { margin-top:12px; }
+#usa-lights .nl-info-more summary { cursor:pointer; }
+#usa-lights .nl-nearby-list { display:grid; gap:6px; margin:12px 0; }
+#usa-lights .nl-nearby-name { display:block; white-space:normal; text-align:left; }
+#usa-lights .nl-nearby-place { display:block; text-align:left; }
+#usa-lights canvas { display:block; width:100%; height:100%; touch-action:pan-y; cursor:grab; }
+#usa-lights canvas.nl-dragging { cursor:grabbing; }
+#usa-lights .nl-map-caption { position:absolute; left:18px; top:16px; pointer-events:none; letter-spacing:.06em; font-size:var(--font-size-small,12px); color:#a9b9c0; }
+#usa-lights .nl-map-hint { position:absolute; right:18px; bottom:17px; pointer-events:none; font-size:var(--font-size-small,12px); color:#a9b9c0; }
+#usa-lights .nl-controls { margin-top:12px; }
+#usa-lights .nl-picker { min-width:0; flex:1 1 220px; }
+#usa-lights .nl-region-picker { min-width:0; flex:1 1 210px; }
+#usa-lights #nl-detail { min-height:2.8em; margin-top:10px; overflow-wrap:anywhere; }
+#usa-lights .nl-legend { margin-top:8px; gap:8px 18px; }
+#usa-lights .nl-legend > span { display:inline-flex; align-items:center; gap:7px; }
+#usa-lights .nl-dot { display:inline-block; width:7px; height:7px; border-radius:50%; }
+#usa-lights .nl-lit { background:var(--yellow); box-shadow:0 0 5px var(--yellow); }
+#usa-lights .nl-unlit { border:1px solid var(--muted-foreground); }
+#usa-lights .nl-dash { width:15px; border-top:1px dashed var(--muted-foreground); }
+@media(max-width:480px) {
+  #usa-lights .nl-map { height:520px; }
+  #usa-lights .nl-map-caption { left:12px; top:13px; letter-spacing:0; }
+  #usa-lights .nl-map-hint { right:12px; bottom:12px; }
+}
+@media(max-width:640px) {
+  #usa-lights .nl-info-placement { grid-area:auto; width:100%; margin:12px 0 0; }
+}
+</style>
+<script>/*__D3__*/</script>
+<script>
+(async () => {
+  const root = document.getElementById('usa-lights');
+  try {
+  const compressed = Uint8Array.from(atob('/*__DATA__*/'),c=>c.charCodeAt(0));
+  const data = await new Response(new Blob([compressed]).stream().pipeThrough(new DecompressionStream('gzip'))).json();
+  const {lights,states,lakes,profiles} = data;
+  /*__MAP_CODE__*/
+  } catch(error) {
+    const message=root.querySelector('#nl-detail');
+    message.setAttribute('role','alert');
+    message.textContent='The lighthouse map could not load. Please reopen the visualization in an up-to-date browser.';
+    root.querySelector('#nl-count').textContent='Map unavailable';
+    console.error(error);
+  }
+})();
+</script>

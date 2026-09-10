@@ -1,0 +1,13 @@
+{
+  "name": "us-lighthouse-map",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Interactive map of 804 U.S. lighthouse sites, with animated light beams and sourced histories.",
+  "scripts": {
+    "build": "node build-website.js",
+    "start": "node serve.js"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

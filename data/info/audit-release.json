@@ -1,0 +1,23 @@
+{
+  "status": "approved",
+  "checkedAt": "2026-09-09",
+  "records": 804,
+  "facts": 4245,
+  "minimumFactsPerRecord": 3,
+  "withheldProposals": 15,
+  "identityDecisions": 100,
+  "coordinateCorrections": 34,
+  "statusChanges": 34,
+  "operationalAssociationsCleared": 39,
+  "researchInputSha256": {
+    "research-a.json": "778caac11e8e01d942a74aa9765cc2e08ef7071b491bdb4ee4c95aa817cf3c68",
+    "research-b.json": "f69f94ba22e08f0655765868c19965d89624ec3ba6262249c416ff64fe974681"
+  },
+  "outputSha256": {
+    "profiles.json": "dd0be71f3d00d6a1c102be667d775e0052c7ebfe3eff16ea163bb5237aec3b1f",
+    "audit.json": "601b103994b057e6163b86d1fdf17dd2370bac95c14e4e81e20c25416efd154e",
+    "base-corrections.json": "b48255685ccb10dec54f140bae029a32d145df08768b9a5862098f65137dc00d",
+    "AUDIT_CHECKLIST.csv": "75a6c21768a873b5eff7b85f39438e2ae6aa8d99f8cbecd7de4864b54d364ca8",
+    "AUDIT_REPORT.md": "e1e62731b965eaec851a3ac525eb45e1992821478f26eb0d012c25d7229e656f"
+  }
+}

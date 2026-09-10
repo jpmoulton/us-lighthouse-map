@@ -1,0 +1,166 @@
+<main id="usa-lights">
+  <header class="nl-heading">
+    <div class="nl-heading-main">
+      <a class="nl-site-link" href="https://jmoul.io/" aria-label="Back to jmoul.io"><span aria-hidden="true">↖</span> jmoul.io <span class="nl-divider" aria-hidden="true">/</span><span>Interactive atlas</span></a>
+      <h1>Interactive Map of US Based Lighthouses</h1>
+      <p class="nl-intro">Explore the history behind each beacon, and how far its light can reach.</p>
+    </div>
+    <div class="nl-census"><span class="nl-status-light" aria-hidden="true"></span><span id="nl-count">Loading lighthouse atlas…</span></div>
+  </header>
+  <div class="nl-stage">
+    <div class="nl-map-shell">
+      <div class="nl-map"><canvas id="nl-canvas" role="img" aria-label="Night map of United States lighthouses. Scroll to zoom, drag to explore, or choose a lighthouse for its history.">Use the region and lighthouse selectors for accessible exploration.</canvas></div>
+      <div class="nl-toolbar" aria-label="Explore the map">
+        <label class="nl-field" for="nl-region"><span class="nl-field-label">Explore a region</span><select id="nl-region" aria-label="Map region"></select></label>
+        <label class="nl-field" for="nl-select"><span class="nl-field-label">Find a lighthouse</span><select id="nl-select" aria-describedby="nl-detail"><option value="">All lighthouses</option></select></label>
+      </div>
+      <div class="nl-viewport-tag"><span class="nl-compass" aria-hidden="true">N</span><div><span class="nl-overline">Your view</span><span id="nl-view-label">United States</span></div></div>
+      <div class="nl-map-bottom">
+        <div class="nl-playback"><button class="nl-button" id="nl-play" type="button" aria-pressed="false">Pause beams</button><span class="nl-simulation">Illustrative light patterns</span></div>
+        <span class="nl-map-hint" aria-hidden="true">Scroll to zoom · drag to explore</span>
+        <div class="nl-map-tools" aria-label="Map controls">
+          <button class="nl-button nl-zoom-button" id="nl-out" type="button" aria-label="Zoom out">−</button>
+          <output class="nl-zoom-value" id="nl-zoom" aria-label="Zoom level">1×</output>
+          <button class="nl-button nl-zoom-button" id="nl-in" type="button" aria-label="Zoom in">+</button>
+          <button class="nl-button nl-reset" id="nl-home" type="button" aria-label="Reset view">Reset<span class="nl-extra"> view</span></button>
+        </div>
+      </div>
+    </div>
+    <aside class="nl-info-placement" id="nl-info-placement" hidden>
+      <section class="nl-info-card" id="nl-info" aria-labelledby="nl-info-title">
+        <div class="nl-info-header"><div><span class="nl-overline">Lighthouse details</span><h2 id="nl-info-title">Lighthouse information</h2></div><button type="button" class="nl-button nl-close" id="nl-info-close" aria-label="Close lighthouse information">Close</button></div>
+        <div id="nl-info-content"></div>
+      </section>
+    </aside>
+  </div>
+  <div id="nl-detail" class="nl-sr-only" aria-live="polite">Click any light for its history, details, and sources. Overlapping lights open a choice list.</div>
+  <footer class="nl-footer">
+    <div class="nl-legend" aria-label="Map legend"><span><i class="nl-dot nl-lit" aria-hidden="true"></i>Listed active</span><span><i class="nl-dot nl-unlit" aria-hidden="true"></i>Historic / unconfirmed</span><span><i class="nl-dash" aria-hidden="true"></i>Estimated range</span></div>
+    <div class="nl-source-links"><a href="https://navcen.uscg.gov/msi" target="_blank" rel="noopener noreferrer">USCG light ranges <span aria-hidden="true">↗</span></a><a href="https://www.naturalearthdata.com/" target="_blank" rel="noopener noreferrer">Map data <span aria-hidden="true">↗</span></a></div>
+    <p class="nl-footnote">Approximate visibility, not illuminated ground. Local lights have no range beam; other missing ranges use a 10 nm estimate.<span>Data snapshot · September 2026</span></p>
+  </footer>
+</main>
+<style>
+@font-face{font-family:Geist;font-style:normal;font-weight:400 700;font-display:swap;src:url(data:font/woff2;base64,/*__UI_FONT__*/) format('woff2')}
+#usa-lights{--nl-bg:#071219;--nl-surface:#10222d;--nl-text:#e9eff0;--nl-muted:#9cb0b9;--nl-faint:#76909d;--nl-accent:#e5c78e;--nl-line:rgba(156,185,197,.17);--nl-map-top-space:104px;--nl-map-bottom-space:82px;color-scheme:dark;width:100%;color:var(--nl-text);font-family:Geist,'Aptos','Segoe UI',sans-serif;font-size:14px;line-height:1.5;-webkit-font-smoothing:antialiased}
+#usa-lights *,#usa-lights *::before,#usa-lights *::after{box-sizing:border-box}
+#usa-lights a{color:var(--nl-accent);text-decoration:none;text-underline-offset:4px}
+#usa-lights a:hover{text-decoration:underline}
+#usa-lights :is(button,select,a,summary):focus-visible{outline:2px solid var(--nl-accent);outline-offset:4px}
+#usa-lights .nl-heading{display:flex;align-items:flex-end;justify-content:space-between;gap:24px;padding:8px 4px 26px}
+#usa-lights .nl-heading-main{min-width:0}
+#usa-lights .nl-site-link{display:inline-flex;align-items:center;gap:9px;color:var(--nl-muted);font-size:12px;font-weight:500;margin-bottom:13px}
+#usa-lights .nl-site-link>span:first-child{color:var(--nl-accent);font-size:17px}
+#usa-lights .nl-divider{color:#47606d;padding:0 3px}
+#usa-lights h1{margin:0;color:var(--nl-text);font-size:clamp(24px,2.65vw,36px);font-weight:500;line-height:1.18;letter-spacing:-1.1px;text-wrap:balance}
+#usa-lights .nl-intro{margin:10px 0 0;color:var(--nl-muted);font-size:13px}
+#usa-lights .nl-census{display:flex;align-items:center;gap:9px;flex-shrink:0;color:var(--nl-muted);font-size:11px;padding-bottom:3px;font-variant-numeric:tabular-nums}
+#usa-lights .nl-status-light{width:6px;height:6px;border-radius:50%;background:var(--nl-accent);box-shadow:0 0 10px rgba(229,199,142,.35)}
+#usa-lights .nl-stage{position:relative}
+#usa-lights .nl-map-shell{position:relative;overflow:hidden;isolation:isolate;border:1px solid var(--nl-line);border-radius:18px;background:#081924;box-shadow:0 24px 80px rgba(0,9,16,.3)}
+#usa-lights .nl-map{position:relative;width:100%;height:clamp(620px,calc(100svh - 230px),920px);background:#081924;color:#c0d0d4}
+#usa-lights canvas{display:block;width:100%;height:100%;touch-action:none;cursor:grab}
+#usa-lights canvas.nl-dragging{cursor:grabbing}
+#usa-lights .nl-toolbar{position:absolute;top:20px;left:20px;z-index:2;display:grid;grid-template-columns:minmax(0,.85fr) minmax(0,1.15fr);width:min(660px,calc(100% - 40px));background:rgba(12,30,41,.94);border:1px solid rgba(156,185,197,.22);border-radius:12px;box-shadow:0 8px 30px rgba(0,9,16,.24),inset 0 1px 0 rgba(206,226,233,.04)}
+#usa-lights .nl-field{display:block;min-width:0;padding:11px 15px 10px;cursor:pointer}
+#usa-lights .nl-field+.nl-field{border-left:1px solid var(--nl-line)}
+#usa-lights .nl-field-label{display:block;margin-bottom:3px;color:var(--nl-muted);font-size:10px;letter-spacing:1.1px;text-transform:uppercase;font-weight:500}
+#usa-lights select{display:block;width:100%;min-width:0;margin:0;padding:0 18px 0 0;border:0;border-radius:0;color:#edf2f2;background-color:#0c1e29;font:500 13px/1.5 Geist,'Segoe UI',sans-serif;color-scheme:dark;cursor:pointer}
+#usa-lights option,#usa-lights optgroup{color:var(--nl-text);background:var(--nl-surface)}
+#usa-lights .nl-viewport-tag{position:absolute;top:30px;right:28px;display:flex;align-items:center;gap:12px;max-width:210px;color:var(--nl-muted);pointer-events:none}
+#usa-lights .nl-compass{display:grid;place-items:center;width:32px;height:32px;border:1px solid #526770;border-radius:50%;font-size:11px;color:var(--nl-accent)}
+#usa-lights .nl-overline{display:block;color:var(--nl-faint);font-size:10px;letter-spacing:1.2px;text-transform:uppercase;font-weight:500}
+#usa-lights #nl-view-label{display:block;max-width:170px;font-size:12px;margin-top:2px}
+#usa-lights .nl-map-bottom{position:absolute;left:20px;right:20px;bottom:20px;z-index:2;display:flex;align-items:center;justify-content:space-between;gap:16px;pointer-events:none}
+#usa-lights .nl-playback,#usa-lights .nl-map-tools{display:flex;align-items:center;flex-shrink:0;padding:4px;border:1px solid rgba(156,185,197,.21);border-radius:11px;background:rgba(12,30,41,.95);box-shadow:0 6px 24px rgba(0,9,16,.2);pointer-events:auto}
+#usa-lights .nl-button{display:inline-flex;justify-content:center;align-items:center;gap:7px;min-height:36px;margin:0;padding:8px 12px;border:1px solid transparent;border-radius:7px;background:#122b38;color:var(--nl-text);font:500 12px/1.35 Geist,'Segoe UI',sans-serif;cursor:pointer;transition:background-color 150ms ease,color 150ms ease,border-color 150ms ease}
+#usa-lights .nl-button:disabled{cursor:default;color:#738995;background:transparent}
+#usa-lights .nl-button:active:not(:disabled){background:#294653}
+#usa-lights #nl-play{color:var(--nl-accent);background:#1d333e;min-width:128px}
+#usa-lights #nl-play::before{content:'';width:8px;height:11px;border-left:2px solid currentColor;border-right:2px solid currentColor;margin-right:3px}
+#usa-lights #nl-play[aria-pressed="true"]::before{width:0;height:0;border:5px solid transparent;border-left:8px solid currentColor;border-right:0}
+#usa-lights .nl-simulation{color:var(--nl-muted);font-size:11px;padding:0 12px}
+#usa-lights .nl-map-hint{color:#9aadb6;font-size:11px;text-align:center}
+#usa-lights .nl-zoom-button{width:36px;padding:0;font-size:22px;font-weight:400;background:transparent}
+#usa-lights .nl-zoom-value{display:block;min-width:43px;text-align:center;color:var(--nl-muted);font-size:11px;font-variant-numeric:tabular-nums}
+#usa-lights .nl-reset{margin-left:4px;border-left:1px solid var(--nl-line);border-radius:0 7px 7px 0;background:transparent;padding-left:14px}
+#usa-lights .nl-info-placement{position:absolute;z-index:3;top:108px;right:20px;bottom:88px;width:360px;min-width:0}
+#usa-lights .nl-info-placement[hidden]{display:none}
+#usa-lights .nl-info-card{max-height:100%;overflow:auto;overscroll-behavior:contain;scrollbar-width:thin;scrollbar-color:#435b69 #10222d;padding:22px;color:var(--nl-text);background:#10222d;border:1px solid rgba(156,185,197,.24);border-radius:13px;box-shadow:0 16px 48px rgba(0,9,16,.35),inset 0 1px 0 rgba(206,226,233,.035)}
+#usa-lights .nl-info-header{display:flex;align-items:flex-start;justify-content:space-between;gap:16px}
+#usa-lights .nl-info-header>div{min-width:0}
+#usa-lights .nl-info-header h2{margin:6px 0 0;color:var(--nl-text);font-size:23px;font-weight:500;line-height:1.2;letter-spacing:-.5px;overflow-wrap:anywhere}
+#usa-lights .nl-close{min-height:30px;padding:4px 7px;margin:-4px -5px 0 0;color:var(--nl-muted);background:transparent;flex-shrink:0;font-size:11px}
+#usa-lights .nl-info-subtitle{display:block;margin:14px 0 20px;color:var(--nl-muted);font-size:12px}
+#usa-lights .nl-info-subtitle::before{content:'';display:inline-block;width:6px;height:6px;margin:0 8px 1px 0;border:1px solid var(--nl-accent);border-radius:50%;background:var(--nl-accent)}
+#usa-lights .nl-info-placement[data-status="historic"] .nl-info-subtitle::before,#usa-lights .nl-info-placement[data-status="unknown"] .nl-info-subtitle::before{background:transparent;border-color:var(--nl-muted)}
+#usa-lights .nl-info-facts{display:grid;grid-template-columns:minmax(0,.9fr) minmax(0,1.1fr);gap:13px 15px;margin:18px 0}
+#usa-lights .nl-info-facts dt{color:var(--nl-muted);font-size:12px}
+#usa-lights .nl-info-facts dd{margin:0;color:#e1eaed;font-size:12px;overflow-wrap:anywhere}
+#usa-lights .nl-info-facts a,#usa-lights .nl-info-summary a,#usa-lights .nl-info-subtitle a{white-space:nowrap}
+#usa-lights .nl-info-summary{margin:16px 0;font-size:12px;color:#c7d6dd;line-height:1.7}
+#usa-lights .nl-light-behavior{margin:16px 0;padding:12px 0 12px 13px;border-left:2px solid #8d896d}
+#usa-lights .nl-light-behavior strong{display:block;color:#e5d5aa;font-size:12px;font-weight:550}
+#usa-lights .nl-light-behavior p{margin:6px 0 0;color:#c7d6dd;font-size:12px;line-height:1.7}
+#usa-lights .nl-light-behavior a{white-space:nowrap}
+#usa-lights .nl-info-more{padding-top:13px;margin-top:13px;border-top:1px solid var(--nl-line)}
+#usa-lights .nl-info-more summary{position:relative;padding:3px 19px 3px 0;color:#d6e1e6;font-size:12px;font-weight:500;cursor:pointer;list-style:none}
+#usa-lights .nl-info-more summary::-webkit-details-marker{display:none}
+#usa-lights .nl-info-more summary::after{content:'+';position:absolute;right:1px;top:0;color:var(--nl-faint);font-size:17px;font-weight:400}
+#usa-lights .nl-info-more[open]>summary::after{content:'−'}
+#usa-lights .nl-info-source-list{margin:13px 0;padding-left:17px;font-size:12px}
+#usa-lights .nl-info-source-list li{margin:8px 0;overflow-wrap:anywhere}
+#usa-lights .nl-info-data-notes{margin:12px 0 0;color:var(--nl-muted);font-size:11px;line-height:1.7}
+#usa-lights .nl-info-actions .nl-button{width:100%;border-color:#4d5143;background:#293b3d;color:var(--nl-accent)}
+#usa-lights .nl-nearby-list{display:grid;gap:7px;margin:16px 0}
+#usa-lights .nl-nearby-list .nl-button{display:block;width:100%;text-align:left;padding:11px 12px;background:#162f3c}
+#usa-lights .nl-nearby-name{display:block;font-size:12px;white-space:normal}
+#usa-lights .nl-nearby-place{display:block;margin-top:4px;font-size:11px;font-weight:400;color:var(--nl-muted)}
+#usa-lights .nl-row{display:flex;flex-wrap:wrap;align-items:center;gap:10px}
+#usa-lights .nl-text-small{font-size:12px}
+#usa-lights .nl-footer{display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:13px 20px;padding:19px 4px 4px;color:var(--nl-muted);font-size:11px}
+#usa-lights .nl-legend{display:flex;flex-wrap:wrap;align-items:center;gap:12px 23px}
+#usa-lights .nl-legend>span{display:inline-flex;align-items:center;gap:7px}
+#usa-lights .nl-dot{display:inline-block;width:6px;height:6px;border-radius:50%}
+#usa-lights .nl-lit{background:var(--nl-accent);box-shadow:0 0 6px rgba(229,199,142,.4)}
+#usa-lights .nl-unlit{border:1px solid var(--nl-muted)}
+#usa-lights .nl-dash{width:13px;border-top:1px dashed var(--nl-muted)}
+#usa-lights .nl-source-links{display:flex;flex-wrap:wrap;gap:18px}
+#usa-lights .nl-source-links a{color:#a8b9c0}
+#usa-lights .nl-source-links a span{color:var(--nl-faint);margin-left:2px}
+#usa-lights .nl-footnote{flex-basis:100%;display:flex;justify-content:space-between;gap:8px 20px;flex-wrap:wrap;margin:0;color:#839ca8;font-size:10px;line-height:1.6}
+#usa-lights .nl-sr-only{position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;border:0}
+@media(hover:hover) and (pointer:fine){#usa-lights .nl-button:hover:not(:disabled){background:#29414e;color:#fff0cd}#usa-lights .nl-info-more summary:hover{color:var(--nl-accent)}}
+@media(max-width:1180px){#usa-lights .nl-heading{display:block}#usa-lights .nl-census{margin-top:15px}#usa-lights .nl-viewport-tag{display:none}}
+@media(max-width:900px){#usa-lights .nl-simulation,#usa-lights .nl-map-hint{display:none}#usa-lights .nl-info-placement{width:340px}}
+@media(max-width:760px){#usa-lights .nl-heading{padding:4px 2px 22px}#usa-lights h1{max-width:560px;font-size:29px;letter-spacing:-.7px}#usa-lights .nl-intro{max-width:480px;font-size:12px}#usa-lights .nl-info-placement{position:static;width:100%;margin-top:12px}#usa-lights .nl-info-card{max-height:none;overflow:visible;padding:22px}#usa-lights .nl-map{height:680px}}
+@media(max-width:520px){
+  #usa-lights{--nl-map-top-space:146px;--nl-map-bottom-space:84px}
+  #usa-lights .nl-heading{padding-bottom:20px}#usa-lights h1{font-size:27px;max-width:360px;line-height:1.18}#usa-lights .nl-site-link{margin-bottom:14px}#usa-lights .nl-census{font-size:10px}
+  #usa-lights .nl-map-shell{border-radius:13px}#usa-lights .nl-map{height:680px}
+  #usa-lights .nl-toolbar{top:12px;left:12px;width:calc(100% - 24px);grid-template-columns:minmax(0,1fr);border-radius:10px}
+  #usa-lights .nl-field{padding:8px 12px}#usa-lights .nl-field+.nl-field{border-left:0;border-top:1px solid var(--nl-line)}#usa-lights .nl-field-label{margin-bottom:2px;font-size:9px}#usa-lights select{font-size:16px;font-weight:400}
+  #usa-lights .nl-map-bottom{left:12px;right:12px;bottom:14px;gap:6px}#usa-lights .nl-playback,#usa-lights .nl-map-tools{padding:2px;border-radius:9px}
+  #usa-lights #nl-play{min-width:0;gap:5px;padding:8px;font-size:11px;min-height:44px}#usa-lights .nl-zoom-button{width:44px;min-height:44px}#usa-lights .nl-zoom-value{min-width:26px;font-size:10px}#usa-lights .nl-reset{min-width:44px;min-height:44px;padding:8px 5px;margin-left:0;font-size:11px}#usa-lights .nl-extra{display:none}
+  #usa-lights .nl-footer{padding:17px 2px 4px;font-size:10px;gap:13px}#usa-lights .nl-legend{gap:10px 13px}#usa-lights .nl-footnote{font-size:10px}
+}
+@media(prefers-reduced-motion:reduce){#usa-lights .nl-button{transition:none}}
+@media(pointer:coarse){#usa-lights .nl-button{min-height:44px}#usa-lights .nl-zoom-button{width:44px}#usa-lights .nl-reset{min-width:44px;padding-left:5px;padding-right:5px}#usa-lights .nl-zoom-value{min-width:26px}#usa-lights .nl-info-more summary{min-height:44px;padding-top:11px;padding-bottom:11px}#usa-lights .nl-info-more summary::after{top:9px}#usa-lights .nl-close{min-height:44px}}
+@media(max-width:360px){#usa-lights .nl-map-bottom{left:8px;right:8px}#usa-lights .nl-playback,#usa-lights .nl-map-tools{padding:1px}#usa-lights #nl-play{padding-left:6px;padding-right:6px}}
+</style>
+<script>/*__D3__*/</script>
+<script>
+(async () => {
+  const root = document.getElementById('usa-lights');
+  try {
+  const compressed = Uint8Array.from(atob('/*__DATA__*/'),c=>c.charCodeAt(0));
+  const data = await new Response(new Blob([compressed]).stream().pipeThrough(new DecompressionStream('gzip'))).json();
+  const {lights,states,lakes,profiles} = data;
+  /*__MAP_CODE__*/
+  } catch(error) {
+    const message=root.querySelector('#nl-detail');message.classList.remove('nl-sr-only');message.setAttribute('role','alert');
+    message.textContent='The lighthouse map could not load. Please refresh the page in an up-to-date browser.';
+    root.querySelector('#nl-count').textContent='Map unavailable';console.error(error);
+  }
+})();
+</script>

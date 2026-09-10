@@ -1,0 +1,19 @@
+{
+  "totalIds": 804,
+  "baseRecordsAudited": 804,
+  "researchRecordsAudited": 804,
+  "checkedAt": "2026-09-09",
+  "baseIssueCounts": {},
+  "researchInputSha256": {
+    "research-a.json": "778caac11e8e01d942a74aa9765cc2e08ef7071b491bdb4ee4c95aa817cf3c68",
+    "research-b.json": "f69f94ba22e08f0655765868c19965d89624ec3ba6262249c416ff64fe974681"
+  },
+  "factsChecked": 4260,
+  "factsApproved": 4245,
+  "factsWithheld": 15,
+  "dispositions": {
+    "accepted": 695,
+    "corrected": 96,
+    "limited": 13
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "status": "approved",
+  "records": 804,
+  "checkedAt": "2026-09-09",
+  "inputSha256": {
+    "profiles.json": "dd0be71f3d00d6a1c102be667d775e0052c7ebfe3eff16ea163bb5237aec3b1f",
+    "base-corrections.json": "b48255685ccb10dec54f140bae029a32d145df08768b9a5862098f65137dc00d"
+  },
+  "outputSha256": {
+    "summaries.json": "c461df50ddf7ee4bf2e6ab455020f140fd3764cf74462fcdd2f025efc8554845"
+  },
+  "auditDetails": {
+    "semanticReviews": 804,
+    "reviewers": {
+      "lighthouse_data": 102,
+      "range_research": 602,
+      "root": 100
+    },
+    "report": "summary-audit.json",
+    "records": [
+      "summary-audit-reviews.json",
+      "summary-root-reviews.json",
+      "summary-peer-reviews.json"
+    ],
+    "method": "Structural checks cover all rows. Per-record semantic decisions are made independently after reading every paragraph against approved facts; indices or URLs alone do not establish approval."
+  }
+}

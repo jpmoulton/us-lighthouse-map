@@ -1,0 +1,20 @@
+{
+  "status": "approved",
+  "sha256": "7637626b5e9d75c81803f31586822a8435e0a73610235fbfbc96308cc9f893bd",
+  "ids": [
+    "nc-bald-head-light",
+    "nc-oak-island-light",
+    "nc-cape-hatteras-light",
+    "nc-ocracoke-light"
+  ],
+  "reviewer": "backfill_review",
+  "notes": [
+    "Independently read the four complete appearance records and compared them with the current cached USCG records and the linked operator, National Park Service, Old Baldy Foundation and Lighthouse Friends pages. This approval binds only the exact appearance-data hash above.",
+    "Bald Head: Foundation evidence supports official deactivation in 1935; Lighthouse Friends supports later unofficial relighting. The new note deliberately avoids choosing between conflicting relighting years and does not invent a modern nominal range, operating schedule, measured lamp brightness or sweeping optic. The small local marker is an illustration.",
+    "Oak Island: the operator's December 2020 installation report confirms rotating LED optics retaining a group of four flashes followed by a long dark interval. USCG LLNR 810 gives Fl (4)W 10s and 22 nautical miles. Four fan offsets over ten seconds are explicitly schematic geometry, not measured beam bearings or exact flash widths.",
+    "Cape Hatteras: the NPS April 2024 announcement specifies a stationary temporary beacon flashing every 7.5 seconds. The July 24, 2026 restoration update still identifies installation and activation of the replacement Fresnel lens as remaining work. USCG LLNR 625 supplies the retained 14-nautical-mile range. The older NPS 24-nautical-mile rotating-beacon description is identified as earlier equipment; the illustrative 0.8-second pulse is not a measured flash duration.",
+    "Ocracoke: NPS describes stationary light and its secondary coastal role; USCG LLNR 660 gives F W and 15 nautical miles. Constant radial glow illustrates visibility, not illumination of the sea or a calibrated comparison of luminous intensity.",
+    "Inspected builder and renderer: known unique IDs, attributed records, modes, timing and exact review hash are checked; local mode suppresses the ten-mile fallback and moving beam; steady and flash modes do not rotate; grouped geometry uses the stated period. Clock advancement uses elapsed visible playback time. Parent-owned visual and performance regression checks remain separate release checks.",
+    "Verified that profiles.json, base-corrections.json and summaries.json still match the approved fact and summary release hashes. New appearance descriptions and citations are separate from the 4,245 existing profile facts and 804 approved summaries. Reviewed sources are a dated snapshot and do not establish a live operational-status feed."
+  ]
+}

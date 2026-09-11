@@ -1,0 +1,1636 @@
+[
+  {
+    "id": "ak-cape-st-elias-light",
+    "facts": [
+      {
+        "label": "News of approaching ships",
+        "value": "Seattle residents proposed a floating substitute for Cape St. Elias: they asked for a lightship after Congress approved the lighthouse, but their request was rejected. When the station opened in 1916, a Signal Corps wireless installation gave its keepers another job—telling people in Katalla that ships were approaching.",
+        "sourceUrl": "https://www.history.uscg.mil/Browse-by-Topic/Assets/Land/All/Article/1911649/cape-st-elias-light/",
+        "sourceLabel": "U.S. Coast Guard Historian — Cape St. Elias Light",
+        "sourceClass": "primary"
+      }
+    ]
+  },
+  {
+    "id": "ak-eldred-rock-light",
+    "facts": [
+      {
+        "label": "A keeper’s search",
+        "value": "In February 1910, Eldred Rock’s two assistant keepers left by boat for Point Sherman and never made it home. Their damaged boat was found, but keeper Nils Peter Adamson continued searching the waters of Lynn Canal for his colleagues; the museum preserves his grandson’s account of the loss and Adamson’s resignation the following January.",
+        "sourceUrl": "https://www.sheldonmuseum.org/vignette/eldred-rock-lighthouse/",
+        "sourceLabel": "Haines Sheldon Museum — Eldred Rock Lighthouse",
+        "sourceClass": "primary"
+      }
+    ]
+  },
+  {
+    "id": "ak-five-finger-islands-light",
+    "facts": [
+      {
+        "label": "A fire during a winter storm",
+        "value": "Five Finger’s first lighthouse burned in 1933 after an attempt to thaw frozen pipes during a winter storm went wrong. Its replacement, completed in 1935, adopted Art Deco styling and a much more fire-resistant design; the old boathouse and carpenter’s shed survived the blaze.",
+        "sourceUrl": "https://www.fivefingerlighthouse.com/timeline-events",
+        "sourceLabel": "Five Finger Lighthouse Society — Timeline and Events",
+        "sourceClass": "primary"
+      }
+    ]
+  },
+  {
+    "id": "ak-scotch-cap-light",
+    "facts": [
+      {
+        "label": "The 1946 tsunami",
+        "value": "Scotch Cap’s reinforced-concrete station was only six years old when an earthquake-generated tsunami destroyed it on April 1, 1946, killing all five crew members. A temporary unattended light restored the warning that same year, and a new permanent station was completed in early 1950.",
+        "sourceUrl": "https://www.history.uscg.mil/Browse-by-Topic/Assets/Land/All/Article/1988680/scotch-cap-light/",
+        "sourceLabel": "U.S. Coast Guard Historian — Scotch Cap Light",
+        "sourceClass": "primary"
+      }
+    ]
+  },
+  {
+    "id": "al-middle-bay-light",
+    "facts": [
+      {
+        "label": "Chesapeake design",
+        "value": "Middle Bay brought a Chesapeake Bay lighthouse design to Alabama: an iron framework supported a hexagonal keeper’s house and tower.",
+        "sourceUrl": "https://ahc.alabama.gov/properties/middlebay/middlebay.aspx",
+        "sourceLabel": "Alabama Historical Commission — Middle Bay Lighthouse",
+        "sourceClass": "primary"
+      },
+      {
+        "label": "Fog signal and restoration",
+        "value": "When fog hid the light, a bell sounded every five seconds; decades after the station’s working years, the Alabama Historical Commission oversaw nearly $350,000 in renovations to preserve the unusual offshore structure.",
+        "sourceUrl": "https://ahc.alabama.gov/properties/middlebay/middlebay.aspx",
+        "sourceLabel": "Alabama Historical Commission — Middle Bay Lighthouse",
+        "sourceClass": "primary"
+      }
+    ]
+  },
+  {
+    "id": "al-sand-island-light",
+    "facts": [
+      {
+        "label": "Civil War lookout",
+        "value": "Sand Island’s earlier lighthouse became a Civil War lookout—and a target: Confederate soldiers destroyed it in 1863 after discovering Union troops using it to watch Fort Morgan.",
+        "sourceUrl": "https://www.history.uscg.mil/Browse-by-Topic/Assets/Land/All/Article/1988493/sand-island-light-al/",
+        "sourceLabel": "U.S. Coast Guard — Sand Island Light",
+        "sourceClass": "primary"
+      },
+      {
+        "label": "Erosion defense",
+        "value": "A temporary wooden light served until the present tower opened in 1873; erosion then demanded a different defense, with 1,600 tons of granite placed around the tower in 1889.",
+        "sourceUrl": "https://www.history.uscg.mil/Browse-by-Topic/Assets/Land/All/Article/1988493/sand-island-light-al/",
+        "sourceLabel": "U.S. Coast Guard — Sand Island Light",
+        "sourceClass": "primary"
+      }
+    ]
+  },
+  {
+    "id": "ca-alcatraz-island-light",
+    "facts": [
+      {
+        "label": "A lighthouse shaped by the prison",
+        "value": "Alcatraz’s lighthouse had to grow with its prison: plans for a new cellblock prompted a taller replacement tower in 1909. The keepers belonged to the island’s civilian community; one became its postmaster, while another played Santa Claus for prison guards and their families.",
+        "sourceUrl": "https://alcatrazlighthouse.org/lighthouse-history",
+        "sourceLabel": "Alcatraz Lighthouse Preservation Project — Lighthouse History",
+        "sourceClass": "primary"
+      }
+    ]
+  },
+  {
+    "id": "ca-anacapa-island-light",
+    "facts": [
+      {
+        "label": "Building on an island cliff",
+        "value": "Anacapa’s sheer cliffs made even supplying a lighthouse an engineering problem: ninety steps, two landings and a crane carried people and equipment up from the landing cove. When the permanent light opened in 1932, it belonged to a small settlement of Spanish Revival buildings, with four homes along a main street.",
+        "sourceUrl": "https://www.nps.gov/places/000/lighthouse.htm",
+        "sourceLabel": "National Park Service — Anacapa Island Lighthouse",
+        "sourceClass": "primary"
+      }
+    ]
+  },
+  {
+    "id": "ca-fort-point-light",
+    "facts": [
+      {
+        "label": "Three lighthouses beneath the bridge",
+        "value": "Fort Point went through three lighthouses: the first lost its bluff to fort construction, and the second made way for a seawall. The surviving tower was built on the fort in 1864, only to have its light extinguished in 1934 as construction of the Golden Gate Bridge transformed the site.",
+        "sourceUrl": "https://www.nps.gov/places/000/fort-point-lighthouse-fort-point-tour.htm",
+        "sourceLabel": "National Park Service — Fort Point Lighthouse",
+        "sourceClass": "primary"
+      }
+    ]
+  },
+  {
+    "id": "ca-pigeon-point-light",
+    "facts": [
+      {
+        "label": "Named for a wreck",
+        "value": "Pigeon Point takes its name from the Carrier Pigeon, a clipper wrecked nearby in 1853 on its first voyage from Boston to San Francisco. Her captain and crew reached shore safely, but a steamer sent to help salvage the cargo also got into trouble and had to be beached near Point Año Nuevo.",
+        "sourceUrl": "https://www.parks.ca.gov/?page_id=22034",
+        "sourceLabel": "California State Parks — Pigeon Point History",
+        "sourceClass": "primary"
+      }
+    ]
+  },
+  {
+    "id": "ca-point-arena-light",
+    "facts": [
+      {
+        "label": "Rebuilt by smokestack specialists",
+        "value": "The 1906 earthquake damaged Point Arena’s original lighthouse and keepers’ residence so badly that both were torn down. Its replacement was entrusted to a company that built factory smokestacks, giving the new tower a concrete body reinforced with steel rods; the rebuilt light began operating in September 1908.",
+        "sourceUrl": "https://old.pointarenalighthouse.com/about/lighthouse-history/",
+        "sourceLabel": "Point Arena Lighthouse — Lighthouse History",
+        "sourceClass": "primary"
+      }
+    ]
+  },
+  {
+    "id": "ca-point-bonita-light",
+    "facts": [
+      {
+        "label": "A tunnel to the light",
+        "value": "Reaching Point Bonita once meant crossing a wooden walkway clinging to a cliff, where repeated landslides made the route dangerous. In 1876 Chinese workers dug a replacement tunnel through solid rock; the following year, a new lighthouse opened lower on the point to put its light beneath fog that often hid the original station.",
+        "sourceUrl": "https://www.nps.gov/goga/learn/historyculture/upload/Point-Bonita-Historic-District.pdf",
+        "sourceLabel": "National Park Service — Point Bonita Historic District",
+        "sourceClass": "primary"
+      }
+    ]
+  },
+  {
+    "id": "ca-point-cabrillo-light",
+    "facts": [
+      {
+        "label": "Porcelain clues to a shipwreck",
+        "value": "Near Point Cabrillo, the Frolic wrecked in 1850 carrying Chinese household goods for Gold Rush San Francisco, including a prefabricated house with oyster-shell windows. Much later, Chinese porcelain found at a Pomo village helped archaeologist Thomas Layton unravel the ship’s story; salvaged artifacts became part of the lighthouse museum’s collection.",
+        "sourceUrl": "https://pointcabrillo.org/learn/history/frolic/frolic1850/",
+        "sourceLabel": "Point Cabrillo Light Station — The Clipper Ship",
+        "sourceClass": "primary"
+      }
+    ]
+  },
+  {
+    "id": "ca-point-fermin-light",
+    "facts": [
+      {
+        "label": "Two sisters kept the light",
+        "value": "Mary and Ella Smith were Point Fermin’s first keepers, serving from 1874 to 1882. They arrived with lighthouse experience from Ediz Hook in Washington and spent eight years tending a station whose surroundings were then isolated and barren.",
+        "sourceUrl": "https://www.pflhs.org/copy-of-145th-birthday-2",
+        "sourceLabel": "Point Fermin Lighthouse Society — Mary & Ella Smith",
+        "sourceClass": "primary"
+      },
+      {
+        "label": "The Smith sisters",
+        "value": "Mary L. Smith was appointed Point Fermin’s first keeper in 1874, assisted by her sister Ella; both retired in 1882.",
+        "sourceUrl": "https://ohp.parks.ca.gov/pages/1067/files/01_Point%20Fermin%20Historic%20District%20National%20Register%20Nomination%20Form.pdf",
+        "sourceLabel": "California Office of Historic Preservation — Point Fermin Historic District nomination, page 26",
+        "sourceClass": "primary"
+      }
+    ]
+  },
+  {
+    "id": "ca-point-loma-light-new",
+    "facts": [
+      {
+        "label": "A prizewinning lens and a film role",
+        "value": "New Point Loma inherited keeper Robert Israel from the older hilltop lighthouse, but its ruby-colored lens brought its own distinction: a gold medal at the 1889 Paris Exhibition. The station later appeared in Top Gun, with one of its homes serving as Viper’s residence.",
+        "sourceUrl": "https://www.nps.gov/places/new-point-loma-lighthouse.htm",
+        "sourceLabel": "National Park Service — New Point Loma Lighthouse",
+        "sourceClass": "primary"
+      }
+    ]
+  },
+  {
+    "id": "ca-point-loma-light-old",
+    "facts": [
+      {
+        "label": "Too high for the fog",
+        "value": "Old Point Loma’s commanding hilltop became its weakness: fog could hide the light from ships entering San Diego Bay. In 1891 the keeper moved to a replacement nearer the water; the old tower shone again for its centennial in 1955, this time as a celebration rather than a navigation aid.",
+        "sourceUrl": "https://www.nps.gov/places/old-point-loma-lighthouse-grounds.htm",
+        "sourceLabel": "National Park Service — Old Point Loma Lighthouse Grounds",
+        "sourceClass": "primary"
+      }
+    ]
+  },
+  {
+    "id": "ca-point-montara-light",
+    "facts": [
+      {
+        "label": "A lighthouse with two coasts",
+        "value": "Point Montara’s tower had a previous life on Cape Cod before appearing on the California coast in 1928. For decades the Massachusetts lighthouse was thought to have been scrapped after its 1925 removal; researchers eventually connected it to Montara, although exactly how and why it crossed the country remains uncertain.",
+        "sourceUrl": "https://www.hiusa.org/blog/miscellaneous/history-point-montara-lighthouse",
+        "sourceLabel": "Hostelling International USA — History of Point Montara Lighthouse",
+        "sourceClass": "primary"
+      }
+    ]
+  },
+  {
+    "id": "ca-point-pinos-light",
+    "facts": [
+      {
+        "label": "The earthquake in the keeper’s log",
+        "value": "Emily Fish’s log records the 1906 earthquake from inside Point Pinos: shaking loosened the lens, bent its connecting tube and made the lamp flame flare before it was brought under control. Her later entries follow the repair work, including delivery of a temporary lantern in May while the main light was repaired.",
+        "sourceUrl": "https://www.pointpinoslighthouse.org/pdf/1906.pdf",
+        "sourceLabel": "Point Pinos Lighthouse — Emily Fish’s 1906 keeper-log excerpts",
+        "sourceClass": "primary"
+      }
+    ]
+  },
+  {
+    "id": "ca-point-reyes-light",
+    "facts": [
+      {
+        "label": "Keeping a clockwork light alive",
+        "value": "Point Reyes’s rotating lens ran on clockwork that a keeper had to wind every two hours and twenty minutes through the night. Daylight brought another round of work: cleaning the lens and mechanism, whitewashing buildings, and hauling coal to a chute feeding the fog-signal building below.",
+        "sourceUrl": "https://www.nps.gov/pore/learn/photosmultimedia/photogallery_thenandnow_pointreyeslighthouse.htm",
+        "sourceLabel": "National Park Service — Then & Now: Point Reyes Lighthouse",
+        "sourceClass": "primary"
+      }
+    ]
+  },
+  {
+    "id": "ca-point-san-luis-light",
+    "facts": [
+      {
+        "label": "A ship sank just short of the pier",
+        "value": "The 1888 sinking of the Queen of the Pacific strengthened the case for Point San Luis: approaching Port Harford in darkness, the captain proceeded cautiously for fear of the entrance rocks. The steamer settled in shallow water about 500 feet short of the pier, with everyone surviving; supporters argued that a lighthouse could have helped her reach it.",
+        "sourceUrl": "https://www.pointsanluislighthouse.org/about",
+        "sourceLabel": "Point San Luis Lighthouse Keepers — Lighthouse History",
+        "sourceClass": "primary"
+      }
+    ]
+  },
+  {
+    "id": "ca-st-george-reef-light",
+    "facts": [
+      {
+        "label": "Operation Lens",
+        "value": "St. George Reef’s huge glass lens had an unusual journey ashore: in 1983, volunteers working with the Coast Guard dismantled it in the offshore tower under a project called Operation Lens. They reassembled the first-order Fresnel lens at the Del Norte County Historical Society’s museum, giving visitors a close view of equipment once isolated on a wave-washed rock.",
+        "sourceUrl": "https://delnortehistory.org/st-george-reef-lighthouse/",
+        "sourceLabel": "Del Norte County Historical Society — St. George Reef Lighthouse",
+        "sourceClass": "primary"
+      }
+    ]
+  },
+  {
+    "id": "ct-new-london-ledge-light",
+    "facts": [
+      {
+        "label": "A house in the harbor",
+        "value": "Completed in 1909, the brick lighthouse has stone trim, a mansard roof and dormers in simplified French Second Empire style.",
+        "sourceUrl": "https://mcguirelibrary1998.omeka.net/exhibits/show/keeper-of-the-lights--the-mari/new-london-ledge-light--the-ho",
+        "sourceLabel": "New London Maritime Society — Ledge Light history",
+        "sourceClass": "primary"
+      },
+      {
+        "label": "A confusing original name",
+        "value": "The name Southwest Ledge Light on the early plans was changed to New London Ledge Light to avoid confusion with a ledge near New Haven.",
+        "sourceUrl": "https://mcguirelibrary1998.omeka.net/exhibits/show/keeper-of-the-lights--the-mari/new-london-ledge-light--the-ho",
+        "sourceLabel": "New London Maritime Society — Ledge Light history",
+        "sourceClass": "primary"
+      }
+    ]
+  },
+  {
+    "id": "fl-cape-canaveral-light-new",
+    "facts": [
+      {
+        "label": "Mule-powered move",
+        "value": "Cape Canaveral’s iron lighthouse was taken apart and hauled inland on a mule-drawn tram after erosion prompted a move in 1893.",
+        "sourceUrl": "https://canaverallight.org/explore-and-learn/",
+        "sourceLabel": "Cape Canaveral Lighthouse Foundation — Explore and Learn",
+        "sourceClass": "primary"
+      },
+      {
+        "label": "Reused foundation",
+        "value": "The older brick lighthouse was demolished to supply foundation material for the new site, where the lamp was lit again in July 1894; keeping the light had also become a family business for Mills Olcott Burnham and his descendants.",
+        "sourceUrl": "https://canaverallight.org/explore-and-learn/",
+        "sourceLabel": "Cape Canaveral Lighthouse Foundation — Explore and Learn",
+        "sourceClass": "primary"
+      }
+    ]
+  },
+  {
+    "id": "fl-cape-florida-light",
+    "facts": [
+      {
+        "label": "1836 siege",
+        "value": "During the Second Seminole War in 1836, an attack left assistant keeper John W. B. Thompson wounded and trapped high in the burned Cape Florida tower.",
+        "sourceUrl": "https://www.history.uscg.mil/Browse-by-Topic/Assets/Land/All/Article/1955776/cape-florida-lighthouse/",
+        "sourceLabel": "U.S. Coast Guard — Cape Florida Lighthouse",
+        "sourceClass": "primary"
+      },
+      {
+        "label": "Improvised rescue",
+        "value": "Rescuers tried a kite without success, then fired a line attached to a ramrod up to him; he used it to haul up a pulley so men could reach him and lower him to the ground.",
+        "sourceUrl": "https://www.history.uscg.mil/Browse-by-Topic/Assets/Land/All/Article/1955776/cape-florida-lighthouse/",
+        "sourceLabel": "U.S. Coast Guard — Cape Florida Lighthouse",
+        "sourceClass": "primary"
+      }
+    ]
+  },
+  {
+    "id": "fl-egmont-key-light",
+    "facts": [
+      {
+        "label": "Early damage",
+        "value": "Egmont Key’s first lighthouse survived a hurricane only five months after certification in 1848, then developed cracks after a lightning strike.",
+        "sourceUrl": "https://www.history.uscg.mil/Browse-by-Topic/Assets/Land/Lighthouses-Light-Stations/Article/1915905/egmont-key-light/",
+        "sourceLabel": "U.S. Coast Guard — Egmont Key Light",
+        "sourceClass": "primary"
+      },
+      {
+        "label": "Replacement and war",
+        "value": "Attempts to stabilize it failed, prompting the replacement tower in 1858; during the Civil War, keeper George Rickard carried its Fresnel lens and supplies to Tampa as Union troops approached.",
+        "sourceUrl": "https://www.history.uscg.mil/Browse-by-Topic/Assets/Land/Lighthouses-Light-Stations/Article/1915905/egmont-key-light/",
+        "sourceLabel": "U.S. Coast Guard — Egmont Key Light",
+        "sourceClass": "primary"
+      }
+    ]
+  },
+  {
+    "id": "fl-jupiter-inlet-light",
+    "facts": [
+      {
+        "label": "Wartime intelligence",
+        "value": "Beside Jupiter Inlet Lighthouse, a secret World War II radio operation called Station J listened for German U-boats.",
+        "sourceUrl": "https://www.jupiterlighthouse.org/explore/history/world-way-ii-secret-station-j/",
+        "sourceLabel": "Jupiter Inlet Lighthouse & Museum — Secret Station J",
+        "sourceClass": "primary"
+      },
+      {
+        "label": "Radio direction finding",
+        "value": "Its high-frequency direction-finding equipment intercepted submarine transmissions to help locate enemy vessels; at its 1943 peak, the site held 95 Navy men, 11 Marine guards and an operations building with 24 receivers.",
+        "sourceUrl": "https://www.jupiterlighthouse.org/explore/history/world-way-ii-secret-station-j/",
+        "sourceLabel": "Jupiter Inlet Lighthouse & Museum — Secret Station J",
+        "sourceClass": "primary"
+      }
+    ]
+  },
+  {
+    "id": "fl-key-west-light",
+    "facts": [
+      {
+        "label": "Returning keeper",
+        "value": "Barbara Mabrity returned to keep Key West’s replacement lighthouse after the original tower collapsed in the devastating hurricane of 1846.",
+        "sourceUrl": "https://www.kwahs.org/u-s-coast-guard-cutter-barbara-mabrity-wlm-559-scheduled-for-key-west-port-visit-and-public-tours/",
+        "sourceLabel": "Key West Art & Historical Society — Barbara Mabrity",
+        "sourceClass": "primary"
+      },
+      {
+        "label": "Lasting recognition",
+        "value": "She remained in lighthouse service until 1864, and her name later went to a Coast Guard buoy tender commissioned in 1999—a working vessel honoring the woman who had tended both generations of Key West’s light.",
+        "sourceUrl": "https://www.kwahs.org/u-s-coast-guard-cutter-barbara-mabrity-wlm-559-scheduled-for-key-west-port-visit-and-public-tours/",
+        "sourceLabel": "Key West Art & Historical Society — Barbara Mabrity",
+        "sourceClass": "primary"
+      }
+    ]
+  },
+  {
+    "id": "fl-ponce-de-leon-inlet-light",
+    "facts": [
+      {
+        "label": "Literary connection",
+        "value": "When the steam tug Commodore sank off Florida in 1897, author Stephen Crane and fellow survivors could see the beacon at what was then Mosquito Inlet.",
+        "sourceUrl": "https://www.ponceinlet.org/history-and-education/lighthouse-history/",
+        "sourceLabel": "Ponce Inlet Lighthouse Preservation Association — Lighthouse History",
+        "sourceClass": "primary"
+      },
+      {
+        "label": "The Open Boat",
+        "value": "Crane had joined a voyage carrying supplies to Cuban rebels; his account of the shipwreck became the basis for The Open Boat, linking this lighthouse to his story of survival at sea.",
+        "sourceUrl": "https://www.ponceinlet.org/history-and-education/lighthouse-history/",
+        "sourceLabel": "Ponce Inlet Lighthouse Preservation Association — Lighthouse History",
+        "sourceClass": "primary"
+      }
+    ]
+  },
+  {
+    "id": "fl-st-augustine-light-new",
+    "facts": [
+      {
+        "label": "Preservation campaign",
+        "value": "St. Augustine’s light station nearly lost its keepers’ house after a 1970 fire, but the Junior Service League stepped in as demolition threatened in 1980.",
+        "sourceUrl": "https://www.staugustinelighthouse.org/get-involved/about-mission-uvp/history/",
+        "sourceLabel": "St. Augustine Lighthouse & Maritime Museum — History",
+        "sourceClass": "primary"
+      },
+      {
+        "label": "Lens restoration",
+        "value": "Over the following 15 years the group raised more than $1.2 million to restore the house, tower and original Fresnel lens, whose prisms had been damaged by a vandal’s bullet.",
+        "sourceUrl": "https://www.staugustinelighthouse.org/get-involved/about-mission-uvp/history/",
+        "sourceLabel": "St. Augustine Lighthouse & Maritime Museum — History",
+        "sourceClass": "primary"
+      }
+    ]
+  },
+  {
+    "id": "ga-cockspur-island-light",
+    "facts": [
+      {
+        "label": "Battle survival",
+        "value": "Cockspur Island’s lighthouse stood in the line of fire during the 30-hour Union bombardment of Fort Pulaski in April 1862, yet escaped with only minor damage.",
+        "sourceUrl": "https://www.nps.gov/places/cockspur-island-lighthouse.htm",
+        "sourceLabel": "National Park Service — Cockspur Island Lighthouse",
+        "sourceClass": "primary"
+      },
+      {
+        "label": "Island construction",
+        "value": "Its small islet consists of oyster shells and marsh grass, while its Savannah Gray bricks were handmade by enslaved workers at the Hermitage plantation—a different part of the tower’s Civil War-era story.",
+        "sourceUrl": "https://www.nps.gov/places/cockspur-island-lighthouse.htm",
+        "sourceLabel": "National Park Service — Cockspur Island Lighthouse",
+        "sourceClass": "primary"
+      }
+    ]
+  },
+  {
+    "id": "ga-st-simons-island-light",
+    "facts": [
+      {
+        "label": "Construction loss",
+        "value": "Architect Charles Cluskey and members of the construction crew died of malaria in 1871 before St. Simons’ new lighthouse and keeper’s house were completed.",
+        "sourceUrl": "https://stsimonsisland.com/history-of-the-st-simons-lighthouse/",
+        "sourceLabel": "St. Simons Island — Lighthouse History, courtesy of Coastal Georgia Historical Society",
+        "sourceClass": "secondary"
+      },
+      {
+        "label": "Speaking tube",
+        "value": "The finished station mixed family life with practical engineering: a speaking tube installed in 1876 connected the tower’s watch room with the house, where the keeper and assistant occupied separate floors.",
+        "sourceUrl": "https://stsimonsisland.com/history-of-the-st-simons-lighthouse/",
+        "sourceLabel": "St. Simons Island — Lighthouse History, courtesy of Coastal Georgia Historical Society",
+        "sourceClass": "secondary"
+      }
+    ]
+  },
+  {
+    "id": "ga-tybee-island-light",
+    "facts": [
+      {
+        "label": "Civil War fire",
+        "value": "Tybee’s present lighthouse incorporates the lower 60 feet of an older tower that survived a Civil War fire.",
+        "sourceUrl": "https://www.tybeelighthouse.org/history-of-tybee-light-station-and-fort-screven",
+        "sourceLabel": "Tybee Island Light Station and Museum — History",
+        "sourceClass": "primary"
+      },
+      {
+        "label": "Postwar rebuilding",
+        "value": "Retreating Confederate troops burned its wooden stairs and upper section in 1861 to deny Union ships a navigation aid; after the war, builders reused the standing base and rebuilt with masonry and metal.",
+        "sourceUrl": "https://www.tybeelighthouse.org/history-of-tybee-light-station-and-fort-screven",
+        "sourceLabel": "Tybee Island Light Station and Museum — History",
+        "sourceClass": "primary"
+      }
+    ]
+  },
+  {
+    "id": "hi-aloha-tower",
+    "facts": [
+      {
+        "label": "A welcome turned camouflage",
+        "value": "Aloha Tower welcomed ocean arrivals to Honolulu, where ship days drew lei sellers, crowds and performances by the Royal Hawaiian Band. After Pearl Harbor, the Navy shut off its beacon and covered the white landmark in camouflage, using it to control military convoys; civilian control returned in 1947.",
+        "sourceUrl": "https://alohatower.com/history/index.html",
+        "sourceLabel": "Aloha Tower — History",
+        "sourceClass": "primary"
+      }
+    ]
+  },
+  {
+    "id": "hi-barbers-point-light",
+    "facts": [
+      {
+        "label": "A rescue that began with a run",
+        "value": "Keeper Manuel Ferreira rescued the crew of a Japanese trawler grounded near Barbers Point in 1919. Four years later, when heavy surf stopped him launching his skiff to help the stranded schooner Bianca, he ran three miles to a telephone; a warship answered the call and towed the vessel off the reef.",
+        "sourceUrl": "https://www.history.uscg.mil/Research/THE-LONG-BLUE-LINE/Article/2939234/the-long-blue-line-hawaiian-keepers-of-the-light/",
+        "sourceLabel": "U.S. Coast Guard Historian — Hawaiian Keepers of the Light",
+        "sourceClass": "primary"
+      }
+    ]
+  },
+  {
+    "id": "hi-cape-kumukahi-light",
+    "facts": [
+      {
+        "label": "Spared by the lava",
+        "value": "Cape Kumukahi’s lighthouse survived the 1960 Kapoho eruption even as lava destroyed the nearby Coast Guard residences. A mile-long barrier had been built to defend the area, but after holding for about a week it was breached in several places; the lighthouse remained standing amid the destruction.",
+        "sourceUrl": "https://www.usgs.gov/volcanoes/kilauea/science/1960-kapoho-eruption-provided-lesson-kilauea-behavior",
+        "sourceLabel": "U.S. Geological Survey — 1960 Kapoho Eruption",
+        "sourceClass": "primary"
+      }
+    ]
+  },
+  {
+    "id": "hi-diamond-head-light",
+    "facts": [
+      {
+        "label": "The tower that was never installed",
+        "value": "Two groundings helped spur a lighthouse at Diamond Head: Miowera in 1893 and China in 1897. An iron tower was built at Honolulu Iron Works but never installed, because the Hawaiian legislature decided the station should use masonry instead; the first light was established in 1899.",
+        "sourceUrl": "https://www.history.uscg.mil/Browse-by-Topic/Assets/Land/Lighthouses-Light-Stations/Article/1913302/diamond-head-lighthouse/",
+        "sourceLabel": "U.S. Coast Guard Historian — Diamond Head Lighthouse",
+        "sourceClass": "primary"
+      }
+    ]
+  },
+  {
+    "id": "hi-kilauea-light",
+    "facts": [
+      {
+        "label": "A lighthouse guides an airplane",
+        "value": "In 1927, pilots on the first flight from the mainland to Hawaiʻi overshot Oʻahu in bad weather and spotted Kīlauea’s double flash instead. Recognizing that they were at Kauaʻi, they circled the lighthouse until daylight before continuing to Oʻahu—a maritime warning that became a landmark for early aviation.",
+        "sourceUrl": "https://www.kauairefuges.org/history-lighthouse",
+        "sourceLabel": "Friends of Kauaʻi Wildlife Refuges — History of the Lighthouse",
+        "sourceClass": "primary"
+      }
+    ]
+  },
+  {
+    "id": "hi-lahaina-light",
+    "facts": [
+      {
+        "label": "A harbor beacon for whalers",
+        "value": "Lahaina’s lighthouse began in 1840 as a nine-foot wooden tower helping whaling ships enter the roadstead. It predates the lighthouses built along the continental U.S. Pacific coast; as shipping increased, successive improvements eventually produced the concrete tower dedicated in 1916.",
+        "sourceUrl": "https://lahainarestoration.org/Maps/lahaina-historical-trail-brochure.pdf",
+        "sourceLabel": "Lahaina Restoration Foundation — Lahaina Historical Trail",
+        "sourceClass": "primary"
+      }
+    ]
+  },
+  {
+    "id": "il-grosse-point-light",
+    "facts": [
+      {
+        "label": "Disaster spurred construction",
+        "value": "The 1860 collision of the schooner Augusta with the passenger steamer Lady Elgin helped drive calls for a lighthouse at Grosse Point.",
+        "sourceUrl": "https://www.history.uscg.mil/Browse-by-Topic/Assets/Land/Lighthouses-Light-Stations/Article/1944470/grosse-point-light/",
+        "sourceLabel": "U.S. Coast Guard — Grosse Point Light",
+        "sourceClass": "primary"
+      },
+      {
+        "label": "Congressional response",
+        "value": "Congress funded the project in 1871, and the light began operating in 1874; its brick walls later received a four-inch concrete covering in 1914, adding another layer to the building’s history.",
+        "sourceUrl": "https://www.history.uscg.mil/Browse-by-Topic/Assets/Land/Lighthouses-Light-Stations/Article/1944470/grosse-point-light/",
+        "sourceLabel": "U.S. Coast Guard — Grosse Point Light",
+        "sourceClass": "primary"
+      }
+    ]
+  },
+  {
+    "id": "in-old-michigan-city-light",
+    "facts": [
+      {
+        "label": "Long-serving keeper",
+        "value": "Harriet Colfax kept Michigan City’s lights for 43 years, beginning in 1861, while sharing the lighthouse home with her longtime companion Ann Hartwell.",
+        "sourceUrl": "https://www.nps.gov/people/harriet-colfax.htm",
+        "sourceLabel": "National Park Service — Harriet Colfax",
+        "sourceClass": "primary"
+      },
+      {
+        "label": "Work in storms",
+        "value": "Her work took her across windblown dunes and a wave-washed pier with a heavy lamp; newspaper accounts and her own recollections describe icy spray, difficult footing and oil that stiffened in the cold.",
+        "sourceUrl": "https://www.nps.gov/people/harriet-colfax.htm",
+        "sourceLabel": "National Park Service — Harriet Colfax",
+        "sourceClass": "primary"
+      }
+    ]
+  },
+  {
+    "id": "la-new-canal-light",
+    "facts": [
+      {
+        "label": "Hurricane destruction",
+        "value": "Hurricanes Katrina and Rita destroyed New Canal’s historic lighthouse in 2005, leaving a lost landmark on the shore of Lake Pontchartrain.",
+        "sourceUrl": "https://www.epa.gov/urbanwaterspartners/new-canal-lighthouse-museum-and-education-center-project",
+        "sourceLabel": "U.S. Environmental Protection Agency — New Canal Lighthouse Project",
+        "sourceClass": "primary"
+      },
+      {
+        "label": "Community rebuilding",
+        "value": "The Lake Pontchartrain Basin Foundation joined with local residents and the Urban Waters Federal Partnership to rebuild it as a museum and education center, giving the familiar structure a new role in teaching about the lake.",
+        "sourceUrl": "https://www.epa.gov/urbanwaterspartners/new-canal-lighthouse-museum-and-education-center-project",
+        "sourceLabel": "U.S. Environmental Protection Agency — New Canal Lighthouse Project",
+        "sourceClass": "primary"
+      }
+    ]
+  },
+  {
+    "id": "la-ship-shoal-light",
+    "facts": [
+      {
+        "label": "Hidden health hazard",
+        "value": "Ship Shoal’s keepers faced a danger inside their own water supply: in 1866, serious illness was traced to lead paint washing from the roof into the cisterns.",
+        "sourceUrl": "https://www.history.uscg.mil/Browse-by-Topic/Assets/Land/All/Article/1989182/ship-shoal-light/",
+        "sourceLabel": "U.S. Coast Guard — Ship Shoal Light",
+        "sourceClass": "primary"
+      },
+      {
+        "label": "Removing the cause",
+        "value": "Officials removed the paint and substituted coal tar for rust protection; the following year, a hurricane undermined the seabed and left the lighthouse leaning to the northeast.",
+        "sourceUrl": "https://www.history.uscg.mil/Browse-by-Topic/Assets/Land/All/Article/1989182/ship-shoal-light/",
+        "sourceLabel": "U.S. Coast Guard — Ship Shoal Light",
+        "sourceClass": "primary"
+      }
+    ]
+  },
+  {
+    "id": "ma-boston-light",
+    "facts": [
+      {
+        "label": "Revolutionary War destruction",
+        "value": "American forces burned the wooden portions in 1775; departing British forces blew up the lighthouse in June 1776.",
+        "sourceUrl": "https://www.nps.gov/boha/learn/historyculture/boston-light.htm",
+        "sourceLabel": "National Park Service — Boston Light",
+        "sourceClass": "primary"
+      },
+      {
+        "label": "Rebuilding after the war",
+        "value": "Massachusetts rebuilt the lighthouse in 1783; the replacement was a circular mortared-rubblestone tower.",
+        "sourceUrl": "https://www.nps.gov/boha/learn/historyculture/boston-light.htm",
+        "sourceLabel": "National Park Service — Boston Light",
+        "sourceClass": "primary"
+      }
+    ]
+  },
+  {
+    "id": "ma-minot-s-ledge-light",
+    "facts": [
+      {
+        "label": "Fatal collapse",
+        "value": "The first lighthouse collapsed in April 1851, killing both keepers.",
+        "sourceUrl": "https://www.history.uscg.mil/Research/THE-LONG-BLUE-LINE/Article/2866509/the-long-blue-line-minotsloss-of-the-deadly-lovers-light-170-years-ago/",
+        "sourceLabel": "U.S. Coast Guard historian — Minots Ledge",
+        "sourceClass": "primary"
+      },
+      {
+        "label": "Stone replacement",
+        "value": "The granite replacement took five years to build and was completed in 1860.",
+        "sourceUrl": "https://www.history.uscg.mil/Research/THE-LONG-BLUE-LINE/Article/2866509/the-long-blue-line-minotsloss-of-the-deadly-lovers-light-170-years-ago/",
+        "sourceLabel": "U.S. Coast Guard historian — Minots Ledge",
+        "sourceClass": "primary"
+      },
+      {
+        "label": "Lover’s Light nickname",
+        "value": "An apparatus installed in 1894 produced groups of one, four and three flashes, associated with the letter counts in I love you.",
+        "sourceUrl": "https://www.history.uscg.mil/Research/THE-LONG-BLUE-LINE/Article/2866509/the-long-blue-line-minotsloss-of-the-deadly-lovers-light-170-years-ago/",
+        "sourceLabel": "U.S. Coast Guard historian — Minots Ledge",
+        "sourceClass": "primary"
+      }
+    ]
+  },
+  {
+    "id": "md-seven-foot-knoll-light",
+    "facts": [
+      {
+        "label": "1933 rescue",
+        "value": "During the August 1933 storm, keeper Thomas J. Steinhise went out from Seven Foot Knoll when the tug Point Breeze sank, and recovered six men, one already dead.",
+        "sourceUrl": "https://historicships.org/uploads/files/Volume11Issue3-Fall2009.pdf",
+        "sourceLabel": "Historic Ships in Baltimore — keeper history and rescue account",
+        "sourceClass": "primary"
+      },
+      {
+        "label": "Lives saved",
+        "value": "Steinhise brought six men to the lighthouse, including one who had died; five survived, and he received the Silver Lifesaving Medal.",
+        "sourceUrl": "https://historicships.org/uploads/files/Volume11Issue3-Fall2009.pdf",
+        "sourceLabel": "Historic Ships in Baltimore — keeper history and rescue account",
+        "sourceClass": "primary"
+      }
+    ]
+  },
+  {
+    "id": "md-thomas-point-shoal-light",
+    "facts": [
+      {
+        "label": "Ice damage in 1877",
+        "value": "The 1877 report describes moving ice damaging the iron piles and shaking the lighthouse enough to overturn and ruin its lens.",
+        "sourceUrl": "https://uslhs.org/travel/cruises/thomas-point-shoal-lighthouse/history/annual-reports",
+        "sourceLabel": "U.S. Lighthouse Board — annual reports reproduced by USLHS",
+        "sourceClass": "primary"
+      },
+      {
+        "label": "A defense against ice",
+        "value": "While the lens was replaced, a temporary light shone from the old shore tower; a detached icebreaker was installed about ninety feet north of the lighthouse.",
+        "sourceUrl": "https://uslhs.org/travel/cruises/thomas-point-shoal-lighthouse/history/annual-reports",
+        "sourceLabel": "U.S. Lighthouse Board — annual reports reproduced by USLHS",
+        "sourceClass": "primary"
+      }
+    ]
+  },
+  {
+    "id": "me-boon-island-light",
+    "facts": [
+      {
+        "label": "Blizzard refuge",
+        "value": "In the February 1978 blizzard the keeper’s house flooded to its first-floor ceiling and keepers Kirby Eldridge and Leo Berry sheltered in the tower.",
+        "sourceUrl": "https://www.newenglandlighthouses.net/boon-island-light-history.html",
+        "sourceLabel": "New England Lighthouses — Boon Island history",
+        "sourceClass": "secondary"
+      },
+      {
+        "label": "Helicopter evacuation",
+        "value": "The keepers were removed by helicopter the next day; the light was automated soon afterward.",
+        "sourceUrl": "https://www.newenglandlighthouses.net/boon-island-light-history.html",
+        "sourceLabel": "New England Lighthouses — Boon Island history",
+        "sourceClass": "secondary"
+      }
+    ]
+  },
+  {
+    "id": "me-portland-head-light",
+    "facts": [
+      {
+        "label": "Christmas Eve shipwreck",
+        "value": "The bark Annie C. Maguire struck the ledge at Portland Head on Christmas Eve 1886.",
+        "sourceUrl": "https://portlandheadlight.com/about-us/",
+        "sourceLabel": "Portland Head Light museum — station history",
+        "sourceClass": "primary"
+      },
+      {
+        "label": "An improvised escape route",
+        "value": "Keeper Joshua Strout, his wife, son and volunteers used a ladder as a gangplank from the ledge to shore; the captain, his wife, two mates and nine crew reached safety.",
+        "sourceUrl": "https://portlandheadlight.com/about-us/",
+        "sourceLabel": "Portland Head Light museum — station history",
+        "sourceClass": "primary"
+      }
+    ]
+  },
+  {
+    "id": "me-whaleback-light",
+    "facts": [
+      {
+        "label": "A blanket for a distress signal",
+        "value": "An 1886 winter gale broke a window and flooded Whaleback’s living quarters; keeper Leander White displayed a blanket as a distress signal.",
+        "sourceUrl": "https://lighthousefoundation.org/2017/10/lighthouse-keepers-leander-white-and-henry-m-cuskley-honored/",
+        "sourceLabel": "American Lighthouse Foundation — Leander White biography",
+        "sourceClass": "primary"
+      },
+      {
+        "label": "Rescuers needed a rescue",
+        "value": "Two Kittery residents reached White days later, but their small boat struggled in the remaining high seas and a steamer towed them to safety.",
+        "sourceUrl": "https://lighthousefoundation.org/2017/10/lighthouse-keepers-leander-white-and-henry-m-cuskley-honored/",
+        "sourceLabel": "American Lighthouse Foundation — Leander White biography",
+        "sourceClass": "primary"
+      }
+    ]
+  },
+  {
+    "id": "mi-au-sable-light",
+    "facts": [
+      {
+        "label": "Foundation engineering",
+        "value": "Au Sable’s tower reaches 23 feet below ground to anchor itself in bedrock, a less visible counterpart to the lighthouse above Lake Superior.",
+        "sourceUrl": "https://www.nps.gov/piro/learn/historyculture/ausablelightstation.htm",
+        "sourceLabel": "National Park Service — Au Sable Light Station",
+        "sourceClass": "primary"
+      },
+      {
+        "label": "Dangerous setting",
+        "value": "Built in 1873–1874, the station answered a dangerous combination of storms, dense fog and an underwater sandstone reef; keepers and later Coast Guard crews staffed it continuously for 84 years.",
+        "sourceUrl": "https://www.nps.gov/piro/learn/historyculture/ausablelightstation.htm",
+        "sourceLabel": "National Park Service — Au Sable Light Station",
+        "sourceClass": "primary"
+      }
+    ]
+  },
+  {
+    "id": "mi-rock-harbor-light",
+    "facts": [
+      {
+        "label": "Mining fortunes",
+        "value": "Rock Harbor’s lighthouse followed Isle Royale’s copper fortunes: it opened in 1855, went dark in 1859 as mining declined, and was revived in 1874 when interest returned.",
+        "sourceUrl": "https://www.nps.gov/articles/000/rock-harbor-lighthouse.htm",
+        "sourceLabel": "National Park Service — Rock Harbor Lighthouse",
+        "sourceClass": "primary"
+      },
+      {
+        "label": "Final closure",
+        "value": "Another mining downturn and the new Isle Royale Light on Menagerie Island led to its final closure in 1879, leaving a tower with two short working lives rather than one continuous run.",
+        "sourceUrl": "https://www.nps.gov/articles/000/rock-harbor-lighthouse.htm",
+        "sourceLabel": "National Park Service — Rock Harbor Lighthouse",
+        "sourceClass": "primary"
+      }
+    ]
+  },
+  {
+    "id": "mi-south-manitou-island-light",
+    "facts": [
+      {
+        "label": "Keeper family",
+        "value": "South Manitou’s keeper Aaron Sheridan and his wife Julia raised six sons on the island, with Julia appointed the station’s first assistant keeper.",
+        "sourceUrl": "https://www.nps.gov/places/000/south-manitou-lighthouse-complex.htm",
+        "sourceLabel": "National Park Service — South Manitou Lighthouse Complex",
+        "sourceClass": "primary"
+      },
+      {
+        "label": "1878 loss",
+        "value": "In March 1878, the couple and their youngest son Robert drowned when their returning boat capsized; the five surviving children went to live with their grandparents, and descendants placed memorial gravestones on the island in 2006.",
+        "sourceUrl": "https://www.nps.gov/places/000/south-manitou-lighthouse-complex.htm",
+        "sourceLabel": "National Park Service — South Manitou Lighthouse Complex",
+        "sourceClass": "primary"
+      }
+    ]
+  },
+  {
+    "id": "mi-st-helena-island-light",
+    "facts": [
+      {
+        "label": "Hands-on preservation",
+        "value": "St. Helena’s restoration became a long-running classroom for Scouts: individual projects restored the privy, a bedroom, summer kitchen and keeper’s office.",
+        "sourceUrl": "https://www.gllka.org/gllka-chronology",
+        "sourceLabel": "Great Lakes Lighthouse Keepers Association — Chronology",
+        "sourceClass": "primary"
+      },
+      {
+        "label": "Rebuilt buildings",
+        "value": "Troop 4 helped reconstruct the assistant keeper’s dwelling and boathouse, while Girl Scouts and other volunteers also worked on the site—preservation carried out building by building, over many years.",
+        "sourceUrl": "https://www.gllka.org/gllka-chronology",
+        "sourceLabel": "Great Lakes Lighthouse Keepers Association — Chronology",
+        "sourceClass": "primary"
+      }
+    ]
+  },
+  {
+    "id": "mi-tawas-point-light",
+    "facts": [
+      {
+        "label": "Growing shoreline",
+        "value": "At Tawas Point, the shoreline grew away from the lighthouse: accumulating sand left the first 1853 tower more than a mile inland by the 1870s.",
+        "sourceUrl": "https://www.michigan.gov/mhc/museums/tawas",
+        "sourceLabel": "Michigan History Center — Tawas Point Lighthouse",
+        "sourceClass": "primary"
+      },
+      {
+        "label": "Repeated problem",
+        "value": "A replacement built in 1876 faced the same long-term problem, and in 2016 the Coast Guard moved the navigation light to a pole at the point’s end, leaving the historic Fresnel lens in the tower.",
+        "sourceUrl": "https://www.michigan.gov/mhc/museums/tawas",
+        "sourceLabel": "Michigan History Center — Tawas Point Lighthouse",
+        "sourceClass": "primary"
+      }
+    ]
+  },
+  {
+    "id": "mn-split-rock-lighthouse",
+    "facts": [
+      {
+        "label": "Storm origins",
+        "value": "A November 1905 storm damaged 29 ships on Lake Superior, helping spur the campaign that led to Split Rock Lighthouse.",
+        "sourceUrl": "https://www.mnhs.org/splitrock/learn/history",
+        "sourceLabel": "Minnesota Historical Society — History of the Lighthouse",
+        "sourceClass": "primary"
+      },
+      {
+        "label": "Water access",
+        "value": "Completed in 1910, the station could be reached only by water until a highway arrived in 1924; the new road soon turned a remote working light into a popular visitor destination.",
+        "sourceUrl": "https://www.mnhs.org/splitrock/learn/history",
+        "sourceLabel": "Minnesota Historical Society — History of the Lighthouse",
+        "sourceClass": "primary"
+      }
+    ]
+  },
+  {
+    "id": "ms-biloxi-light",
+    "facts": [
+      {
+        "label": "Women keepers",
+        "value": "Biloxi’s lighthouse was tended by several women, including Maria Younghans, who kept the light for more than half a century.",
+        "sourceUrl": "https://biloxi.ms.us/visitor-info/museums/lighthouse/",
+        "sourceLabel": "City of Biloxi — Biloxi Lighthouse",
+        "sourceClass": "primary"
+      },
+      {
+        "label": "Katrina damage",
+        "value": "Its cast-iron exterior survived Hurricane Katrina, but the surge reached a third of the way up the tower and knocked out many of its lining bricks; restoration returned the lighthouse to public tours in 2010.",
+        "sourceUrl": "https://biloxi.ms.us/visitor-info/museums/lighthouse/",
+        "sourceLabel": "City of Biloxi — Biloxi Lighthouse",
+        "sourceClass": "primary"
+      }
+    ]
+  },
+  {
+    "id": "nc-bodie-island-light",
+    "facts": [
+      {
+        "label": "Unexpected hazard",
+        "value": "Soon after Bodie Island’s lighthouse opened in 1872, flocks of geese crashed into its lens; screening around the lantern helped solve the problem.",
+        "sourceUrl": "https://www.nps.gov/caha/planyourvisit/bils.htm",
+        "sourceLabel": "National Park Service — Bodie Island Light Station",
+        "sourceClass": "primary"
+      },
+      {
+        "label": "Keeper family life",
+        "value": "Isolation proved harder to fix: with the nearest school in Manteo accessible only by boat, keepers’ wives and children lived away from the station for much of the year until school buses could reach the island.",
+        "sourceUrl": "https://www.nps.gov/caha/planyourvisit/bils.htm",
+        "sourceLabel": "National Park Service — Bodie Island Light Station",
+        "sourceClass": "primary"
+      }
+    ]
+  },
+  {
+    "id": "nc-cape-hatteras-light",
+    "facts": [
+      {
+        "label": "1999 relocation",
+        "value": "Cape Hatteras Lighthouse traveled 2,900 feet over 23 days in 1999 as engineers moved it away from an eroding shoreline.",
+        "sourceUrl": "https://www.nps.gov/caha/planyourvisit/chls.htm",
+        "sourceLabel": "National Park Service — Cape Hatteras Light Station",
+        "sourceClass": "primary"
+      },
+      {
+        "label": "Whole station moved",
+        "value": "The keepers’ homes, oil house and cisterns moved too, preserving their historic arrangement at the new site; erosion had already forced the lighthouse out of service in 1935 before its beacon returned in 1950.",
+        "sourceUrl": "https://www.nps.gov/caha/planyourvisit/chls.htm",
+        "sourceLabel": "National Park Service — Cape Hatteras Light Station",
+        "sourceClass": "primary"
+      }
+    ]
+  },
+  {
+    "id": "nc-cape-lookout-light",
+    "facts": [
+      {
+        "label": "Daymark history",
+        "value": "Cape Lookout’s famous diamonds were a later addition: the 1859 lighthouse began as plain red brick and received its black-and-white pattern in 1873.",
+        "sourceUrl": "https://www.nps.gov/calo/learn/historyculture/1859lh.htm",
+        "sourceLabel": "National Park Service — 1859 Lighthouse",
+        "sourceClass": "primary"
+      },
+      {
+        "label": "Civil War damage",
+        "value": "During the Civil War its light was extinguished to hinder Union navigation, and a Confederate raid damaged the iron stairs; the staircase and original lens were back in place after repairs in 1867.",
+        "sourceUrl": "https://www.nps.gov/calo/learn/historyculture/1859lh.htm",
+        "sourceLabel": "National Park Service — 1859 Lighthouse",
+        "sourceClass": "primary"
+      }
+    ]
+  },
+  {
+    "id": "nc-ocracoke-light",
+    "facts": [
+      {
+        "label": "Community refuge",
+        "value": "Ocracoke’s light station also served its neighbors during hurricanes: residents sometimes reached the keepers’ home by boat along flooded roads to shelter on its higher ground.",
+        "sourceUrl": "https://www.nps.gov/caha/planyourvisit/ols.htm",
+        "sourceLabel": "National Park Service — Ocracoke Light Station",
+        "sourceClass": "primary"
+      },
+      {
+        "label": "Life ashore",
+        "value": "Between storms, keeper families gardened, raised livestock and joined village life; a traveling Lighthouse Service library brought boxes of books that circulated between stations every six months.",
+        "sourceUrl": "https://www.nps.gov/caha/planyourvisit/ols.htm",
+        "sourceLabel": "National Park Service — Ocracoke Light Station",
+        "sourceClass": "primary"
+      }
+    ]
+  },
+  {
+    "id": "nj-absecon-light",
+    "facts": [
+      {
+        "label": "A restoration lost to fire",
+        "value": "On July 6, 1998 the reconstructed keeper’s house burned just weeks before completion; the tower escaped substantial damage.",
+        "sourceUrl": "https://abseconlighthouse.org/about/",
+        "sourceLabel": "Absecon Lighthouse — official station history",
+        "sourceClass": "primary"
+      },
+      {
+        "label": "Rebuilding again",
+        "value": "The tower opened to visitors in 1999 and the rebuilt keeper’s house opened in October 2001.",
+        "sourceUrl": "https://abseconlighthouse.org/about/",
+        "sourceLabel": "Absecon Lighthouse — official station history",
+        "sourceClass": "primary"
+      }
+    ]
+  },
+  {
+    "id": "nj-barnegat-lighthouse",
+    "facts": [
+      {
+        "label": "Before Gettysburg",
+        "value": "Lt. George G. Meade designed Barnegat Lighthouse before commanding Union forces at the Battle of Gettysburg.",
+        "sourceUrl": "https://www.nj.gov/dca/njht/funded/sitedetails/barnegatlighthouse.shtml",
+        "sourceLabel": "New Jersey Historic Trust — Barnegat Lighthouse",
+        "sourceClass": "primary"
+      },
+      {
+        "label": "A coastal navigation partnership",
+        "value": "Barnegat and Fire Island Light to the north helped navigators pinpoint the entrance to New York Harbor.",
+        "sourceUrl": "https://www.nj.gov/dca/njht/funded/sitedetails/barnegatlighthouse.shtml",
+        "sourceLabel": "New Jersey Historic Trust — Barnegat Lighthouse",
+        "sourceClass": "primary"
+      }
+    ]
+  },
+  {
+    "id": "nj-cape-may-light",
+    "facts": [
+      {
+        "label": "Two predecessors lost to the shore",
+        "value": "The present lighthouse dates to 1859; the sites of its 1823 and 1847 predecessors are now underwater because of erosion.",
+        "sourceUrl": "https://capemaymac.org/experience/cape-may-lighthouse/",
+        "sourceLabel": "Cape May MAC — lighthouse history and construction",
+        "sourceClass": "primary"
+      },
+      {
+        "label": "A tower inside a tower",
+        "value": "The lighthouse has two separate brick walls: a conical outer wall and a cylindrical inner wall supporting the spiral staircase.",
+        "sourceUrl": "https://capemaymac.org/experience/cape-may-lighthouse/",
+        "sourceLabel": "Cape May MAC — lighthouse history and construction",
+        "sourceClass": "primary"
+      }
+    ]
+  },
+  {
+    "id": "nj-sandy-hook-light",
+    "facts": [
+      {
+        "label": "Lottery-funded beginnings",
+        "value": "Forty-three New York merchants petitioned for the lighthouse; an authorized lottery funded the land and tower, completed in 1764.",
+        "sourceUrl": "https://www.nps.gov/places/000/sandy-hook-lighthouse.htm",
+        "sourceLabel": "National Park Service — Sandy Hook Lighthouse",
+        "sourceClass": "primary"
+      },
+      {
+        "label": "A lens that would not fit",
+        "value": "A Fresnel lens shipped for Sandy Hook in 1840 proved too large for its lantern house and was transferred to Navesink Twin Lights.",
+        "sourceUrl": "https://www.nps.gov/places/000/sandy-hook-lighthouse.htm",
+        "sourceLabel": "National Park Service — Sandy Hook Lighthouse",
+        "sourceClass": "primary"
+      }
+    ]
+  },
+  {
+    "id": "ny-execution-rocks-light",
+    "facts": [
+      {
+        "label": "Trapped by winter ice",
+        "value": "In February 1905, ice floes prevented keeper Willis Green from obtaining provisions for his family; one attempted crossing trapped his boat between floes.",
+        "sourceUrl": "https://www.lighthousefriends.com/light.asp?ID=749",
+        "sourceLabel": "Lighthouse Friends — Execution Rocks history",
+        "sourceClass": "secondary"
+      },
+      {
+        "label": "A dangerous supply run",
+        "value": "After his family went without food for over a day, Green rowed ashore in two hours and refused offers to accompany him back through the ice; villagers cheered his safe arrival.",
+        "sourceUrl": "https://www.lighthousefriends.com/light.asp?ID=749",
+        "sourceLabel": "Lighthouse Friends — Execution Rocks history",
+        "sourceClass": "secondary"
+      }
+    ]
+  },
+  {
+    "id": "ny-fire-island-light",
+    "facts": [
+      {
+        "label": "A clockwork beacon",
+        "value": "The 1858 lighthouse used a sixteen-foot-tall glass-and-brass first-order Fresnel apparatus rotated by clockwork with a flying pendulum.",
+        "sourceUrl": "https://www.nps.gov/fiis/learn/historyculture/fire-island-lighthouse-history.htm",
+        "sourceLabel": "National Park Service — Fire Island lighthouse history",
+        "sourceClass": "primary"
+      },
+      {
+        "label": "The stripes came later",
+        "value": "The 1858 tower was originally cream-colored; its black-and-white daymarks were added in 1892.",
+        "sourceUrl": "https://www.nps.gov/fiis/learn/historyculture/fire-island-lighthouse-history.htm",
+        "sourceLabel": "National Park Service — Fire Island lighthouse history",
+        "sourceClass": "primary"
+      }
+    ]
+  },
+  {
+    "id": "ny-montauk-point-light",
+    "facts": [
+      {
+        "label": "A handmade defense against erosion",
+        "value": "Giorgina Reid spent about fifteen years helping stave off erosion of the lighthouse bluff with terraces built from reeds, sand and wooden boards.",
+        "sourceUrl": "https://montauklibrary.org/throwback-thursday-one-woman-in-history/",
+        "sourceLabel": "Montauk Library — Giorgina Reid archival history",
+        "sourceClass": "primary"
+      },
+      {
+        "label": "Recognition for preservation",
+        "value": "Reid was honored at the lighthouse on September 12, 1986 with a proclamation and a letter of commendation signed by President Ronald Reagan for her erosion-control work.",
+        "sourceUrl": "https://montauklibrary.org/throwback-thursday-one-woman-in-history/",
+        "sourceLabel": "Montauk Library — Giorgina Reid archival history",
+        "sourceClass": "primary"
+      }
+    ]
+  },
+  {
+    "id": "ny-race-rock-light",
+    "facts": [
+      {
+        "label": "Six years below the tower",
+        "value": "The foundation took six years to build, while the lighthouse structure took nine months.",
+        "sourceUrl": "https://mcguirelibrary1998.omeka.net/exhibits/show/keeper-of-the-lights--the-mari/a-triumph-of-design-and-constr",
+        "sourceLabel": "New London Maritime Society — Race Rock engineering history",
+        "sourceClass": "primary"
+      },
+      {
+        "label": "Engineering connections",
+        "value": "Engineer F. Hopkinson Smith later supervised construction of the Statue of Liberty pedestal; diver and construction foreman T. A. Scott had worked on Brooklyn Bridge tower footings.",
+        "sourceUrl": "https://mcguirelibrary1998.omeka.net/exhibits/show/keeper-of-the-lights--the-mari/a-triumph-of-design-and-constr",
+        "sourceLabel": "New London Maritime Society — Race Rock engineering history",
+        "sourceClass": "primary"
+      }
+    ]
+  },
+  {
+    "id": "oh-marblehead-light",
+    "facts": [
+      {
+        "label": "Early keeper work",
+        "value": "Marblehead’s first keeper, Revolutionary War veteran Benajah Wolcott, lit thirteen whale-oil lamps each night and kept records of passing ships and weather.",
+        "sourceUrl": "https://www.marbleheadohio.org/community/page/marblehead-lighthouse",
+        "sourceLabel": "Village of Marblehead — Marblehead Lighthouse",
+        "sourceClass": "primary"
+      },
+      {
+        "label": "Rachel Wolcott",
+        "value": "When he died in 1832, his wife Rachel took over those duties, including organizing rescues—a reminder that tending the light meant watching the lake and responding when sailors were in trouble.",
+        "sourceUrl": "https://www.marbleheadohio.org/community/page/marblehead-lighthouse",
+        "sourceLabel": "Village of Marblehead — Marblehead Lighthouse",
+        "sourceClass": "primary"
+      }
+    ]
+  },
+  {
+    "id": "or-cape-blanco-light",
+    "facts": [
+      {
+        "label": "A lifetime at one light",
+        "value": "Cape Blanco’s keepers James Langlois and James Hughes spent their entire lighthouse careers at this one station—42 years and 37 years respectively. For Hughes, the post was especially close to home: his parents’ 2,000-acre ranch bordered the light station, linking the family’s farming life with decades of tending the lamp and polishing its lens.",
+        "sourceUrl": "https://www.capeblancoheritagesociety.com/lightstation-history.html",
+        "sourceLabel": "Cape Blanco Heritage Society — Light Station History",
+        "sourceClass": "primary"
+      }
+    ]
+  },
+  {
+    "id": "or-cape-meares-light",
+    "facts": [
+      {
+        "label": "A lens hauled up the cliff",
+        "value": "Cape Meares’s lens traveled from Paris around Cape Horn before facing the final climb to its Oregon home. Workers used a wooden crane made from local timber to haul it 217 feet up the cliff; its red-covered bull’s-eye panels then gave the lighthouse a recognizable red flash amid its white light.",
+        "sourceUrl": "https://stateparks.oregon.gov/index.cfm?do=park.profile&parkId=131",
+        "sourceLabel": "Oregon State Parks — Cape Meares State Scenic Viewpoint",
+        "sourceClass": "primary"
+      }
+    ]
+  },
+  {
+    "id": "or-coquille-river-light",
+    "facts": [
+      {
+        "label": "The lighthouse that stayed put",
+        "value": "Coquille River’s lighthouse nearly crossed the river: officials proposed moving it to the south side, and Congress funded the plan in 1916. Shippers accustomed to its existing position successfully opposed the move, leaving keepers to continue rowing across to Bandon for supplies while their children attended school in town.",
+        "sourceUrl": "https://www.oregonencyclopedia.org/articles/coquille-river-lighthouse/",
+        "sourceLabel": "Oregon Historical Society — Coquille River Lighthouse",
+        "sourceClass": "secondary"
+      }
+    ]
+  },
+  {
+    "id": "or-heceta-head-light",
+    "facts": [
+      {
+        "label": "A classroom in the keeper’s house",
+        "value": "Heceta Head’s keeper’s house spent a quarter-century as a college outpost: from 1970 to 1995, Lane Community College leased it as a satellite campus. Two dining rooms were opened into a classroom, with bunk beds upstairs for students; in 1995 the house began its next chapter as a bed-and-breakfast.",
+        "sourceUrl": "https://www.hecetalighthouse.com/history",
+        "sourceLabel": "Heceta Head Keeper’s House — Lighthouse History",
+        "sourceClass": "primary"
+      }
+    ]
+  },
+  {
+    "id": "or-tillamook-rock-light",
+    "facts": [
+      {
+        "label": "A radio improvised in a storm",
+        "value": "During an October 1934 storm, waves broke Tillamook Rock’s windows and telephone cable, leaving the keepers cut off from shore. Assistant keeper Henry Jenkins assembled a shortwave radio from materials at the station, reaching mainland amateurs who relayed messages while the crew worked to restore the light.",
+        "sourceUrl": "https://www.ohs.org/blog/saga-of-the-tillamook-rock-lighthouse.cfm",
+        "sourceLabel": "Oregon Historical Society — Tillamook Rock Station Records",
+        "sourceClass": "primary"
+      }
+    ]
+  },
+  {
+    "id": "or-umpqua-river-light",
+    "facts": [
+      {
+        "label": "Saving the old lens",
+        "value": "Umpqua’s first lighthouse was lost after storms undermined its foundations; workers dismantling the lantern room had to flee as the tower began to fall. The replacement’s historic lens nearly lost its working role in the 1980s, until local protests persuaded the Coast Guard to repair its rotating mechanism and return it to service in 1985.",
+        "sourceUrl": "https://www.oregonencyclopedia.org/articles/umpqua_river_lighthouse/",
+        "sourceLabel": "Oregon Historical Society — Umpqua River Lighthouse",
+        "sourceClass": "secondary"
+      }
+    ]
+  },
+  {
+    "id": "or-yaquina-bay-light",
+    "facts": [
+      {
+        "label": "A short career and a second purpose",
+        "value": "Yaquina Bay’s lighthouse had a remarkably short first career: built in 1871, it was discontinued in 1874 in favor of Yaquina Head to the north. The building later served as a lifeboat station, and the Civilian Conservation Corps helped turn its bluff-top surroundings into a park in the 1930s.",
+        "sourceUrl": "https://stateparks.oregon.gov/index.cfm?do=park.profile&parkId=148",
+        "sourceLabel": "Oregon State Parks — Yaquina Bay State Recreation Site",
+        "sourceClass": "primary"
+      }
+    ]
+  },
+  {
+    "id": "or-yaquina-head-light",
+    "facts": [
+      {
+        "label": "A keeper’s daughter helps save the headland",
+        "value": "A keeper’s daughter helped protect Yaquina Head from quarrying: Marguerite Canterbury, born at the station, returned as an adult and was alarmed by the damage. She joined Penelope Hull and other advocates in writing letters and giving testimony; their campaign helped secure the headland’s designation as an Outstanding Natural Area in 1980.",
+        "sourceUrl": "https://www.blm.gov/blog/2022-03-22/race-save-yaquina-head",
+        "sourceLabel": "Bureau of Land Management — The Race to Save Yaquina Head",
+        "sourceClass": "primary"
+      }
+    ]
+  },
+  {
+    "id": "pr-mona-island-light",
+    "facts": [
+      {
+        "label": "Unusual transport",
+        "value": "Reaching Mona Island’s lighthouse once meant riding a small tramcar under a canopy improvised by its keepers; a 1925 inspection account describes the car being pulled by a mule named Macario.",
+        "sourceUrl": "https://www.lighthousefriends.com/light.asp?ID=1143",
+        "sourceLabel": "Lighthouse Friends — Isla de Mona Lighthouse",
+        "sourceClass": "secondary"
+      },
+      {
+        "label": "School separation",
+        "value": "The same account records a difficult family tradeoff: keepers with school-age children left their families on Puerto Rico during term time, while maintaining the isolated station and its troublesome access route.",
+        "sourceUrl": "https://www.lighthousefriends.com/light.asp?ID=1143",
+        "sourceLabel": "Lighthouse Friends — Isla de Mona Lighthouse",
+        "sourceClass": "secondary"
+      }
+    ]
+  },
+  {
+    "id": "pr-port-san-juan-light",
+    "facts": [
+      {
+        "label": "War and replacement",
+        "value": "El Morro’s lighthouse was disabled during the U.S. bombardment of San Juan in 1898, then replaced by a concrete tower that developed a serious crack.",
+        "sourceUrl": "https://www.lighthousefriends.com/light.asp?ID=1165",
+        "sourceLabel": "Lighthouse Friends — Puerto San Juan (El Morro) Lighthouse",
+        "sourceClass": "secondary"
+      },
+      {
+        "label": "Fortress-inspired tower",
+        "value": "The present 1908 brick lighthouse answered with a design that echoes the fortress below: a battlement-like parapet and small ornamental guardhouses at its corners surround the lantern.",
+        "sourceUrl": "https://www.lighthousefriends.com/light.asp?ID=1165",
+        "sourceLabel": "Lighthouse Friends — Puerto San Juan (El Morro) Lighthouse",
+        "sourceClass": "secondary"
+      }
+    ]
+  },
+  {
+    "id": "ri-block-island-southeast-light",
+    "facts": [
+      {
+        "label": "Erosion and relocation",
+        "value": "By 1983 only 80 feet of ground remained between the lighthouse and the cliff; the entire building was moved inland in August 1993.",
+        "sourceUrl": "https://southeastlighthouse.org/history/",
+        "sourceLabel": "Southeast Lighthouse Foundation — station history",
+        "sourceClass": "primary"
+      },
+      {
+        "label": "Saving the station",
+        "value": "The rescue campaign lasted ten years and required three Acts of Congress; the lighthouse was relit on August 27, 1994.",
+        "sourceUrl": "https://southeastlighthouse.org/history/",
+        "sourceLabel": "Southeast Lighthouse Foundation — station history",
+        "sourceClass": "primary"
+      }
+    ]
+  },
+  {
+    "id": "ri-ida-lewis-rock-light",
+    "facts": [
+      {
+        "label": "1869 rescue",
+        "value": "Ida Lewis and her younger brother Hosea rowed through a storm in 1869 and rescued two soldiers clinging to an overturned boat, returning them to the lighthouse.",
+        "sourceUrl": "https://newporthistory.org/remembering-ida-lewis/",
+        "sourceLabel": "Newport Historical Society — Ida Lewis collections",
+        "sourceClass": "primary"
+      },
+      {
+        "label": "A town’s thank-you",
+        "value": "Newport citizens presented Lewis with the rowboat Rescue on July 4, 1869; it was later donated to the Newport Historical Society.",
+        "sourceUrl": "https://newporthistory.org/remembering-ida-lewis/",
+        "sourceLabel": "Newport Historical Society — Ida Lewis collections",
+        "sourceClass": "primary"
+      }
+    ]
+  },
+  {
+    "id": "sc-charleston-light",
+    "facts": [
+      {
+        "label": "Modern design",
+        "value": "Charleston Light brought modern architecture to the shoreline in 1962: its triangular steel frame wears aluminum siding, and its interior includes a service elevator.",
+        "sourceUrl": "https://www.nps.gov/fosu/learn/historyculture/charleston-light.htm",
+        "sourceLabel": "National Park Service — Charleston Light",
+        "sourceClass": "primary"
+      },
+      {
+        "label": "Changed colors",
+        "value": "The original red-orange and white paint drew complaints from island residents and was replaced with black and white; even with the elevator, reaching the lantern still requires a 35-foot ladder climb.",
+        "sourceUrl": "https://www.nps.gov/fosu/learn/historyculture/charleston-light.htm",
+        "sourceLabel": "National Park Service — Charleston Light",
+        "sourceClass": "primary"
+      }
+    ]
+  },
+  {
+    "id": "sc-hunting-island-light",
+    "facts": [
+      {
+        "label": "Movable construction",
+        "value": "Hunting Island’s cast-iron lighthouse was designed to come apart and move when the shoreline changed.",
+        "sourceUrl": "https://southcarolinaparks.com/hunting-island/lighthouse",
+        "sourceLabel": "South Carolina State Parks — Hunting Island Lighthouse",
+        "sourceClass": "primary"
+      },
+      {
+        "label": "1889 relocation",
+        "value": "That foresight mattered in 1889, when beach erosion forced the tower 1.3 miles inland; this was already a replacement, rebuilt in 1875 after the earlier lighthouse was destroyed during the Civil War.",
+        "sourceUrl": "https://southcarolinaparks.com/hunting-island/lighthouse",
+        "sourceLabel": "South Carolina State Parks — Hunting Island Lighthouse",
+        "sourceClass": "primary"
+      }
+    ]
+  },
+  {
+    "id": "tx-halfmoon-reef-light",
+    "facts": [
+      {
+        "label": "From reef to shore",
+        "value": "After a 1942 hurricane damaged Halfmoon Reef Lighthouse, the Coast Guard sold the structure to businessmen who planned to use it as night-watchmen’s quarters at a dredging operation.",
+        "sourceUrl": "https://texasmaritimemuseum.org/halfmoon-reef-lighthouse/",
+        "sourceLabel": "Texas Maritime Museum — Halfmoon Reef Lighthouse",
+        "sourceClass": "secondary"
+      },
+      {
+        "label": "Museum rescue",
+        "value": "It later became a preservation project: donated to the county historical commission in 1978, it was restored through an Eagle Scout project and eventually placed on new piers in Port Lavaca.",
+        "sourceUrl": "https://texasmaritimemuseum.org/halfmoon-reef-lighthouse/",
+        "sourceLabel": "Texas Maritime Museum — Halfmoon Reef Lighthouse",
+        "sourceClass": "secondary"
+      }
+    ]
+  },
+  {
+    "id": "tx-point-bolivar-light",
+    "facts": [
+      {
+        "label": "Hurricane refuge",
+        "value": "Bolivar Point Lighthouse sheltered 125 people during the Galveston hurricane of 1900, including travelers who escaped a train surrounded by rising water.",
+        "sourceUrl": "https://bolivarpointlighthouse.org/history/",
+        "sourceLabel": "Bolivar Point Lighthouse Foundation — History",
+        "sourceClass": "primary"
+      },
+      {
+        "label": "Hand-turned lens",
+        "value": "When another hurricane struck in 1915, the tower sheltered 61 people; shaking stopped the lens machinery, so the keeper rotated it by hand until the storm washed away the oil supply.",
+        "sourceUrl": "https://bolivarpointlighthouse.org/history/",
+        "sourceLabel": "Bolivar Point Lighthouse Foundation — History",
+        "sourceClass": "primary"
+      }
+    ]
+  },
+  {
+    "id": "tx-point-isabel-light",
+    "facts": [
+      {
+        "label": "Civil War lookout",
+        "value": "Both Confederate and Union forces used Port Isabel Lighthouse as an observation post during the Civil War.",
+        "sourceUrl": "https://thc.texas.gov/state-historic-sites/port-isabel-lighthouse/port-isabel-lighthouse-history",
+        "sourceLabel": "Texas Historical Commission — Port Isabel Lighthouse History",
+        "sourceClass": "primary"
+      },
+      {
+        "label": "Return of a lens",
+        "value": "Long after its navigation service ended in 1905, a reproduction third-order Fresnel lens was installed in 2022, returning a soft display glow to a tower that had spent more than a century without a working beacon.",
+        "sourceUrl": "https://thc.texas.gov/state-historic-sites/port-isabel-lighthouse/port-isabel-lighthouse-history",
+        "sourceLabel": "Texas Historical Commission — Port Isabel Lighthouse History",
+        "sourceClass": "primary"
+      }
+    ]
+  },
+  {
+    "id": "va-assateague-light",
+    "facts": [
+      {
+        "label": "A lighthouse village",
+        "value": "Assateague keepers married local residents and were part of a village that by 1890 had a general store and a school also used as a church.",
+        "sourceUrl": "https://www.lighthousedigest.com/digest/StoryPage.cfm?StoryKey=3301",
+        "sourceLabel": "Lighthouse Digest — Assateague Lighthouse and its island",
+        "sourceClass": "secondary"
+      },
+      {
+        "label": "A church moved by water",
+        "value": "A separate church was built in 1919; after it closed in 1921 it was floated to Chincoteague.",
+        "sourceUrl": "https://www.lighthousedigest.com/digest/StoryPage.cfm?StoryKey=3301",
+        "sourceLabel": "Lighthouse Digest — Assateague Lighthouse and its island",
+        "sourceClass": "secondary"
+      }
+    ]
+  },
+  {
+    "id": "va-cape-henry-light-old",
+    "facts": [
+      {
+        "label": "Civil War damage and repair",
+        "value": "Confederate forces damaged the original Cape Henry lighthouse in the Civil War; Union forces repaired it to guide navigation into Chesapeake Bay.",
+        "sourceUrl": "https://www.nps.gov/came/cape-henry-lighthouses.htm",
+        "sourceLabel": "National Park Service — Cape Henry lighthouses",
+        "sourceClass": "primary"
+      },
+      {
+        "label": "A second career without a lamp",
+        "value": "After a replacement was built in 1881 over stability concerns, the old lighthouse remained as a daylight marker for triangulation.",
+        "sourceUrl": "https://www.nps.gov/came/cape-henry-lighthouses.htm",
+        "sourceLabel": "National Park Service — Cape Henry lighthouses",
+        "sourceClass": "primary"
+      }
+    ]
+  },
+  {
+    "id": "wa-admiralty-head-light",
+    "facts": [
+      {
+        "label": "Students rebuild the lantern",
+        "value": "Admiralty Head’s replacement lantern house came from an unusual workshop: students at three Whidbey Island high schools spent two years building it with help from boatbuilders and other mentors. A crane lifted their historically accurate creation onto the lighthouse in August 2012, turning a school project into part of the landmark itself.",
+        "sourceUrl": "https://www.whidbeynewstimes.com/2012/08/24/student-built-lantern-house-put-into-place-at-admiralty-head-lighthouse/",
+        "sourceLabel": "Whidbey News-Times — Rebecca Olson, Student-Built Lantern House",
+        "sourceClass": "secondary"
+      }
+    ]
+  },
+  {
+    "id": "wa-cape-disappointment-light",
+    "facts": [
+      {
+        "label": "The wreck before the lighthouse",
+        "value": "Cape Disappointment’s lighthouse project suffered the very danger it was meant to reduce: the bark Oriole wrecked in 1853 while arriving with construction materials. A second shipment allowed building to proceed in 1854, but the tower still waited two more years for its lens before the keeper could light it in October 1856.",
+        "sourceUrl": "https://www.historylink.org/File/5622",
+        "sourceLabel": "HistoryLink — William S. Hanable, Lighthouses on Cape Disappointment",
+        "sourceClass": "secondary"
+      }
+    ]
+  },
+  {
+    "id": "wa-grays-harbor-light",
+    "facts": [
+      {
+        "label": "A shoreline that moved away",
+        "value": "Grays Harbor’s lighthouse was built about 400 feet from the water’s edge, but accumulating sand pushed the beach outward until the tower stood roughly 3,000 feet inland by the late 1960s. Nearby, the opposite happened to a replacement fog-signal building: erosion took away its ground until it fell into the sea.",
+        "sourceUrl": "https://www.historylink.org/File/5714",
+        "sourceLabel": "HistoryLink — William S. Hanable, Grays Harbor Lighthouse",
+        "sourceClass": "secondary"
+      }
+    ]
+  },
+  {
+    "id": "wa-lime-kiln-light",
+    "facts": [
+      {
+        "label": "Listening for whales",
+        "value": "Lime Kiln’s lighthouse is also a listening post for whales: researchers use a station inside the building to monitor underwater microphones offshore. The recordings capture orca calls, echolocation and background noise in the Salish Sea, and a live stream lets listeners hear the same underwater world from far away.",
+        "sourceUrl": "https://whalemuseum.org/pages/seasound-remote-sensing-network",
+        "sourceLabel": "The Whale Museum — SeaSound at Lime Kiln Lighthouse",
+        "sourceClass": "primary"
+      }
+    ]
+  },
+  {
+    "id": "wa-mukilteo-light",
+    "facts": [
+      {
+        "label": "Keeping the light in the family",
+        "value": "Mukilteo’s first keeper, Peter Christiansen, arrived after years in the merchant marine, the Navy and the lighthouse service at Turn Point. He tended Mukilteo from its 1906 opening until his death in 1925; his wife Theodine then kept the station operating until the next keeper arrived.",
+        "sourceUrl": "https://mukilteohistorical.org/2020/05/04/muk-revisited-light-keepers/",
+        "sourceLabel": "Mukilteo Historical Society — Our First Light Keepers",
+        "sourceClass": "primary"
+      }
+    ]
+  },
+  {
+    "id": "wa-new-dungeness-light",
+    "facts": [
+      {
+        "label": "A shorter tower with a borrowed top",
+        "value": "New Dungeness became shorter in 1927 when deteriorating brickwork forced crews to remove the tower’s upper section, using chutes to keep falling debris from damaging the attached dwelling. A lantern salvaged from the abandoned Admiralty Head lighthouse topped the shortened tower, paired with a smaller, rotating Fresnel lens.",
+        "sourceUrl": "https://newdungenesslighthouse.com/the-lighthouse/",
+        "sourceLabel": "New Dungeness Light Station Association — Pictorial History",
+        "sourceClass": "primary"
+      }
+    ]
+  },
+  {
+    "id": "wa-north-head-light",
+    "facts": [
+      {
+        "label": "A duck in the lantern room",
+        "value": "North Head filled a blind spot for ships approaching the Columbia River from the north, where Cape Disappointment’s light could be difficult to see. Not every hazard came from the sea: in April 1932, a wild duck crashed through a lantern-room storm pane and slightly damaged the lens.",
+        "sourceUrl": "https://www.lighthousefriends.com/light.asp?ID=116&lang=en",
+        "sourceLabel": "Lighthouse Friends — North Head Lighthouse",
+        "sourceClass": "secondary"
+      }
+    ]
+  },
+  {
+    "id": "wi-devils-island-light",
+    "facts": [
+      {
+        "label": "Wind problem",
+        "value": "Devils Island’s tower once shook so badly in high winds that its keepers reported the motion could put out the lamp.",
+        "sourceUrl": "https://www.nps.gov/apis/learn/historyculture/devils-light.htm",
+        "sourceLabel": "National Park Service — Devils Island Light",
+        "sourceClass": "primary"
+      },
+      {
+        "label": "Structural remedy",
+        "value": "External braces added in 1914 steadied the tower and created its distinctive outline; the station later became the last staffed lighthouse in the Apostle Islands, remaining manned until 1978.",
+        "sourceUrl": "https://www.nps.gov/apis/learn/historyculture/devils-light.htm",
+        "sourceLabel": "National Park Service — Devils Island Light",
+        "sourceClass": "primary"
+      }
+    ]
+  },
+  {
+    "id": "wi-north-point-light",
+    "facts": [
+      {
+        "label": "Unexpected keeper",
+        "value": "Georgia Stebbins came to North Point in 1873 after a tuberculosis diagnosis, seeking better air while staying with her parents at the lighthouse.",
+        "sourceUrl": "https://northpointlighthouse.org/learn/keepers/georgia-stebbins/",
+        "sourceLabel": "North Point Lighthouse and Museum — Georgia Stebbins",
+        "sourceClass": "primary"
+      },
+      {
+        "label": "Long service",
+        "value": "Finding them in poor health, she gradually took over her father’s duties and became official keeper in 1881; she served until 1907, tending the lamp, winding the lens mechanism and keeping the station’s daily log.",
+        "sourceUrl": "https://northpointlighthouse.org/learn/keepers/georgia-stebbins/",
+        "sourceLabel": "North Point Lighthouse and Museum — Georgia Stebbins",
+        "sourceClass": "primary"
+      }
+    ]
+  },
+  {
+    "id": "wi-outer-island-light",
+    "facts": [
+      {
+        "label": "Storm damage",
+        "value": "Lake Superior battered Outer Island’s station from the start: its dock washed away during the first year of operation, and collapsing clay banks destroyed the fog-signal building below the bluff.",
+        "sourceUrl": "https://www.nps.gov/apis/learn/historyculture/outer-light.htm",
+        "sourceLabel": "National Park Service — Outer Island Light",
+        "sourceClass": "primary"
+      },
+      {
+        "label": "Fog-signal relocation",
+        "value": "A replacement was built on the clifftop in 1875, but moving uphill made it harder for the keepers to supply water to the steam-powered whistle.",
+        "sourceUrl": "https://www.nps.gov/apis/learn/historyculture/outer-light.htm",
+        "sourceLabel": "National Park Service — Outer Island Light",
+        "sourceClass": "primary"
+      }
+    ]
+  },
+  {
+    "id": "wi-raspberry-island-light",
+    "facts": [
+      {
+        "label": "Keeper shipwreck",
+        "value": "In 1887, Raspberry Island keeper Francis Jacker was blown off course while moving the station boat before a storm and spent nearly three days stranded on Oak Island.",
+        "sourceUrl": "https://www.nps.gov/apis/learn/historyculture/raspberry-light.htm",
+        "sourceLabel": "National Park Service — Raspberry Island Light",
+        "sourceClass": "primary"
+      },
+      {
+        "label": "Rescue and staffing",
+        "value": "His wife discovered him missing and organized a search; the incident helped persuade officials to provide an assistant, and Jacker hired his son Edward.",
+        "sourceUrl": "https://www.nps.gov/apis/learn/historyculture/raspberry-light.htm",
+        "sourceLabel": "National Park Service — Raspberry Island Light",
+        "sourceClass": "primary"
+      }
+    ]
+  },
+  {
+    "id": "wi-sand-island-light",
+    "facts": [
+      {
+        "label": "Keeper rescue",
+        "value": "Sand Island keeper Charles Lederle rowed several miles onto Lake Superior in 1885 to rescue the entire crew of the burning steamer Prussia.",
+        "sourceUrl": "https://www.nps.gov/apis/learn/historyculture/sand-light.htm",
+        "sourceLabel": "National Park Service — Sand Island Light",
+        "sourceClass": "primary"
+      },
+      {
+        "label": "Local construction",
+        "value": "His home and workplace had been built just four years earlier from sandstone quarried at the lighthouse site, with a tower that changes from a square base to an octagon.",
+        "sourceUrl": "https://www.nps.gov/apis/learn/historyculture/sand-light.htm",
+        "sourceLabel": "National Park Service — Sand Island Light",
+        "sourceClass": "primary"
+      }
+    ]
+  }
+]

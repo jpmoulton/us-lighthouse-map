@@ -41,6 +41,8 @@
 !/data/info/audit-release.json
 !/data/info/summaries.json
 !/data/info/summary-release.json
+!/data/info/story-facts.json
+!/data/info/story-release.json
 !/wordpress/
 /wordpress/*
 !/wordpress/jmoul-map-tracking.js

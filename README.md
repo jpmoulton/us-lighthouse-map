@@ -37,15 +37,17 @@ The built page is also committed at [`deploy/lighthouse-map/index.html`](deploy/
 | `data/info/base-corrections.json` | Reviewed corrections applied to the base inventory |
 | `data/info/profiles.json` | Approved factual details and citations |
 | `data/info/summaries.json` | Short summaries linked to the approved facts |
+| `data/info/story-facts.json` | Additional sourced stories about keepers, rescues, engineering, and preservation |
+| `data/info/story-release.json` | Independent source review bound to the exact additions and rewritten summaries |
 | `data/info/light-appearance.json` | Sourced exceptions for particular light patterns |
 
 ## Data and interpretation
 
-The September 2026 release contains 804 sites and 4,245 approved descriptive facts. It includes historic sites and documented replacements as well as surviving lighthouse towers; it is not an inventory of every buoy, minor aid, or ornamental light.
+The map contains 804 sites. Its original 4,245 descriptive facts are preserved, with 162 separately reviewed story facts added to 100 rewritten lighthouse summaries. These include rescues, wartime damage, unusual construction, and the people who maintained or saved the towers. The inventory includes historic sites and documented replacements as well as surviving lighthouse towers; it is not an inventory of every buoy, minor aid, or ornamental light.
 
 Visibility ranges, coordinates, and operating status are source snapshots. Unknown status is distinct from inactive status. Missing ranges use a labeled 10 nautical mile estimate where a beam is appropriate; documented local lights have no invented range beam. The animation illustrates approximate visibility and is not a navigation aid or a physical lighting simulation. Actual weather, terrain elevation, and navigational sectors are not modeled.
 
-The normal build verifies the included released data against its recorded review hashes. Original research-input hashes are retained as provenance; downloaded source pages, raw research drafts, and the complete review archive are not part of this repository. Building the page does not independently re-research the facts. Per-record citations are available in the data and in the map.
+The normal build verifies the included released data against its recorded review hashes. Story additions are checked against their own source-review manifest before being appended to the original facts. Each rewritten summary retains sentence-level fact references and citations. Original research-input hashes are retained as provenance; downloaded source pages, raw research drafts, and the complete review archive are not part of this repository. Building the page does not independently re-research the facts. Per-record citations are available in the data and in the map.
 
 See [third-party notices and data attribution](THIRD_PARTY_NOTICES.md) for D3, Geist, Natural Earth, and the lighthouse sources.
 

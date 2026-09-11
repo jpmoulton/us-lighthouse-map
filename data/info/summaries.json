@@ -97,64 +97,54 @@
   },
   {
     "id": "ak-cape-st-elias-light",
-    "summary": "First lit in 1916, Cape St. Elias has a square concrete tower set at one corner of its fog-signal building. Automation followed in 1974.",
+    "summary": "Seattle residents proposed a floating substitute for Cape St. Elias: they asked for a lightship after Congress approved the lighthouse, but their request was rejected. When the station opened in 1916, a Signal Corps wireless installation gave its keepers another job—telling people in Katalla that ships were approaching.",
     "summarySources": [
       {
-        "url": "https://en.wikipedia.org/wiki/Cape_St._Elias_Light",
-        "label": "Wikipedia — individual lighthouse article"
+        "url": "https://www.history.uscg.mil/Browse-by-Topic/Assets/Land/All/Article/1911649/cape-st-elias-light/",
+        "label": "U.S. Coast Guard Historian — Cape St. Elias Light"
       }
     ],
     "factIndexes": [
-      0,
-      2,
-      3,
-      4
+      6
     ],
     "sentences": [
       {
-        "text": "First lit in 1916, Cape St. Elias has a square concrete tower set at one corner of its fog-signal building.",
+        "text": "Seattle residents proposed a floating substitute for Cape St. Elias: they asked for a lightship after Congress approved the lighthouse, but their request was rejected.",
         "factIndexes": [
-          0,
-          2,
-          3
+          6
         ]
       },
       {
-        "text": "Automation followed in 1974.",
+        "text": "When the station opened in 1916, a Signal Corps wireless installation gave its keepers another job—telling people in Katalla that ships were approaching.",
         "factIndexes": [
-          4
+          6
         ]
       }
     ]
   },
   {
     "id": "ak-eldred-rock-light",
-    "summary": "Eldred Rock’s wooden lighthouse dates to 1905 and stands in Alaska’s Lynn Canal. The light was automated in 1973.",
+    "summary": "In February 1910, Eldred Rock’s two assistant keepers left by boat for Point Sherman and never made it home. Their damaged boat was found, but keeper Nils Peter Adamson continued searching the waters of Lynn Canal for his colleagues; the museum preserves his grandson’s account of the loss and Adamson’s resignation the following January.",
     "summarySources": [
       {
-        "url": "https://en.wikipedia.org/wiki/Eldred_Rock_Light",
-        "label": "Wikipedia — individual lighthouse article"
+        "url": "https://www.sheldonmuseum.org/vignette/eldred-rock-lighthouse/",
+        "label": "Haines Sheldon Museum — Eldred Rock Lighthouse"
       }
     ],
     "factIndexes": [
-      0,
-      2,
-      3,
-      4
+      5
     ],
     "sentences": [
       {
-        "text": "Eldred Rock’s wooden lighthouse dates to 1905 and stands in Alaska’s Lynn Canal.",
+        "text": "In February 1910, Eldred Rock’s two assistant keepers left by boat for Point Sherman and never made it home.",
         "factIndexes": [
-          0,
-          2,
-          4
+          5
         ]
       },
       {
-        "text": "The light was automated in 1973.",
+        "text": "Their damaged boat was found, but keeper Nils Peter Adamson continued searching the waters of Lynn Canal for his colleagues; the museum preserves his grandson’s account of the loss and Adamson’s resignation the following January.",
         "factIndexes": [
-          3
+          5
         ]
       }
     ]
@@ -197,32 +187,27 @@
   },
   {
     "id": "ak-five-finger-islands-light",
-    "summary": "Five Finger Islands’ first lighthouse was built in 1902, while the current light dates to 1935. The reinforced-concrete tower’s light was automated in 1984.",
+    "summary": "Five Finger’s first lighthouse burned in 1933 after an attempt to thaw frozen pipes during a winter storm went wrong. Its replacement, completed in 1935, adopted Art Deco styling and a much more fire-resistant design; the old boathouse and carpenter’s shed survived the blaze.",
     "summarySources": [
       {
-        "url": "https://en.wikipedia.org/wiki/Five_Finger_Islands_Light",
-        "label": "Wikipedia — individual lighthouse article"
+        "url": "https://www.fivefingerlighthouse.com/timeline-events",
+        "label": "Five Finger Lighthouse Society — Timeline and Events"
       }
     ],
     "factIndexes": [
-      0,
-      1,
-      3,
-      4
+      5
     ],
     "sentences": [
       {
-        "text": "Five Finger Islands’ first lighthouse was built in 1902, while the current light dates to 1935.",
+        "text": "Five Finger’s first lighthouse burned in 1933 after an attempt to thaw frozen pipes during a winter storm went wrong.",
         "factIndexes": [
-          1,
-          0
+          5
         ]
       },
       {
-        "text": "The reinforced-concrete tower’s light was automated in 1984.",
+        "text": "Its replacement, completed in 1935, adopted Art Deco styling and a much more fire-resistant design; the old boathouse and carpenter’s shed survived the blaze.",
         "factIndexes": [
-          3,
-          4
+          5
         ]
       }
     ]
@@ -357,30 +342,27 @@
   },
   {
     "id": "ak-scotch-cap-light",
-    "summary": "Scotch Cap station was established in 1903 and gained a reinforced-concrete lighthouse and fog-signal building in 1940. The April 1, 1946 tsunami destroyed the station and killed all five crew members.",
+    "summary": "Scotch Cap’s reinforced-concrete station was only six years old when an earthquake-generated tsunami destroyed it on April 1, 1946, killing all five crew members. A temporary unattended light restored the warning that same year, and a new permanent station was completed in early 1950.",
     "summarySources": [
       {
-        "url": "https://en.wikipedia.org/wiki/Scotch_Cap_Light",
-        "label": "Wikipedia — individual lighthouse article"
+        "url": "https://www.history.uscg.mil/Browse-by-Topic/Assets/Land/All/Article/1988680/scotch-cap-light/",
+        "label": "U.S. Coast Guard Historian — Scotch Cap Light"
       }
     ],
     "factIndexes": [
-      0,
-      2,
-      3
+      4
     ],
     "sentences": [
       {
-        "text": "Scotch Cap station was established in 1903 and gained a reinforced-concrete lighthouse and fog-signal building in 1940.",
+        "text": "Scotch Cap’s reinforced-concrete station was only six years old when an earthquake-generated tsunami destroyed it on April 1, 1946, killing all five crew members.",
         "factIndexes": [
-          0,
-          2
+          4
         ]
       },
       {
-        "text": "The April 1, 1946 tsunami destroyed the station and killed all five crew members.",
+        "text": "A temporary unattended light restored the warning that same year, and a new permanent station was completed in early 1950.",
         "factIndexes": [
-          3
+          4
         ]
       }
     ]
@@ -451,32 +433,28 @@
   },
   {
     "id": "al-middle-bay-light",
-    "summary": "Middle Bay’s wooden screw-pile lighthouse was built in 1885 in the middle of Alabama’s Mobile Bay. Its light was automated in 1935.",
+    "summary": "Middle Bay brought a Chesapeake Bay lighthouse design to Alabama: an iron framework supported a hexagonal keeper’s house and tower. When fog hid the light, a bell sounded every five seconds; decades after the station’s working years, the Alabama Historical Commission oversaw nearly $350,000 in renovations to preserve the unusual offshore structure.",
     "summarySources": [
       {
-        "url": "https://en.wikipedia.org/wiki/Middle_Bay_Light",
-        "label": "Wikipedia — individual lighthouse article"
+        "url": "https://ahc.alabama.gov/properties/middlebay/middlebay.aspx",
+        "label": "Alabama Historical Commission — Middle Bay Lighthouse"
       }
     ],
     "factIndexes": [
-      0,
-      2,
-      3,
-      4
+      5,
+      6
     ],
     "sentences": [
       {
-        "text": "Middle Bay’s wooden screw-pile lighthouse was built in 1885 in the middle of Alabama’s Mobile Bay.",
+        "text": "Middle Bay brought a Chesapeake Bay lighthouse design to Alabama: an iron framework supported a hexagonal keeper’s house and tower.",
         "factIndexes": [
-          0,
-          2,
-          4
+          5
         ]
       },
       {
-        "text": "Its light was automated in 1935.",
+        "text": "When fog hid the light, a bell sounded every five seconds; decades after the station’s working years, the Alabama Historical Commission oversaw nearly $350,000 in renovations to preserve the unusual offshore structure.",
         "factIndexes": [
-          3
+          6
         ]
       }
     ]
@@ -515,30 +493,28 @@
   },
   {
     "id": "al-sand-island-light",
-    "summary": "Sand Island’s station had earlier towers dating to 1838, 1859 and 1864 before the current light was first lit in 1873. The present tower is built of brownstone.",
+    "summary": "Sand Island’s earlier lighthouse became a Civil War lookout—and a target: Confederate soldiers destroyed it in 1863 after discovering Union troops using it to watch Fort Morgan. A temporary wooden light served until the present tower opened in 1873; erosion then demanded a different defense, with 1,600 tons of granite placed around the tower in 1889.",
     "summarySources": [
       {
-        "url": "https://en.wikipedia.org/wiki/Sand_Island_Light_(Alabama)",
-        "label": "Wikipedia — individual lighthouse article"
+        "url": "https://www.history.uscg.mil/Browse-by-Topic/Assets/Land/All/Article/1988493/sand-island-light-al/",
+        "label": "U.S. Coast Guard — Sand Island Light"
       }
     ],
     "factIndexes": [
-      0,
-      1,
-      3
+      5,
+      6
     ],
     "sentences": [
       {
-        "text": "Sand Island’s station had earlier towers dating to 1838, 1859 and 1864 before the current light was first lit in 1873.",
+        "text": "Sand Island’s earlier lighthouse became a Civil War lookout—and a target: Confederate soldiers destroyed it in 1863 after discovering Union troops using it to watch Fort Morgan.",
         "factIndexes": [
-          1,
-          0
+          5
         ]
       },
       {
-        "text": "The present tower is built of brownstone.",
+        "text": "A temporary wooden light served until the present tower opened in 1873; erosion then demanded a different defense, with 1,600 tons of granite placed around the tower in 1889.",
         "factIndexes": [
-          3
+          6
         ]
       }
     ]
@@ -670,64 +646,54 @@
   },
   {
     "id": "ca-alcatraz-island-light",
-    "summary": "Alcatraz’s first lighthouse was built in 1854, followed by the current tower’s first lighting in 1909. The replacement is a tapered octagonal tower of reinforced concrete.",
+    "summary": "Alcatraz’s lighthouse had to grow with its prison: plans for a new cellblock prompted a taller replacement tower in 1909. The keepers belonged to the island’s civilian community; one became its postmaster, while another played Santa Claus for prison guards and their families.",
     "summarySources": [
       {
-        "url": "https://en.wikipedia.org/wiki/Alcatraz_Island_Light",
-        "label": "Wikipedia — individual lighthouse article"
+        "url": "https://alcatrazlighthouse.org/lighthouse-history",
+        "label": "Alcatraz Lighthouse Preservation Project — Lighthouse History"
       }
     ],
     "factIndexes": [
-      0,
-      1,
-      3,
-      4
+      7
     ],
     "sentences": [
       {
-        "text": "Alcatraz’s first lighthouse was built in 1854, followed by the current tower’s first lighting in 1909.",
+        "text": "Alcatraz’s lighthouse had to grow with its prison: plans for a new cellblock prompted a taller replacement tower in 1909.",
         "factIndexes": [
-          0,
-          1
+          7
         ]
       },
       {
-        "text": "The replacement is a tapered octagonal tower of reinforced concrete.",
+        "text": "The keepers belonged to the island’s civilian community; one became its postmaster, while another played Santa Claus for prison guards and their families.",
         "factIndexes": [
-          3,
-          4
+          7
         ]
       }
     ]
   },
   {
     "id": "ca-anacapa-island-light",
-    "summary": "Anacapa’s first light was built in 1912; the current lighthouse was first lit in 1932. Its reinforced-concrete tower’s light was automated in 1968.",
+    "summary": "Anacapa’s sheer cliffs made even supplying a lighthouse an engineering problem: ninety steps, two landings and a crane carried people and equipment up from the landing cove. When the permanent light opened in 1932, it belonged to a small settlement of Spanish Revival buildings, with four homes along a main street.",
     "summarySources": [
       {
-        "url": "https://en.wikipedia.org/wiki/Anacapa_Island_Light",
-        "label": "Wikipedia — individual lighthouse article"
+        "url": "https://www.nps.gov/places/000/lighthouse.htm",
+        "label": "National Park Service — Anacapa Island Lighthouse"
       }
     ],
     "factIndexes": [
-      0,
-      1,
-      3,
-      4
+      5
     ],
     "sentences": [
       {
-        "text": "Anacapa’s first light was built in 1912; the current lighthouse was first lit in 1932.",
+        "text": "Anacapa’s sheer cliffs made even supplying a lighthouse an engineering problem: ninety steps, two landings and a crane carried people and equipment up from the landing cove.",
         "factIndexes": [
-          1,
-          0
+          5
         ]
       },
       {
-        "text": "Its reinforced-concrete tower’s light was automated in 1968.",
+        "text": "When the permanent light opened in 1932, it belonged to a small settlement of Spanish Revival buildings, with four homes along a main street.",
         "factIndexes": [
-          3,
-          4
+          5
         ]
       }
     ]
@@ -923,32 +889,27 @@
   },
   {
     "id": "ca-fort-point-light",
-    "summary": "Fort Point’s first lighthouse was built in 1855; the later tower described in its history was first lit in 1864. That tower has a nine-sided skeletal cast-iron structure.",
+    "summary": "Fort Point went through three lighthouses: the first lost its bluff to fort construction, and the second made way for a seawall. The surviving tower was built on the fort in 1864, only to have its light extinguished in 1934 as construction of the Golden Gate Bridge transformed the site.",
     "summarySources": [
       {
-        "url": "https://en.wikipedia.org/wiki/Fort_Point_Light,_San_Francisco",
-        "label": "Wikipedia — individual lighthouse article"
+        "url": "https://www.nps.gov/places/000/fort-point-lighthouse-fort-point-tour.htm",
+        "label": "National Park Service — Fort Point Lighthouse"
       }
     ],
     "factIndexes": [
-      0,
-      1,
-      3,
-      4
+      5
     ],
     "sentences": [
       {
-        "text": "Fort Point’s first lighthouse was built in 1855; the later tower described in its history was first lit in 1864.",
+        "text": "Fort Point went through three lighthouses: the first lost its bluff to fort construction, and the second made way for a seawall.",
         "factIndexes": [
-          0,
-          1
+          5
         ]
       },
       {
-        "text": "That tower has a nine-sided skeletal cast-iron structure.",
+        "text": "The surviving tower was built on the fort in 1864, only to have its light extinguished in 1934 as construction of the Golden Gate Bridge transformed the site.",
         "factIndexes": [
-          3,
-          4
+          5
         ]
       }
     ]
@@ -1210,64 +1171,54 @@
   },
   {
     "id": "ca-pigeon-point-light",
-    "summary": "Pigeon Point’s brick lighthouse was first lit in 1872. Its tower stands 115 feet tall, and the light was automated in 1974.",
+    "summary": "Pigeon Point takes its name from the Carrier Pigeon, a clipper wrecked nearby in 1853 on its first voyage from Boston to San Francisco. Her captain and crew reached shore safely, but a steamer sent to help salvage the cargo also got into trouble and had to be beached near Point Año Nuevo.",
     "summarySources": [
       {
-        "url": "https://en.wikipedia.org/wiki/Pigeon_Point_Lighthouse",
-        "label": "Wikipedia — individual lighthouse article"
+        "url": "https://www.parks.ca.gov/?page_id=22034",
+        "label": "California State Parks — Pigeon Point History"
       }
     ],
     "factIndexes": [
-      0,
-      2,
-      3,
-      4
+      5
     ],
     "sentences": [
       {
-        "text": "Pigeon Point’s brick lighthouse was first lit in 1872.",
+        "text": "Pigeon Point takes its name from the Carrier Pigeon, a clipper wrecked nearby in 1853 on its first voyage from Boston to San Francisco.",
         "factIndexes": [
-          0,
-          3
+          5
         ]
       },
       {
-        "text": "Its tower stands 115 feet tall, and the light was automated in 1974.",
+        "text": "Her captain and crew reached shore safely, but a steamer sent to help salvage the cargo also got into trouble and had to be beached near Point Año Nuevo.",
         "factIndexes": [
-          2,
-          4
+          5
         ]
       }
     ]
   },
   {
     "id": "ca-point-arena-light",
-    "summary": "Point Arena’s first lighthouse was built in 1870; the current tower was first lit in 1908. The reinforced-concrete replacement stands 115 feet tall.",
+    "summary": "The 1906 earthquake damaged Point Arena’s original lighthouse and keepers’ residence so badly that both were torn down. Its replacement was entrusted to a company that built factory smokestacks, giving the new tower a concrete body reinforced with steel rods; the rebuilt light began operating in September 1908.",
     "summarySources": [
       {
-        "url": "https://en.wikipedia.org/wiki/Point_Arena_Light",
-        "label": "Wikipedia — individual lighthouse article"
+        "url": "https://old.pointarenalighthouse.com/about/lighthouse-history/",
+        "label": "Point Arena Lighthouse — Lighthouse History"
       }
     ],
     "factIndexes": [
-      0,
-      1,
-      2,
-      3
+      7
     ],
     "sentences": [
       {
-        "text": "Point Arena’s first lighthouse was built in 1870; the current tower was first lit in 1908.",
+        "text": "The 1906 earthquake damaged Point Arena’s original lighthouse and keepers’ residence so badly that both were torn down.",
         "factIndexes": [
-          0,
-          1
+          7
         ]
       },
       {
-        "text": "The reinforced-concrete replacement stands 115 feet tall.",
+        "text": "Its replacement was entrusted to a company that built factory smokestacks, giving the new tower a concrete body reinforced with steel rods; the rebuilt light began operating in September 1908.",
         "factIndexes": [
-          2,
-          3
+          7
         ]
       }
     ]
@@ -1338,64 +1289,54 @@
   },
   {
     "id": "ca-point-bonita-light",
-    "summary": "Point Bonita’s first lighthouse was built in 1855; the current light was first lit in 1877. The brick-and-cement lighthouse’s light was automated in 1980.",
+    "summary": "Reaching Point Bonita once meant crossing a wooden walkway clinging to a cliff, where repeated landslides made the route dangerous. In 1876 Chinese workers dug a replacement tunnel through solid rock; the following year, a new lighthouse opened lower on the point to put its light beneath fog that often hid the original station.",
     "summarySources": [
       {
-        "url": "https://en.wikipedia.org/wiki/Point_Bonita_Lighthouse",
-        "label": "Wikipedia — individual lighthouse article"
+        "url": "https://www.nps.gov/goga/learn/historyculture/upload/Point-Bonita-Historic-District.pdf",
+        "label": "National Park Service — Point Bonita Historic District"
       }
     ],
     "factIndexes": [
-      0,
-      1,
-      3,
-      4
+      5
     ],
     "sentences": [
       {
-        "text": "Point Bonita’s first lighthouse was built in 1855; the current light was first lit in 1877.",
+        "text": "Reaching Point Bonita once meant crossing a wooden walkway clinging to a cliff, where repeated landslides made the route dangerous.",
         "factIndexes": [
-          1,
-          0
+          5
         ]
       },
       {
-        "text": "The brick-and-cement lighthouse’s light was automated in 1980.",
+        "text": "In 1876 Chinese workers dug a replacement tunnel through solid rock; the following year, a new lighthouse opened lower on the point to put its light beneath fog that often hid the original station.",
         "factIndexes": [
-          3,
-          4
+          5
         ]
       }
     ]
   },
   {
     "id": "ca-point-cabrillo-light",
-    "summary": "Point Cabrillo’s 1909 lighthouse has an octagonal wooden tower rising above its fog-signal building. The light was automated in 1973.",
+    "summary": "Near Point Cabrillo, the Frolic wrecked in 1850 carrying Chinese household goods for Gold Rush San Francisco, including a prefabricated house with oyster-shell windows. Much later, Chinese porcelain found at a Pomo village helped archaeologist Thomas Layton unravel the ship’s story; salvaged artifacts became part of the lighthouse museum’s collection.",
     "summarySources": [
       {
-        "url": "https://en.wikipedia.org/wiki/Point_Cabrillo_Light",
-        "label": "Wikipedia — individual lighthouse article"
+        "url": "https://pointcabrillo.org/learn/history/frolic/frolic1850/",
+        "label": "Point Cabrillo Light Station — The Clipper Ship"
       }
     ],
     "factIndexes": [
-      0,
-      2,
-      3,
-      4
+      7
     ],
     "sentences": [
       {
-        "text": "Point Cabrillo’s 1909 lighthouse has an octagonal wooden tower rising above its fog-signal building.",
+        "text": "Near Point Cabrillo, the Frolic wrecked in 1850 carrying Chinese household goods for Gold Rush San Francisco, including a prefabricated house with oyster-shell windows.",
         "factIndexes": [
-          0,
-          2,
-          3
+          7
         ]
       },
       {
-        "text": "The light was automated in 1973.",
+        "text": "Much later, Chinese porcelain found at a Pomo village helped archaeologist Thomas Layton unravel the ship’s story; salvaged artifacts became part of the lighthouse museum’s collection.",
         "factIndexes": [
-          4
+          7
         ]
       }
     ]
@@ -1470,32 +1411,33 @@
   },
   {
     "id": "ca-point-fermin-light",
-    "summary": "Point Fermin’s original wooden lighthouse was first lit in 1874 at San Pedro in Los Angeles. Its square tower was topped by a balcony and lantern.",
+    "summary": "Point Fermin began with two sisters in charge: Mary and Ella Smith, its first keepers, served here from 1874 to 1882. They arrived with lighthouse experience from Ediz Hook in Washington and spent eight years tending a station whose surroundings were then isolated and barren.",
     "summarySources": [
       {
-        "url": "https://en.wikipedia.org/wiki/Point_Fermin_Light",
-        "label": "Wikipedia — individual lighthouse article"
+        "url": "https://www.pflhs.org/copy-of-145th-birthday-2",
+        "label": "Point Fermin Lighthouse Society — Mary & Ella Smith"
+      },
+      {
+        "url": "https://ohp.parks.ca.gov/pages/1067/files/01_Point%20Fermin%20Historic%20District%20National%20Register%20Nomination%20Form.pdf",
+        "label": "California Office of Historic Preservation — Point Fermin Historic District nomination, page 26"
       }
     ],
     "factIndexes": [
-      0,
-      2,
-      3,
-      4
+      5,
+      6
     ],
     "sentences": [
       {
-        "text": "Point Fermin’s original wooden lighthouse was first lit in 1874 at San Pedro in Los Angeles.",
+        "text": "Point Fermin began with two sisters in charge: Mary and Ella Smith, its first keepers, served here from 1874 to 1882.",
         "factIndexes": [
-          0,
-          2,
-          3
+          5,
+          6
         ]
       },
       {
-        "text": "Its square tower was topped by a balcony and lantern.",
+        "text": "They arrived with lighthouse experience from Ediz Hook in Washington and spent eight years tending a station whose surroundings were then isolated and barren.",
         "factIndexes": [
-          4
+          5
         ]
       }
     ]
@@ -1534,191 +1476,162 @@
   },
   {
     "id": "ca-point-loma-light-new",
-    "summary": "The newer Point Loma lighthouse in San Diego was first lit in 1891 and uses a metal skeletal tower. The light was automated in 1973.",
+    "summary": "New Point Loma inherited keeper Robert Israel from the older hilltop lighthouse, but its ruby-colored lens brought its own distinction: a gold medal at the 1889 Paris Exhibition. The station later appeared in Top Gun, with one of its homes serving as Viper’s residence.",
     "summarySources": [
       {
-        "url": "https://en.wikipedia.org/wiki/New_Point_Loma_Lighthouse",
-        "label": "Wikipedia — individual lighthouse article"
+        "url": "https://www.nps.gov/places/new-point-loma-lighthouse.htm",
+        "label": "National Park Service — New Point Loma Lighthouse"
       }
     ],
     "factIndexes": [
-      0,
-      2,
-      3,
-      4
+      5
     ],
     "sentences": [
       {
-        "text": "The newer Point Loma lighthouse in San Diego was first lit in 1891 and uses a metal skeletal tower.",
+        "text": "New Point Loma inherited keeper Robert Israel from the older hilltop lighthouse, but its ruby-colored lens brought its own distinction: a gold medal at the 1889 Paris Exhibition.",
         "factIndexes": [
-          0,
-          2,
-          4
+          5
         ]
       },
       {
-        "text": "The light was automated in 1973.",
+        "text": "The station later appeared in Top Gun, with one of its homes serving as Viper’s residence.",
         "factIndexes": [
-          3
+          5
         ]
       }
     ]
   },
   {
     "id": "ca-point-loma-light-old",
-    "summary": "The old Point Loma lighthouse was first lit in 1855 and is located within Cabrillo National Monument. Its tower stands 46 feet tall.",
+    "summary": "Old Point Loma’s commanding hilltop became its weakness: fog could hide the light from ships entering San Diego Bay. In 1891 the keeper moved to a replacement nearer the water; the old tower shone again for its centennial in 1955, this time as a celebration rather than a navigation aid.",
     "summarySources": [
       {
-        "url": "https://en.wikipedia.org/wiki/Old_Point_Loma_Lighthouse",
-        "label": "Wikipedia — individual lighthouse article"
+        "url": "https://www.nps.gov/places/old-point-loma-lighthouse-grounds.htm",
+        "label": "National Park Service — Old Point Loma Lighthouse Grounds"
       }
     ],
     "factIndexes": [
-      0,
-      1,
-      2
+      3
     ],
     "sentences": [
       {
-        "text": "The old Point Loma lighthouse was first lit in 1855 and is located within Cabrillo National Monument.",
+        "text": "Old Point Loma’s commanding hilltop became its weakness: fog could hide the light from ships entering San Diego Bay.",
         "factIndexes": [
-          0,
-          2
+          3
         ]
       },
       {
-        "text": "Its tower stands 46 feet tall.",
+        "text": "In 1891 the keeper moved to a replacement nearer the water; the old tower shone again for its centennial in 1955, this time as a celebration rather than a navigation aid.",
         "factIndexes": [
-          1
+          3
         ]
       }
     ]
   },
   {
     "id": "ca-point-montara-light",
-    "summary": "Point Montara’s current steel tower was built in 1881 but first lit at this station in 1928. Its light was automated in 1970.",
+    "summary": "Point Montara’s tower had a previous life on Cape Cod before appearing on the California coast in 1928. For decades the Massachusetts lighthouse was thought to have been scrapped after its 1925 removal; researchers eventually connected it to Montara, although exactly how and why it crossed the country remains uncertain.",
     "summarySources": [
       {
-        "url": "https://en.wikipedia.org/wiki/Point_Montara_Light",
-        "label": "Wikipedia — individual lighthouse article"
+        "url": "https://www.hiusa.org/blog/miscellaneous/history-point-montara-lighthouse",
+        "label": "Hostelling International USA — History of Point Montara Lighthouse"
       }
     ],
     "factIndexes": [
-      0,
-      1,
-      3,
-      4
+      5
     ],
     "sentences": [
       {
-        "text": "Point Montara’s current steel tower was built in 1881 but first lit at this station in 1928.",
+        "text": "Point Montara’s tower had a previous life on Cape Cod before appearing on the California coast in 1928.",
         "factIndexes": [
-          1,
-          0
+          5
         ]
       },
       {
-        "text": "Its light was automated in 1970.",
+        "text": "For decades the Massachusetts lighthouse was thought to have been scrapped after its 1925 removal; researchers eventually connected it to Montara, although exactly how and why it crossed the country remains uncertain.",
         "factIndexes": [
-          3,
-          4
+          5
         ]
       }
     ]
   },
   {
     "id": "ca-point-pinos-light",
-    "summary": "Point Pinos dates to 1855, with a cylindrical concrete tower rising from the center of the keeper’s house. The light was automated in 1975.",
+    "summary": "Emily Fish’s log records the 1906 earthquake from inside Point Pinos: shaking loosened the lens, bent its connecting tube and made the lamp flame flare before it was brought under control. Her later entries follow the repair work, including delivery of a temporary lantern in May while the main light was repaired.",
     "summarySources": [
       {
-        "url": "https://en.wikipedia.org/wiki/Point_Pinos_Lighthouse",
-        "label": "Wikipedia — individual lighthouse article"
+        "url": "https://www.pointpinoslighthouse.org/pdf/1906.pdf",
+        "label": "Point Pinos Lighthouse — Emily Fish’s 1906 keeper-log excerpts"
       }
     ],
     "factIndexes": [
-      0,
-      2,
-      3,
-      4
+      7
     ],
     "sentences": [
       {
-        "text": "Point Pinos dates to 1855, with a cylindrical concrete tower rising from the center of the keeper’s house.",
+        "text": "Emily Fish’s log records the 1906 earthquake from inside Point Pinos: shaking loosened the lens, bent its connecting tube and made the lamp flame flare before it was brought under control.",
         "factIndexes": [
-          0,
-          2,
-          3
+          7
         ]
       },
       {
-        "text": "The light was automated in 1975.",
+        "text": "Her later entries follow the repair work, including delivery of a temporary lantern in May while the main light was repaired.",
         "factIndexes": [
-          4
+          7
         ]
       }
     ]
   },
   {
     "id": "ca-point-reyes-light",
-    "summary": "Point Reyes’ cast-iron lighthouse was built in 1870 at Point Reyes on the Gulf of the Farallones. Its light was automated in 1975.",
+    "summary": "Point Reyes’s rotating lens ran on clockwork that a keeper had to wind every two hours and twenty minutes through the night. Daylight brought another round of work: cleaning the lens and mechanism, whitewashing buildings, and hauling coal to a chute feeding the fog-signal building below.",
     "summarySources": [
       {
-        "url": "https://en.wikipedia.org/wiki/Point_Reyes_Lighthouse",
-        "label": "Wikipedia — individual lighthouse article"
+        "url": "https://www.nps.gov/pore/learn/photosmultimedia/photogallery_thenandnow_pointreyeslighthouse.htm",
+        "label": "National Park Service — Then & Now: Point Reyes Lighthouse"
       }
     ],
     "factIndexes": [
-      0,
-      2,
-      3,
-      4
+      5
     ],
     "sentences": [
       {
-        "text": "Point Reyes’ cast-iron lighthouse was built in 1870 at Point Reyes on the Gulf of the Farallones.",
+        "text": "Point Reyes’s rotating lens ran on clockwork that a keeper had to wind every two hours and twenty minutes through the night.",
         "factIndexes": [
-          0,
-          2,
-          4
+          5
         ]
       },
       {
-        "text": "Its light was automated in 1975.",
+        "text": "Daylight brought another round of work: cleaning the lens and mechanism, whitewashing buildings, and hauling coal to a chute feeding the fog-signal building below.",
         "factIndexes": [
-          3
+          5
         ]
       }
     ]
   },
   {
     "id": "ca-point-san-luis-light",
-    "summary": "Point San Luis’ original 1890 lighthouse had a square wooden tower attached to the keeper’s house. The later metal-pole light was first lit in 1975.",
+    "summary": "The 1888 sinking of the Queen of the Pacific strengthened the case for Point San Luis: approaching Port Harford in darkness, the captain proceeded cautiously for fear of the entrance rocks. The steamer settled in shallow water about 500 feet short of the pier, with everyone surviving; supporters argued that a lighthouse could have helped her reach it.",
     "summarySources": [
       {
-        "url": "https://en.wikipedia.org/wiki/Point_San_Luis_Light",
-        "label": "Wikipedia — individual lighthouse article"
+        "url": "https://www.pointsanluislighthouse.org/about",
+        "label": "Point San Luis Lighthouse Keepers — Lighthouse History"
       }
     ],
     "factIndexes": [
-      0,
-      1,
-      3,
-      4
+      5
     ],
     "sentences": [
       {
-        "text": "Point San Luis’ original 1890 lighthouse had a square wooden tower attached to the keeper’s house.",
+        "text": "The 1888 sinking of the Queen of the Pacific strengthened the case for Point San Luis: approaching Port Harford in darkness, the captain proceeded cautiously for fear of the entrance rocks.",
         "factIndexes": [
-          0,
-          3,
-          4
+          5
         ]
       },
       {
-        "text": "The later metal-pole light was first lit in 1975.",
+        "text": "The steamer settled in shallow water about 500 feet short of the pier, with everyone surviving; supporters argued that a lighthouse could have helped her reach it.",
         "factIndexes": [
-          1,
-          3
+          5
         ]
       }
     ]
@@ -1978,33 +1891,27 @@
   },
   {
     "id": "ca-st-george-reef-light",
-    "summary": "St. George Reef’s granite lighthouse stands six miles offshore from Point St. George. Built over the period 1881–1890, it was first lit on October 20, 1892.",
+    "summary": "St. George Reef’s huge glass lens had an unusual journey ashore: in 1983, volunteers working with the Coast Guard dismantled it in the offshore tower under a project called Operation Lens. They reassembled the first-order Fresnel lens at the Del Norte County Historical Society’s museum, giving visitors a close view of equipment once isolated on a wave-washed rock.",
     "summarySources": [
       {
-        "url": "https://en.wikipedia.org/wiki/St._George_Reef_Light",
-        "label": "Wikipedia — individual lighthouse article"
+        "url": "https://delnortehistory.org/st-george-reef-lighthouse/",
+        "label": "Del Norte County Historical Society — St. George Reef Lighthouse"
       }
     ],
     "factIndexes": [
-      0,
-      1,
-      3,
-      4
+      5
     ],
     "sentences": [
       {
-        "text": "St. George Reef’s granite lighthouse stands six miles offshore from Point St. George.",
+        "text": "St. George Reef’s huge glass lens had an unusual journey ashore: in 1983, volunteers working with the Coast Guard dismantled it in the offshore tower under a project called Operation Lens.",
         "factIndexes": [
-          0,
-          3,
-          4
+          5
         ]
       },
       {
-        "text": "Built over the period 1881–1890, it was first lit on October 20, 1892.",
+        "text": "They reassembled the first-order Fresnel lens at the Del Norte County Historical Society’s museum, giving visitors a close view of equipment once isolated on a wave-washed rock.",
         "factIndexes": [
-          0,
-          1
+          5
         ]
       }
     ]
@@ -2463,32 +2370,28 @@
   },
   {
     "id": "ct-new-london-ledge-light",
-    "summary": "New London Ledge’s 1909 lighthouse is a granite-and-brick building with a short cylindrical tower atop a three-story dwelling. The light was automated in 1987.",
+    "summary": "With brick walls, dormer windows and a mansard roof, New London Ledge looks like a house planted in the harbor. Even its name needed navigation help: the planned Southwest Ledge name was changed to avoid confusion with a ledge near New Haven.",
     "summarySources": [
       {
-        "url": "https://en.wikipedia.org/wiki/New_London_Ledge_Light",
-        "label": "Wikipedia — individual lighthouse article"
+        "url": "https://mcguirelibrary1998.omeka.net/exhibits/show/keeper-of-the-lights--the-mari/new-london-ledge-light--the-ho",
+        "label": "New London Maritime Society — Ledge Light history"
       }
     ],
     "factIndexes": [
-      0,
-      2,
-      3,
-      4
+      7,
+      8
     ],
     "sentences": [
       {
-        "text": "New London Ledge’s 1909 lighthouse is a granite-and-brick building with a short cylindrical tower atop a three-story dwelling.",
+        "text": "With brick walls, dormer windows and a mansard roof, New London Ledge looks like a house planted in the harbor.",
         "factIndexes": [
-          0,
-          2,
-          3
+          7
         ]
       },
       {
-        "text": "The light was automated in 1987.",
+        "text": "Even its name needed navigation help: the planned Southwest Ledge name was changed to avoid confusion with a ledge near New Haven.",
         "factIndexes": [
-          4
+          8
         ]
       }
     ]
@@ -3487,62 +3390,56 @@
   },
   {
     "id": "fl-cape-canaveral-light-new",
-    "summary": "Cape Canaveral’s current tower was first lit on May 10, 1868, then moved inland in 1893–1894. Its construction combines cast-iron plates with a brick lining.",
+    "summary": "Cape Canaveral’s iron lighthouse was taken apart and hauled inland on a mule-drawn tram after erosion prompted a move in 1893. The older brick lighthouse was demolished to supply foundation material for the new site, where the lamp was lit again in July 1894; keeping the light had also become a family business for Mills Olcott Burnham and his descendants.",
     "summarySources": [
       {
-        "url": "https://en.wikipedia.org/wiki/Cape_Canaveral_Light",
-        "label": "Wikipedia — individual lighthouse article"
+        "url": "https://canaverallight.org/explore-and-learn/",
+        "label": "Cape Canaveral Lighthouse Foundation — Explore and Learn"
       }
     ],
     "factIndexes": [
-      0,
-      2,
-      3
+      6,
+      7
     ],
     "sentences": [
       {
-        "text": "Cape Canaveral’s current tower was first lit on May 10, 1868, then moved inland in 1893–1894.",
+        "text": "Cape Canaveral’s iron lighthouse was taken apart and hauled inland on a mule-drawn tram after erosion prompted a move in 1893.",
         "factIndexes": [
-          0,
-          2
+          6
         ]
       },
       {
-        "text": "Its construction combines cast-iron plates with a brick lining.",
+        "text": "The older brick lighthouse was demolished to supply foundation material for the new site, where the lamp was lit again in July 1894; keeping the light had also become a family business for Mills Olcott Burnham and his descendants.",
         "factIndexes": [
-          3
+          7
         ]
       }
     ]
   },
   {
     "id": "fl-cape-florida-light",
-    "summary": "Cape Florida’s first lighthouse was built in 1825; the current tower was first lit in 1847. The brick lighthouse’s light was automated in 1978.",
+    "summary": "During the Second Seminole War in 1836, an attack left assistant keeper John W. B. Thompson wounded and trapped high in the burned Cape Florida tower. Rescuers tried a kite without success, then fired a line attached to a ramrod up to him; he used it to haul up a pulley so men could reach him and lower him to the ground.",
     "summarySources": [
       {
-        "url": "https://en.wikipedia.org/wiki/Cape_Florida_Light",
-        "label": "Wikipedia — individual lighthouse article"
+        "url": "https://www.history.uscg.mil/Browse-by-Topic/Assets/Land/All/Article/1955776/cape-florida-lighthouse/",
+        "label": "U.S. Coast Guard — Cape Florida Lighthouse"
       }
     ],
     "factIndexes": [
-      0,
-      1,
-      3,
-      4
+      5,
+      6
     ],
     "sentences": [
       {
-        "text": "Cape Florida’s first lighthouse was built in 1825; the current tower was first lit in 1847.",
+        "text": "During the Second Seminole War in 1836, an attack left assistant keeper John W. B. Thompson wounded and trapped high in the burned Cape Florida tower.",
         "factIndexes": [
-          1,
-          0
+          5
         ]
       },
       {
-        "text": "The brick lighthouse’s light was automated in 1978.",
+        "text": "Rescuers tried a kite without success, then fired a line attached to a ramrod up to him; he used it to haul up a pulley so men could reach him and lower him to the ground.",
         "factIndexes": [
-          3,
-          4
+          6
         ]
       }
     ]
@@ -3781,32 +3678,28 @@
   },
   {
     "id": "fl-egmont-key-light",
-    "summary": "Egmont Key’s first lighthouse was built in 1848, followed by the second tower’s first lighting in 1858. The brick lighthouse’s light was automated in 1990.",
+    "summary": "Egmont Key’s first lighthouse survived a hurricane only five months after certification in 1848, then developed cracks after a lightning strike. Attempts to stabilize it failed, prompting the replacement tower in 1858; during the Civil War, keeper George Rickard carried its Fresnel lens and supplies to Tampa as Union troops approached.",
     "summarySources": [
       {
-        "url": "https://en.wikipedia.org/wiki/Egmont_Key_Light",
-        "label": "Wikipedia — individual lighthouse article"
+        "url": "https://www.history.uscg.mil/Browse-by-Topic/Assets/Land/Lighthouses-Light-Stations/Article/1915905/egmont-key-light/",
+        "label": "U.S. Coast Guard — Egmont Key Light"
       }
     ],
     "factIndexes": [
-      0,
-      1,
-      3,
-      4
+      5,
+      6
     ],
     "sentences": [
       {
-        "text": "Egmont Key’s first lighthouse was built in 1848, followed by the second tower’s first lighting in 1858.",
+        "text": "Egmont Key’s first lighthouse survived a hurricane only five months after certification in 1848, then developed cracks after a lightning strike.",
         "factIndexes": [
-          1,
-          0
+          5
         ]
       },
       {
-        "text": "The brick lighthouse’s light was automated in 1990.",
+        "text": "Attempts to stabilize it failed, prompting the replacement tower in 1858; during the Civil War, keeper George Rickard carried its Fresnel lens and supplies to Tampa as Union troops approached.",
         "factIndexes": [
-          3,
-          4
+          6
         ]
       }
     ]
@@ -3975,64 +3868,56 @@
   },
   {
     "id": "fl-jupiter-inlet-light",
-    "summary": "Jupiter Inlet’s brick lighthouse was first lit in 1860 on the north side of the inlet. The light was automated in 1928.",
+    "summary": "Beside Jupiter Inlet Lighthouse, a secret World War II radio operation called Station J listened for German U-boats. Its high-frequency direction-finding equipment intercepted submarine transmissions to help locate enemy vessels; at its 1943 peak, the site held 95 Navy men, 11 Marine guards and an operations building with 24 receivers.",
     "summarySources": [
       {
-        "url": "https://en.wikipedia.org/wiki/Jupiter_Inlet_Light",
-        "label": "Wikipedia — individual lighthouse article"
+        "url": "https://www.jupiterlighthouse.org/explore/history/world-way-ii-secret-station-j/",
+        "label": "Jupiter Inlet Lighthouse & Museum — Secret Station J"
       }
     ],
     "factIndexes": [
-      0,
-      2,
-      3,
-      4
+      5,
+      6
     ],
     "sentences": [
       {
-        "text": "Jupiter Inlet’s brick lighthouse was first lit in 1860 on the north side of the inlet.",
+        "text": "Beside Jupiter Inlet Lighthouse, a secret World War II radio operation called Station J listened for German U-boats.",
         "factIndexes": [
-          0,
-          2,
-          4
+          5
         ]
       },
       {
-        "text": "The light was automated in 1928.",
+        "text": "Its high-frequency direction-finding equipment intercepted submarine transmissions to help locate enemy vessels; at its 1943 peak, the site held 95 Navy men, 11 Marine guards and an operations building with 24 receivers.",
         "factIndexes": [
-          3
+          6
         ]
       }
     ]
   },
   {
     "id": "fl-key-west-light",
-    "summary": "Key West’s conical brick lighthouse was first lit in 1849. The light was automated in 1915.",
+    "summary": "Barbara Mabrity returned to keep Key West’s replacement lighthouse after the original tower collapsed in the devastating hurricane of 1846. She remained in lighthouse service until 1864, and her name later went to a Coast Guard buoy tender commissioned in 1999—a working vessel honoring the woman who had tended both generations of Key West’s light.",
     "summarySources": [
       {
-        "url": "https://en.wikipedia.org/wiki/Key_West_Lighthouse",
-        "label": "Wikipedia — individual lighthouse article"
+        "url": "https://www.kwahs.org/u-s-coast-guard-cutter-barbara-mabrity-wlm-559-scheduled-for-key-west-port-visit-and-public-tours/",
+        "label": "Key West Art & Historical Society — Barbara Mabrity"
       }
     ],
     "factIndexes": [
-      0,
-      2,
-      3,
-      4
+      5,
+      6
     ],
     "sentences": [
       {
-        "text": "Key West’s conical brick lighthouse was first lit in 1849.",
+        "text": "Barbara Mabrity returned to keep Key West’s replacement lighthouse after the original tower collapsed in the devastating hurricane of 1846.",
         "factIndexes": [
-          0,
-          2,
-          3
+          5
         ]
       },
       {
-        "text": "The light was automated in 1915.",
+        "text": "She remained in lighthouse service until 1864, and her name later went to a Coast Guard buoy tender commissioned in 1999—a working vessel honoring the woman who had tended both generations of Key West’s light.",
         "factIndexes": [
-          4
+          6
         ]
       }
     ]
@@ -4171,32 +4056,28 @@
   },
   {
     "id": "fl-ponce-de-leon-inlet-light",
-    "summary": "Ponce de Leon Inlet’s current brick lighthouse was first lit in 1887 and rises 175 feet. Its light was automated in 1953.",
+    "summary": "When the steam tug Commodore sank off Florida in 1897, author Stephen Crane and fellow survivors could see the beacon at what was then Mosquito Inlet. Crane had joined a voyage carrying supplies to Cuban rebels; his account of the shipwreck became the basis for The Open Boat, linking this lighthouse to his story of survival at sea.",
     "summarySources": [
       {
-        "url": "https://en.wikipedia.org/wiki/Ponce_de_Leon_Inlet_Light",
-        "label": "Wikipedia — individual lighthouse article"
+        "url": "https://www.ponceinlet.org/history-and-education/lighthouse-history/",
+        "label": "Ponce Inlet Lighthouse Preservation Association — Lighthouse History"
       }
     ],
     "factIndexes": [
-      0,
-      2,
-      3,
-      4
+      5,
+      6
     ],
     "sentences": [
       {
-        "text": "Ponce de Leon Inlet’s current brick lighthouse was first lit in 1887 and rises 175 feet.",
+        "text": "When the steam tug Commodore sank off Florida in 1897, author Stephen Crane and fellow survivors could see the beacon at what was then Mosquito Inlet.",
         "factIndexes": [
-          0,
-          2,
-          3
+          5
         ]
       },
       {
-        "text": "Its light was automated in 1953.",
+        "text": "Crane had joined a voyage carrying supplies to Cuban rebels; his account of the shipwreck became the basis for The Open Boat, linking this lighthouse to his story of survival at sea.",
         "factIndexes": [
-          4
+          6
         ]
       }
     ]
@@ -4399,32 +4280,28 @@
   },
   {
     "id": "fl-st-augustine-light-new",
-    "summary": "St. Augustine’s second lighthouse was first lit in 1874, using a conical brick tower. It followed an earlier coquina tower whose first-lighting date is recorded as approximately 1737.",
+    "summary": "St. Augustine’s light station nearly lost its keepers’ house after a 1970 fire, but the Junior Service League stepped in as demolition threatened in 1980. Over the following 15 years the group raised more than $1.2 million to restore the house, tower and original Fresnel lens, whose prisms had been damaged by a vandal’s bullet.",
     "summarySources": [
       {
-        "url": "https://en.wikipedia.org/wiki/St._Augustine_Light",
-        "label": "Wikipedia — individual lighthouse article"
+        "url": "https://www.staugustinelighthouse.org/get-involved/about-mission-uvp/history/",
+        "label": "St. Augustine Lighthouse & Maritime Museum — History"
       }
     ],
     "factIndexes": [
-      1,
-      3,
-      4
+      7,
+      8
     ],
     "sentences": [
       {
-        "text": "St. Augustine’s second lighthouse was first lit in 1874, using a conical brick tower.",
+        "text": "St. Augustine’s light station nearly lost its keepers’ house after a 1970 fire, but the Junior Service League stepped in as demolition threatened in 1980.",
         "factIndexes": [
-          1,
-          3,
-          4
+          7
         ]
       },
       {
-        "text": "It followed an earlier coquina tower whose first-lighting date is recorded as approximately 1737.",
+        "text": "Over the following 15 years the group raised more than $1.2 million to restore the house, tower and original Fresnel lens, whose prisms had been damaged by a vandal’s bullet.",
         "factIndexes": [
-          1,
-          3
+          8
         ]
       }
     ]
@@ -4623,32 +4500,28 @@
   },
   {
     "id": "ga-cockspur-island-light",
-    "summary": "Cockspur Island’s brick lighthouse was first lit in 1848, at Lazaretto Creek on Georgia’s Savannah River. The tower stands 46 feet tall.",
+    "summary": "Cockspur Island’s lighthouse stood in the line of fire during the 30-hour Union bombardment of Fort Pulaski in April 1862, yet escaped with only minor damage. Its small islet consists of oyster shells and marsh grass, while its Savannah Gray bricks were handmade by enslaved workers at the Hermitage plantation—a different part of the tower’s Civil War-era story.",
     "summarySources": [
       {
-        "url": "https://en.wikipedia.org/wiki/Cockspur_Island_Light",
-        "label": "Wikipedia — individual lighthouse article"
+        "url": "https://www.nps.gov/places/cockspur-island-lighthouse.htm",
+        "label": "National Park Service — Cockspur Island Lighthouse"
       }
     ],
     "factIndexes": [
-      0,
-      2,
-      3,
-      4
+      5,
+      6
     ],
     "sentences": [
       {
-        "text": "Cockspur Island’s brick lighthouse was first lit in 1848, at Lazaretto Creek on Georgia’s Savannah River.",
+        "text": "Cockspur Island’s lighthouse stood in the line of fire during the 30-hour Union bombardment of Fort Pulaski in April 1862, yet escaped with only minor damage.",
         "factIndexes": [
-          0,
-          3,
-          4
+          5
         ]
       },
       {
-        "text": "The tower stands 46 feet tall.",
+        "text": "Its small islet consists of oyster shells and marsh grass, while its Savannah Gray bricks were handmade by enslaved workers at the Hermitage plantation—a different part of the tower’s Civil War-era story.",
         "factIndexes": [
-          2
+          6
         ]
       }
     ]
@@ -4787,64 +4660,56 @@
   },
   {
     "id": "ga-st-simons-island-light",
-    "summary": "St. Simons Island’s lighthouse was first lit in 1872, with a conical tower constructed from iron and brick. The tower rises 104 feet.",
+    "summary": "Architect Charles Cluskey and members of the construction crew died of malaria in 1871 before St. Simons’ new lighthouse and keeper’s house were completed. The finished station mixed family life with practical engineering: a speaking tube installed in 1876 connected the tower’s watch room with the house, where the keeper and assistant occupied separate floors.",
     "summarySources": [
       {
-        "url": "https://en.wikipedia.org/wiki/St._Simons_Island_Light",
-        "label": "Wikipedia — individual lighthouse article"
+        "url": "https://stsimonsisland.com/history-of-the-st-simons-lighthouse/",
+        "label": "St. Simons Island — Lighthouse History, courtesy of Coastal Georgia Historical Society"
       }
     ],
     "factIndexes": [
-      1,
-      2,
-      3,
-      4
+      7,
+      8
     ],
     "sentences": [
       {
-        "text": "St. Simons Island’s lighthouse was first lit in 1872, with a conical tower constructed from iron and brick.",
+        "text": "Architect Charles Cluskey and members of the construction crew died of malaria in 1871 before St. Simons’ new lighthouse and keeper’s house were completed.",
         "factIndexes": [
-          1,
-          3,
-          4
+          7
         ]
       },
       {
-        "text": "The tower rises 104 feet.",
+        "text": "The finished station mixed family life with practical engineering: a speaking tube installed in 1876 connected the tower’s watch room with the house, where the keeper and assistant occupied separate floors.",
         "factIndexes": [
-          2
+          8
         ]
       }
     ]
   },
   {
     "id": "ga-tybee-island-light",
-    "summary": "Tybee Island’s brick lighthouse has a listed first-lighting date of 1867. Its tower rises 144 feet, and the light was automated in 1972.",
+    "summary": "Tybee’s present lighthouse incorporates the lower 60 feet of an older tower that survived a Civil War fire. Retreating Confederate troops burned its wooden stairs and upper section in 1861 to deny Union ships a navigation aid; after the war, builders reused the standing base and rebuilt with masonry and metal.",
     "summarySources": [
       {
-        "url": "https://en.wikipedia.org/wiki/Tybee_Island_Light",
-        "label": "Wikipedia — individual lighthouse article"
+        "url": "https://www.tybeelighthouse.org/history-of-tybee-light-station-and-fort-screven",
+        "label": "Tybee Island Light Station and Museum — History"
       }
     ],
     "factIndexes": [
-      0,
-      2,
-      3,
-      4
+      5,
+      6
     ],
     "sentences": [
       {
-        "text": "Tybee Island’s brick lighthouse has a listed first-lighting date of 1867.",
+        "text": "Tybee’s present lighthouse incorporates the lower 60 feet of an older tower that survived a Civil War fire.",
         "factIndexes": [
-          0,
-          3
+          5
         ]
       },
       {
-        "text": "Its tower rises 144 feet, and the light was automated in 1972.",
+        "text": "Retreating Confederate troops burned its wooden stairs and upper section in 1861 to deny Union ships a navigation aid; after the war, builders reused the standing base and rebuilt with masonry and metal.",
         "factIndexes": [
-          2,
-          4
+          6
         ]
       }
     ]
@@ -5046,188 +4911,162 @@
   },
   {
     "id": "hi-aloha-tower",
-    "summary": "Honolulu Harbor’s Aloha Tower opened on September 11, 1926, at Pier 9. Designed in Hawaiian Gothic style, its 184-foot tower is topped by an additional 40-foot flag mast.",
+    "summary": "Aloha Tower welcomed ocean arrivals to Honolulu, where ship days drew lei sellers, crowds and performances by the Royal Hawaiian Band. After Pearl Harbor, the Navy shut off its beacon and covered the white landmark in camouflage, using it to control military convoys; civilian control returned in 1947.",
     "summarySources": [
       {
-        "url": "https://en.wikipedia.org/wiki/Aloha_Tower",
-        "label": "Wikipedia — individual lighthouse article"
+        "url": "https://alohatower.com/history/index.html",
+        "label": "Aloha Tower — History"
       }
     ],
     "factIndexes": [
-      0,
-      1,
-      2,
-      3
+      4
     ],
     "sentences": [
       {
-        "text": "Honolulu Harbor’s Aloha Tower opened on September 11, 1926, at Pier 9.",
+        "text": "Aloha Tower welcomed ocean arrivals to Honolulu, where ship days drew lei sellers, crowds and performances by the Royal Hawaiian Band.",
         "factIndexes": [
-          0,
-          1
+          4
         ]
       },
       {
-        "text": "Designed in Hawaiian Gothic style, its 184-foot tower is topped by an additional 40-foot flag mast.",
+        "text": "After Pearl Harbor, the Navy shut off its beacon and covered the white landmark in camouflage, using it to control military convoys; civilian control returned in 1947.",
         "factIndexes": [
-          3,
-          2
+          4
         ]
       }
     ]
   },
   {
     "id": "hi-barbers-point-light",
-    "summary": "Barbers Point’s first tower was lit in 1888, followed by a second tower in 1933. The concrete lighthouse’s light was automated in 1964.",
+    "summary": "Keeper Manuel Ferreira rescued the crew of a Japanese trawler grounded near Barbers Point in 1919. Four years later, when heavy surf stopped him launching his skiff to help the stranded schooner Bianca, he ran three miles to a telephone; a warship answered the call and towed the vessel off the reef.",
     "summarySources": [
       {
-        "url": "https://en.wikipedia.org/wiki/Barbers_Point_Light_(Hawaii)",
-        "label": "Wikipedia — individual lighthouse article"
+        "url": "https://www.history.uscg.mil/Research/THE-LONG-BLUE-LINE/Article/2939234/the-long-blue-line-hawaiian-keepers-of-the-light/",
+        "label": "U.S. Coast Guard Historian — Hawaiian Keepers of the Light"
       }
     ],
     "factIndexes": [
-      0,
-      3,
-      4
+      5
     ],
     "sentences": [
       {
-        "text": "Barbers Point’s first tower was lit in 1888, followed by a second tower in 1933.",
+        "text": "Keeper Manuel Ferreira rescued the crew of a Japanese trawler grounded near Barbers Point in 1919.",
         "factIndexes": [
-          0
+          5
         ]
       },
       {
-        "text": "The concrete lighthouse’s light was automated in 1964.",
+        "text": "Four years later, when heavy surf stopped him launching his skiff to help the stranded schooner Bianca, he ran three miles to a telephone; a warship answered the call and towed the vessel off the reef.",
         "factIndexes": [
-          3,
-          4
+          5
         ]
       }
     ]
   },
   {
     "id": "hi-cape-kumukahi-light",
-    "summary": "Cape Kumukahi’s first light was built in 1929; the current tower was first lit in 1934. The steel skeleton has a square pyramidal form.",
+    "summary": "Cape Kumukahi’s lighthouse survived the 1960 Kapoho eruption even as lava destroyed the nearby Coast Guard residences. A mile-long barrier had been built to defend the area, but after holding for about a week it was breached in several places; the lighthouse remained standing amid the destruction.",
     "summarySources": [
       {
-        "url": "https://en.wikipedia.org/wiki/Cape_Kumukahi_Light",
-        "label": "Wikipedia — individual lighthouse article"
+        "url": "https://www.usgs.gov/volcanoes/kilauea/science/1960-kapoho-eruption-provided-lesson-kilauea-behavior",
+        "label": "U.S. Geological Survey — 1960 Kapoho Eruption"
       }
     ],
     "factIndexes": [
-      0,
-      1,
-      3,
-      4
+      5
     ],
     "sentences": [
       {
-        "text": "Cape Kumukahi’s first light was built in 1929; the current tower was first lit in 1934.",
+        "text": "Cape Kumukahi’s lighthouse survived the 1960 Kapoho eruption even as lava destroyed the nearby Coast Guard residences.",
         "factIndexes": [
-          0,
-          1
+          5
         ]
       },
       {
-        "text": "The steel skeleton has a square pyramidal form.",
+        "text": "A mile-long barrier had been built to defend the area, but after holding for about a week it was breached in several places; the lighthouse remained standing amid the destruction.",
         "factIndexes": [
-          3,
-          4
+          5
         ]
       }
     ]
   },
   {
     "id": "hi-diamond-head-light",
-    "summary": "Diamond Head’s first lighthouse was built in 1898; the current light was first lit in 1917. Its concrete tower has a square pyramidal shape beneath a circular balcony and lantern.",
+    "summary": "Two groundings helped spur a lighthouse at Diamond Head: Miowera in 1893 and China in 1897. An iron tower was built at Honolulu Iron Works but never installed, because the Hawaiian legislature decided the station should use masonry instead; the first light was established in 1899.",
     "summarySources": [
       {
-        "url": "https://en.wikipedia.org/wiki/Diamond_Head_Lighthouse",
-        "label": "Wikipedia — individual lighthouse article"
+        "url": "https://www.history.uscg.mil/Browse-by-Topic/Assets/Land/Lighthouses-Light-Stations/Article/1913302/diamond-head-lighthouse/",
+        "label": "U.S. Coast Guard Historian — Diamond Head Lighthouse"
       }
     ],
     "factIndexes": [
-      0,
-      1,
-      3,
-      4
+      5
     ],
     "sentences": [
       {
-        "text": "Diamond Head’s first lighthouse was built in 1898; the current light was first lit in 1917.",
+        "text": "Two groundings helped spur a lighthouse at Diamond Head: Miowera in 1893 and China in 1897.",
         "factIndexes": [
-          1,
-          0
+          5
         ]
       },
       {
-        "text": "Its concrete tower has a square pyramidal shape beneath a circular balcony and lantern.",
+        "text": "An iron tower was built at Honolulu Iron Works but never installed, because the Hawaiian legislature decided the station should use masonry instead; the first light was established in 1899.",
         "factIndexes": [
-          3,
-          4
+          5
         ]
       }
     ]
   },
   {
     "id": "hi-kilauea-light",
-    "summary": "Kīlauea’s reinforced-concrete lighthouse was first lit in 1913. The cylindrical tower rises 52 feet and is topped by a balcony and lantern.",
+    "summary": "In 1927, pilots on the first flight from the mainland to Hawaiʻi overshot Oʻahu in bad weather and spotted Kīlauea’s double flash instead. Recognizing that they were at Kauaʻi, they circled the lighthouse until daylight before continuing to Oʻahu—a maritime warning that became a landmark for early aviation.",
     "summarySources": [
       {
-        "url": "https://en.wikipedia.org/wiki/Kilauea_Light",
-        "label": "Wikipedia — individual lighthouse article"
+        "url": "https://www.kauairefuges.org/history-lighthouse",
+        "label": "Friends of Kauaʻi Wildlife Refuges — History of the Lighthouse"
       }
     ],
     "factIndexes": [
-      1,
-      2,
-      3,
-      4
+      5
     ],
     "sentences": [
       {
-        "text": "Kīlauea’s reinforced-concrete lighthouse was first lit in 1913.",
+        "text": "In 1927, pilots on the first flight from the mainland to Hawaiʻi overshot Oʻahu in bad weather and spotted Kīlauea’s double flash instead.",
         "factIndexes": [
-          1,
-          3
+          5
         ]
       },
       {
-        "text": "The cylindrical tower rises 52 feet and is topped by a balcony and lantern.",
+        "text": "Recognizing that they were at Kauaʻi, they circled the lighthouse until daylight before continuing to Oʻahu—a maritime warning that became a landmark for early aviation.",
         "factIndexes": [
-          2,
-          4
+          5
         ]
       }
     ]
   },
   {
     "id": "hi-lahaina-light",
-    "summary": "Lahaina’s original light was first lit on November 4, 1840; the later tower dates to 1905. Its construction uses wood encased in concrete.",
+    "summary": "Lahaina’s lighthouse began in 1840 as a nine-foot wooden tower helping whaling ships enter the roadstead. It predates the lighthouses built along the continental U.S. Pacific coast; as shipping increased, successive improvements eventually produced the concrete tower dedicated in 1916.",
     "summarySources": [
       {
-        "url": "https://en.wikipedia.org/wiki/Lāhainā_Lighthouse",
-        "label": "Wikipedia — individual lighthouse article"
+        "url": "https://lahainarestoration.org/Maps/lahaina-historical-trail-brochure.pdf",
+        "label": "Lahaina Restoration Foundation — Lahaina Historical Trail"
       }
     ],
     "factIndexes": [
-      0,
-      1,
-      3
+      5
     ],
     "sentences": [
       {
-        "text": "Lahaina’s original light was first lit on November 4, 1840; the later tower dates to 1905.",
+        "text": "Lahaina’s lighthouse began in 1840 as a nine-foot wooden tower helping whaling ships enter the roadstead.",
         "factIndexes": [
-          0,
-          1
+          5
         ]
       },
       {
-        "text": "Its construction uses wood encased in concrete.",
+        "text": "It predates the lighthouses built along the continental U.S. Pacific coast; as shipping increased, successive improvements eventually produced the concrete tower dedicated in 1916.",
         "factIndexes": [
-          3
+          5
         ]
       }
     ]
@@ -5368,30 +5207,28 @@
   },
   {
     "id": "il-grosse-point-light",
-    "summary": "Grosse Point’s lighthouse was built in 1873 and first lit in 1874. Its tower uses Cream City brick encased in concrete, with Italianate bracket details.",
+    "summary": "The 1860 collision of the schooner Augusta with the passenger steamer Lady Elgin helped drive calls for a lighthouse at Grosse Point. Congress funded the project in 1871, and the light began operating in 1874; its brick walls later received a four-inch concrete covering in 1914, adding another layer to the building’s history.",
     "summarySources": [
       {
-        "url": "https://en.wikipedia.org/wiki/Grosse_Point_Light",
-        "label": "Wikipedia — individual lighthouse article"
+        "url": "https://www.history.uscg.mil/Browse-by-Topic/Assets/Land/Lighthouses-Light-Stations/Article/1944470/grosse-point-light/",
+        "label": "U.S. Coast Guard — Grosse Point Light"
       }
     ],
     "factIndexes": [
-      0,
-      1,
-      3
+      5,
+      6
     ],
     "sentences": [
       {
-        "text": "Grosse Point’s lighthouse was built in 1873 and first lit in 1874.",
+        "text": "The 1860 collision of the schooner Augusta with the passenger steamer Lady Elgin helped drive calls for a lighthouse at Grosse Point.",
         "factIndexes": [
-          0,
-          1
+          5
         ]
       },
       {
-        "text": "Its tower uses Cream City brick encased in concrete, with Italianate bracket details.",
+        "text": "Congress funded the project in 1871, and the light began operating in 1874; its brick walls later received a four-inch concrete covering in 1914, adding another layer to the building’s history.",
         "factIndexes": [
-          3
+          6
         ]
       }
     ]
@@ -5588,66 +5425,56 @@
   },
   {
     "id": "in-old-michigan-city-light",
-    "summary": "The old Michigan City lighthouse was first lit in 1858 and is located in Washington Park. It was added to the historic register on November 5, 1974.",
+    "summary": "Harriet Colfax kept Michigan City’s lights for 43 years, beginning in 1861, while sharing the lighthouse home with her longtime companion Ann Hartwell. Her work took her across windblown dunes and a wave-washed pier with a heavy lamp; newspaper accounts and her own recollections describe icy spray, difficult footing and oil that stiffened in the cold.",
     "summarySources": [
       {
-        "url": "https://en.wikipedia.org/wiki/Old_Michigan_City_Light",
-        "label": "Wikipedia — individual lighthouse article"
+        "url": "https://www.nps.gov/people/harriet-colfax.htm",
+        "label": "National Park Service — Harriet Colfax"
       }
     ],
     "factIndexes": [
-      0,
-      2,
-      3
+      4,
+      5
     ],
     "sentences": [
       {
-        "text": "The old Michigan City lighthouse was first lit in 1858 and is located in Washington Park.",
+        "text": "Harriet Colfax kept Michigan City’s lights for 43 years, beginning in 1861, while sharing the lighthouse home with her longtime companion Ann Hartwell.",
         "factIndexes": [
-          0,
-          2
+          4
         ]
       },
       {
-        "text": "It was added to the historic register on November 5, 1974.",
+        "text": "Her work took her across windblown dunes and a wave-washed pier with a heavy lamp; newspaper accounts and her own recollections describe icy spray, difficult footing and oil that stiffened in the cold.",
         "factIndexes": [
-          3
+          5
         ]
       }
     ]
   },
   {
     "id": "la-new-canal-light",
-    "summary": "New Canal’s last historical lighthouse was first lit in 1890, with a square wooden tower above a house. The current Coast Guard record identifies a separate skeletal-pole aid.",
+    "summary": "Hurricanes Katrina and Rita destroyed New Canal’s historic lighthouse in 2005, leaving a lost landmark on the shore of Lake Pontchartrain. The Lake Pontchartrain Basin Foundation joined with local residents and the Urban Waters Federal Partnership to rebuild it as a museum and education center, giving the familiar structure a new role in teaching about the lake.",
     "summarySources": [
       {
-        "url": "https://en.wikipedia.org/wiki/New_Canal_Light",
-        "label": "Wikipedia — individual lighthouse article"
-      },
-      {
-        "url": "https://navcen.uscg.gov/sites/default/files/msi/lightListD08_7.geojson",
-        "label": "U.S. Coast Guard Light List"
+        "url": "https://www.epa.gov/urbanwaterspartners/new-canal-lighthouse-museum-and-education-center-project",
+        "label": "U.S. Environmental Protection Agency — New Canal Lighthouse Project"
       }
     ],
     "factIndexes": [
-      1,
-      3,
-      4,
-      6
+      7,
+      8
     ],
     "sentences": [
       {
-        "text": "New Canal’s last historical lighthouse was first lit in 1890, with a square wooden tower above a house.",
+        "text": "Hurricanes Katrina and Rita destroyed New Canal’s historic lighthouse in 2005, leaving a lost landmark on the shore of Lake Pontchartrain.",
         "factIndexes": [
-          1,
-          3,
-          4
+          7
         ]
       },
       {
-        "text": "The current Coast Guard record identifies a separate skeletal-pole aid.",
+        "text": "The Lake Pontchartrain Basin Foundation joined with local residents and the Urban Waters Federal Partnership to rebuild it as a museum and education center, giving the familiar structure a new role in teaching about the lake.",
         "factIndexes": [
-          6
+          8
         ]
       }
     ]
@@ -5780,32 +5607,28 @@
   },
   {
     "id": "la-ship-shoal-light",
-    "summary": "Ship Shoal’s cast-iron lighthouse was first lit in 1859 southwest of Isles Dernieres. Its light was automated in 1929.",
+    "summary": "Ship Shoal’s keepers faced a danger inside their own water supply: in 1866, serious illness was traced to lead paint washing from the roof into the cisterns. Officials removed the paint and substituted coal tar for rust protection; the following year, a hurricane undermined the seabed and left the lighthouse leaning to the northeast.",
     "summarySources": [
       {
-        "url": "https://en.wikipedia.org/wiki/Ship_Shoal_Light",
-        "label": "Wikipedia — individual lighthouse article"
+        "url": "https://www.history.uscg.mil/Browse-by-Topic/Assets/Land/All/Article/1989182/ship-shoal-light/",
+        "label": "U.S. Coast Guard — Ship Shoal Light"
       }
     ],
     "factIndexes": [
-      0,
-      2,
-      3,
-      4
+      5,
+      6
     ],
     "sentences": [
       {
-        "text": "Ship Shoal’s cast-iron lighthouse was first lit in 1859 southwest of Isles Dernieres.",
+        "text": "Ship Shoal’s keepers faced a danger inside their own water supply: in 1866, serious illness was traced to lead paint washing from the roof into the cisterns.",
         "factIndexes": [
-          0,
-          2,
-          4
+          5
         ]
       },
       {
-        "text": "Its light was automated in 1929.",
+        "text": "Officials removed the paint and substituted coal tar for rust protection; the following year, a hurricane undermined the seabed and left the lighthouse leaning to the northeast.",
         "factIndexes": [
-          3
+          6
         ]
       }
     ]
@@ -6065,32 +5888,28 @@
   },
   {
     "id": "ma-boston-light",
-    "summary": "Boston Light’s original construction dates to 1716; the current tower was first lit in 1783. Its conical masonry tower combines rubble stone with a brick lining.",
+    "summary": "Boston Light became a target during the Revolution: American troops burned its wooden parts in 1775, and departing British forces blew up the tower in 1776. The tower standing today belongs to the rebuilding of 1783, rather than the original colonial lighthouse.",
     "summarySources": [
       {
-        "url": "https://en.wikipedia.org/wiki/Boston_Light",
-        "label": "Wikipedia — individual lighthouse article"
+        "url": "https://www.nps.gov/boha/learn/historyculture/boston-light.htm",
+        "label": "National Park Service — Boston Light"
       }
     ],
     "factIndexes": [
-      0,
-      1,
-      3,
-      4
+      7,
+      8
     ],
     "sentences": [
       {
-        "text": "Boston Light’s original construction dates to 1716; the current tower was first lit in 1783.",
+        "text": "Boston Light became a target during the Revolution: American troops burned its wooden parts in 1775, and departing British forces blew up the tower in 1776.",
         "factIndexes": [
-          0,
-          1
+          7
         ]
       },
       {
-        "text": "Its conical masonry tower combines rubble stone with a brick lining.",
+        "text": "The tower standing today belongs to the rebuilding of 1783, rather than the original colonial lighthouse.",
         "factIndexes": [
-          3,
-          4
+          8
         ]
       }
     ]
@@ -6919,32 +6738,35 @@
   },
   {
     "id": "ma-minot-s-ledge-light",
-    "summary": "Minot’s Ledge’s first tower was built in 1850; the current granite tower was first lit in 1860. Its light was automated in 1947.",
+    "summary": "Minot’s Ledge has a tragic beginning: its first lighthouse collapsed into the sea in April 1851, killing both keepers. Its granite replacement took five years to build and was completed in 1860. A later 1–4–3 flash sequence earned it the nickname “Lover’s Light,” matching the letters in “I love you.”",
     "summarySources": [
       {
-        "url": "https://en.wikipedia.org/wiki/Minot's_Ledge_Light",
-        "label": "Wikipedia — individual lighthouse article"
+        "url": "https://www.history.uscg.mil/Research/THE-LONG-BLUE-LINE/Article/2866509/the-long-blue-line-minotsloss-of-the-deadly-lovers-light-170-years-ago/",
+        "label": "U.S. Coast Guard historian — Minots Ledge"
       }
     ],
     "factIndexes": [
-      0,
-      1,
-      3,
-      4
+      5,
+      6,
+      7
     ],
     "sentences": [
       {
-        "text": "Minot’s Ledge’s first tower was built in 1850; the current granite tower was first lit in 1860.",
+        "text": "Minot’s Ledge has a tragic beginning: its first lighthouse collapsed into the sea in April 1851, killing both keepers.",
         "factIndexes": [
-          1,
-          0
+          5
         ]
       },
       {
-        "text": "Its light was automated in 1947.",
+        "text": "Its granite replacement took five years to build and was completed in 1860.",
         "factIndexes": [
-          3,
-          4
+          6
+        ]
+      },
+      {
+        "text": "A later 1–4–3 flash sequence earned it the nickname “Lover’s Light,” matching the letters in “I love you.”",
+        "factIndexes": [
+          7
         ]
       }
     ]
@@ -8677,32 +8499,28 @@
   },
   {
     "id": "md-seven-foot-knoll-light",
-    "summary": "Seven Foot Knoll’s lighthouse was built in 1855 and first lit in 1856. The cylindrical house’s documented construction changed from cast iron to wrought iron.",
+    "summary": "When the tug Point Breeze sank during a fierce storm in 1933, Seven Foot Knoll keeper Thomas Steinhise took his small boat out to the men in the water. He brought six back to the lighthouse; five survived, and the rescue earned him a Silver Lifesaving Medal.",
     "summarySources": [
       {
-        "url": "https://en.wikipedia.org/wiki/Seven_Foot_Knoll_Light",
-        "label": "Wikipedia — individual lighthouse article"
+        "url": "https://historicships.org/uploads/files/Volume11Issue3-Fall2009.pdf",
+        "label": "Historic Ships in Baltimore — keeper history and rescue account"
       }
     ],
     "factIndexes": [
-      0,
-      1,
-      3,
-      4
+      5,
+      6
     ],
     "sentences": [
       {
-        "text": "Seven Foot Knoll’s lighthouse was built in 1855 and first lit in 1856.",
+        "text": "When the tug Point Breeze sank during a fierce storm in 1933, Seven Foot Knoll keeper Thomas Steinhise took his small boat out to the men in the water.",
         "factIndexes": [
-          0,
-          1
+          5
         ]
       },
       {
-        "text": "The cylindrical house’s documented construction changed from cast iron to wrought iron.",
+        "text": "He brought six back to the lighthouse; five survived, and the rescue earned him a Silver Lifesaving Medal.",
         "factIndexes": [
-          3,
-          4
+          6
         ]
       }
     ]
@@ -8771,32 +8589,28 @@
   },
   {
     "id": "md-thomas-point-shoal-light",
-    "summary": "Thomas Point Shoal’s lighthouse was first lit in 1875, with a square lantern above a hexagonal house of cast iron and wood. The light was automated in 1986.",
+    "summary": "Ice could threaten Thomas Point Shoal as fiercely as waves: in 1877, moving ice damaged its iron legs and shook the lens off its mount. The old shore tower temporarily took over while repairs were made, and a separate icebreaker was installed about ninety feet north of the house to protect the station.",
     "summarySources": [
       {
-        "url": "https://en.wikipedia.org/wiki/Thomas_Point_Shoal_Light",
-        "label": "Wikipedia — individual lighthouse article"
+        "url": "https://uslhs.org/travel/cruises/thomas-point-shoal-lighthouse/history/annual-reports",
+        "label": "U.S. Lighthouse Board — annual reports reproduced by USLHS"
       }
     ],
     "factIndexes": [
-      0,
-      2,
-      3,
-      4
+      5,
+      6
     ],
     "sentences": [
       {
-        "text": "Thomas Point Shoal’s lighthouse was first lit in 1875, with a square lantern above a hexagonal house of cast iron and wood.",
+        "text": "Ice could threaten Thomas Point Shoal as fiercely as waves: in 1877, moving ice damaged its iron legs and shook the lens off its mount.",
         "factIndexes": [
-          0,
-          2,
-          4
+          5
         ]
       },
       {
-        "text": "The light was automated in 1986.",
+        "text": "The old shore tower temporarily took over while repairs were made, and a separate icebreaker was installed about ninety feet north of the house to protect the station.",
         "factIndexes": [
-          3
+          6
         ]
       }
     ]
@@ -8996,32 +8810,28 @@
   },
   {
     "id": "me-boon-island-light",
-    "summary": "Boon Island’s first lighthouse construction dates to 1811; the current tower was first lit in 1855. The gray granite tower has a conical form connected to a building.",
+    "summary": "During the blizzard of 1978, Boon Island’s keeper’s house flooded to the first-floor ceiling, forcing the two Coast Guard keepers to shelter in the tower. A helicopter removed them the next day, and the storm was followed soon afterward by automation of the light.",
     "summarySources": [
       {
-        "url": "https://en.wikipedia.org/wiki/Boon_Island_Light",
-        "label": "Wikipedia — individual lighthouse article"
+        "url": "https://www.newenglandlighthouses.net/boon-island-light-history.html",
+        "label": "New England Lighthouses — Boon Island history"
       }
     ],
     "factIndexes": [
-      0,
-      1,
-      3,
-      4
+      7,
+      8
     ],
     "sentences": [
       {
-        "text": "Boon Island’s first lighthouse construction dates to 1811; the current tower was first lit in 1855.",
+        "text": "During the blizzard of 1978, Boon Island’s keeper’s house flooded to the first-floor ceiling, forcing the two Coast Guard keepers to shelter in the tower.",
         "factIndexes": [
-          0,
-          1
+          7
         ]
       },
       {
-        "text": "The gray granite tower has a conical form connected to a building.",
+        "text": "A helicopter removed them the next day, and the storm was followed soon afterward by automation of the light.",
         "factIndexes": [
-          3,
-          4
+          8
         ]
       }
     ]
@@ -10369,32 +10179,28 @@
   },
   {
     "id": "me-portland-head-light",
-    "summary": "Portland Head’s lighthouse was first lit in 1791, with a rubble-stone tower lined in brick. It stands at Cape Elizabeth, Maine, and its light was automated in 1989.",
+    "summary": "Christmas Eve 1886 brought a shipwreck to Portland Head’s doorstep when the Annie C. Maguire struck the ledge beside the lighthouse. Keeper Joshua Strout, his family and volunteers turned a ladder into a gangplank, helping the people aboard cross from the rocks to safety.",
     "summarySources": [
       {
-        "url": "https://en.wikipedia.org/wiki/Portland_Head_Light",
-        "label": "Wikipedia — individual lighthouse article"
+        "url": "https://portlandheadlight.com/about-us/",
+        "label": "Portland Head Light museum — station history"
       }
     ],
     "factIndexes": [
-      0,
-      2,
-      3,
-      4
+      5,
+      6
     ],
     "sentences": [
       {
-        "text": "Portland Head’s lighthouse was first lit in 1791, with a rubble-stone tower lined in brick.",
+        "text": "Christmas Eve 1886 brought a shipwreck to Portland Head’s doorstep when the Annie C. Maguire struck the ledge beside the lighthouse.",
         "factIndexes": [
-          0,
-          2
+          5
         ]
       },
       {
-        "text": "It stands at Cape Elizabeth, Maine, and its light was automated in 1989.",
+        "text": "Keeper Joshua Strout, his family and volunteers turned a ladder into a gangplank, helping the people aboard cross from the rocks to safety.",
         "factIndexes": [
-          4,
-          3
+          6
         ]
       }
     ]
@@ -10829,32 +10635,28 @@
   },
   {
     "id": "me-whaleback-light",
-    "summary": "Whaleback’s current tower was first lit in 1872 and is built from granite blocks. Its earlier construction history dates to 1830, and the light was automated in 1963.",
+    "summary": "When an 1886 winter gale smashed a window and flooded Whaleback’s living quarters, keeper Leander White hung out a blanket as a distress signal. Two local men finally reached him days later, only to need help themselves: a steamer towed their small boat to safety through the rough seas.",
     "summarySources": [
       {
-        "url": "https://en.wikipedia.org/wiki/Whaleback_Light",
-        "label": "Wikipedia — individual lighthouse article"
+        "url": "https://lighthousefoundation.org/2017/10/lighthouse-keepers-leander-white-and-henry-m-cuskley-honored/",
+        "label": "American Lighthouse Foundation — Leander White biography"
       }
     ],
     "factIndexes": [
-      0,
-      1,
-      3,
-      4
+      5,
+      6
     ],
     "sentences": [
       {
-        "text": "Whaleback’s current tower was first lit in 1872 and is built from granite blocks.",
+        "text": "When an 1886 winter gale smashed a window and flooded Whaleback’s living quarters, keeper Leander White hung out a blanket as a distress signal.",
         "factIndexes": [
-          0,
-          3
+          5
         ]
       },
       {
-        "text": "Its earlier construction history dates to 1830, and the light was automated in 1963.",
+        "text": "Two local men finally reached him days later, only to need help themselves: a steamer towed their small boat to safety through the rough seas.",
         "factIndexes": [
-          1,
-          4
+          6
         ]
       }
     ]
@@ -11025,33 +10827,28 @@
   },
   {
     "id": "mi-au-sable-light",
-    "summary": "Au Sable’s brick lighthouse was first lit in 1874 on Lake Superior, in Pictured Rocks National Lakeshore. Its tower has Italianate bracket details, and the light was automated in 1958.",
+    "summary": "Au Sable’s tower reaches 23 feet below ground to anchor itself in bedrock, a less visible counterpart to the lighthouse above Lake Superior. Built in 1873–1874, the station answered a dangerous combination of storms, dense fog and an underwater sandstone reef; keepers and later Coast Guard crews staffed it continuously for 84 years.",
     "summarySources": [
       {
-        "url": "https://en.wikipedia.org/wiki/Au_Sable_Light",
-        "label": "Wikipedia — individual lighthouse article"
+        "url": "https://www.nps.gov/piro/learn/historyculture/ausablelightstation.htm",
+        "label": "National Park Service — Au Sable Light Station"
       }
     ],
     "factIndexes": [
-      0,
-      2,
-      3,
-      4
+      5,
+      6
     ],
     "sentences": [
       {
-        "text": "Au Sable’s brick lighthouse was first lit in 1874 on Lake Superior, in Pictured Rocks National Lakeshore.",
+        "text": "Au Sable’s tower reaches 23 feet below ground to anchor itself in bedrock, a less visible counterpart to the lighthouse above Lake Superior.",
         "factIndexes": [
-          0,
-          2,
-          4
+          5
         ]
       },
       {
-        "text": "Its tower has Italianate bracket details, and the light was automated in 1958.",
+        "text": "Built in 1873–1874, the station answered a dangerous combination of storms, dense fog and an underwater sandstone reef; keepers and later Coast Guard crews staffed it continuously for 84 years.",
         "factIndexes": [
-          2,
-          3
+          6
         ]
       }
     ]
@@ -14011,32 +13808,28 @@
   },
   {
     "id": "mi-rock-harbor-light",
-    "summary": "Rock Harbor’s lighthouse was built in 1855 and first lit the following year. Its brick-and-stone construction was finished with a white exterior and a black lantern.",
+    "summary": "Rock Harbor’s lighthouse followed Isle Royale’s copper fortunes: it opened in 1855, went dark in 1859 as mining declined, and was revived in 1874 when interest returned. Another mining downturn and the new Isle Royale Light on Menagerie Island led to its final closure in 1879, leaving a tower with two short working lives rather than one continuous run.",
     "summarySources": [
       {
-        "url": "https://en.wikipedia.org/wiki/Rock_Harbor_Light",
-        "label": "Wikipedia — individual lighthouse article"
+        "url": "https://www.nps.gov/articles/000/rock-harbor-lighthouse.htm",
+        "label": "National Park Service — Rock Harbor Lighthouse"
       }
     ],
     "factIndexes": [
-      0,
-      1,
-      3,
-      4
+      5,
+      6
     ],
     "sentences": [
       {
-        "text": "Rock Harbor’s lighthouse was built in 1855 and first lit the following year.",
+        "text": "Rock Harbor’s lighthouse followed Isle Royale’s copper fortunes: it opened in 1855, went dark in 1859 as mining declined, and was revived in 1874 when interest returned.",
         "factIndexes": [
-          0,
-          1
+          5
         ]
       },
       {
-        "text": "Its brick-and-stone construction was finished with a white exterior and a black lantern.",
+        "text": "Another mining downturn and the new Isle Royale Light on Menagerie Island led to its final closure in 1879, leaving a tower with two short working lives rather than one continuous run.",
         "factIndexes": [
-          3,
-          4
+          6
         ]
       }
     ]
@@ -14451,32 +14244,28 @@
   },
   {
     "id": "mi-south-manitou-island-light",
-    "summary": "South Manitou Island Light was first lit in 1840. Its conical tower was built from brick and masonry with Italianate brackets, and the tower measured 65 feet (20 m).",
+    "summary": "South Manitou’s keeper Aaron Sheridan and his wife Julia raised six sons on the island, with Julia appointed the station’s first assistant keeper. In March 1878, the couple and their youngest son Robert drowned when their returning boat capsized; the five surviving children went to live with their grandparents, and descendants placed memorial gravestones on the island in 2006.",
     "summarySources": [
       {
-        "url": "https://en.wikipedia.org/wiki/South_Manitou_Island_Lighthouse",
-        "label": "Wikipedia — individual lighthouse article"
+        "url": "https://www.nps.gov/places/000/south-manitou-lighthouse-complex.htm",
+        "label": "National Park Service — South Manitou Lighthouse Complex"
       }
     ],
     "factIndexes": [
-      1,
-      2,
-      3,
-      4
+      5,
+      6
     ],
     "sentences": [
       {
-        "text": "South Manitou Island Light was first lit in 1840.",
+        "text": "South Manitou’s keeper Aaron Sheridan and his wife Julia raised six sons on the island, with Julia appointed the station’s first assistant keeper.",
         "factIndexes": [
-          1
+          5
         ]
       },
       {
-        "text": "Its conical tower was built from brick and masonry with Italianate brackets, and the tower measured 65 feet (20 m).",
+        "text": "In March 1878, the couple and their youngest son Robert drowned when their returning boat capsized; the five surviving children went to live with their grandparents, and descendants placed memorial gravestones on the island in 2006.",
         "factIndexes": [
-          4,
-          3,
-          2
+          6
         ]
       }
     ]
@@ -14579,32 +14368,28 @@
   },
   {
     "id": "mi-st-helena-island-light",
-    "summary": "St. Helena Island Light was first lit in 1873. Its tapered round tower with an attached cottage was built from brick, and the tower measured 63 feet (19 m).",
+    "summary": "St. Helena’s restoration became a long-running classroom for Scouts: individual projects restored the privy, a bedroom, summer kitchen and keeper’s office. Troop 4 helped reconstruct the assistant keeper’s dwelling and boathouse, while Girl Scouts and other volunteers also worked on the site—preservation carried out building by building, over many years.",
     "summarySources": [
       {
-        "url": "https://en.wikipedia.org/wiki/St._Helena_Island_Light",
-        "label": "Wikipedia — individual lighthouse article"
+        "url": "https://www.gllka.org/gllka-chronology",
+        "label": "Great Lakes Lighthouse Keepers Association — Chronology"
       }
     ],
     "factIndexes": [
-      1,
-      2,
-      3,
-      4
+      7,
+      8
     ],
     "sentences": [
       {
-        "text": "St. Helena Island Light was first lit in 1873.",
+        "text": "St. Helena’s restoration became a long-running classroom for Scouts: individual projects restored the privy, a bedroom, summer kitchen and keeper’s office.",
         "factIndexes": [
-          1
+          7
         ]
       },
       {
-        "text": "Its tapered round tower with an attached cottage was built from brick, and the tower measured 63 feet (19 m).",
+        "text": "Troop 4 helped reconstruct the assistant keeper’s dwelling and boathouse, while Girl Scouts and other volunteers also worked on the site—preservation carried out building by building, over many years.",
         "factIndexes": [
-          4,
-          3,
-          2
+          8
         ]
       }
     ]
@@ -14771,32 +14556,28 @@
   },
   {
     "id": "mi-tawas-point-light",
-    "summary": "Tawas Point Light was first lit in 1853. Its conical tower was built from brick and masonry, and the tower measured 67 feet (20 m).",
+    "summary": "At Tawas Point, the shoreline grew away from the lighthouse: accumulating sand left the first 1853 tower more than a mile inland by the 1870s. A replacement built in 1876 faced the same long-term problem, and in 2016 the Coast Guard moved the navigation light to a pole at the point’s end, leaving the historic Fresnel lens in the tower.",
     "summarySources": [
       {
-        "url": "https://en.wikipedia.org/wiki/Tawas_Point_Light",
-        "label": "Wikipedia — individual lighthouse article"
+        "url": "https://www.michigan.gov/mhc/museums/tawas",
+        "label": "Michigan History Center — Tawas Point Lighthouse"
       }
     ],
     "factIndexes": [
-      1,
-      2,
-      3,
-      4
+      5,
+      6
     ],
     "sentences": [
       {
-        "text": "Tawas Point Light was first lit in 1853.",
+        "text": "At Tawas Point, the shoreline grew away from the lighthouse: accumulating sand left the first 1853 tower more than a mile inland by the 1870s.",
         "factIndexes": [
-          1
+          5
         ]
       },
       {
-        "text": "Its conical tower was built from brick and masonry, and the tower measured 67 feet (20 m).",
+        "text": "A replacement built in 1876 faced the same long-term problem, and in 2016 the Coast Guard moved the navigation light to a pole at the point’s end, leaving the historic Fresnel lens in the tower.",
         "factIndexes": [
-          4,
-          3,
-          2
+          6
         ]
       }
     ]
@@ -15306,32 +15087,28 @@
   },
   {
     "id": "mn-split-rock-lighthouse",
-    "summary": "First lit in 1910, Split Rock places a 54-foot tower on a 130-foot cliff. The lighthouse’s tower is octagonal and built from brick.",
+    "summary": "A November 1905 storm damaged 29 ships on Lake Superior, helping spur the campaign that led to Split Rock Lighthouse. Completed in 1910, the station could be reached only by water until a highway arrived in 1924; the new road soon turned a remote working light into a popular visitor destination.",
     "summarySources": [
       {
-        "url": "https://en.wikipedia.org/wiki/Split_Rock_Lighthouse",
-        "label": "Wikipedia — individual lighthouse article"
+        "url": "https://www.mnhs.org/splitrock/learn/history",
+        "label": "Minnesota Historical Society — History of the Lighthouse"
       }
     ],
     "factIndexes": [
-      0,
-      1,
-      2,
-      3
+      5,
+      6
     ],
     "sentences": [
       {
-        "text": "First lit in 1910, Split Rock places a 54-foot tower on a 130-foot cliff.",
+        "text": "A November 1905 storm damaged 29 ships on Lake Superior, helping spur the campaign that led to Split Rock Lighthouse.",
         "factIndexes": [
-          0,
-          1
+          5
         ]
       },
       {
-        "text": "The lighthouse’s tower is octagonal and built from brick.",
+        "text": "Completed in 1910, the station could be reached only by water until a highway arrived in 1924; the new road soon turned a remote working light into a popular visitor destination.",
         "factIndexes": [
-          2,
-          3
+          6
         ]
       }
     ]
@@ -15432,32 +15209,28 @@
   },
   {
     "id": "ms-biloxi-light",
-    "summary": "Biloxi’s lighthouse was first lit in 1848 and automated in 1941. Its cast-iron tower has brick backing and a brick foundation, with a listed height of 61 feet.",
+    "summary": "Biloxi’s lighthouse was tended by several women, including Maria Younghans, who kept the light for more than half a century. Its cast-iron exterior survived Hurricane Katrina, but the surge reached a third of the way up the tower and knocked out many of its lining bricks; restoration returned the lighthouse to public tours in 2010.",
     "summarySources": [
       {
-        "url": "https://en.wikipedia.org/wiki/Biloxi_Light",
-        "label": "Wikipedia — individual lighthouse article"
+        "url": "https://biloxi.ms.us/visitor-info/museums/lighthouse/",
+        "label": "City of Biloxi — Biloxi Lighthouse"
       }
     ],
     "factIndexes": [
-      0,
-      1,
-      2,
-      3
+      5,
+      6
     ],
     "sentences": [
       {
-        "text": "Biloxi’s lighthouse was first lit in 1848 and automated in 1941.",
+        "text": "Biloxi’s lighthouse was tended by several women, including Maria Younghans, who kept the light for more than half a century.",
         "factIndexes": [
-          0,
-          3
+          5
         ]
       },
       {
-        "text": "Its cast-iron tower has brick backing and a brick foundation, with a listed height of 61 feet.",
+        "text": "Its cast-iron exterior survived Hurricane Katrina, but the surge reached a third of the way up the tower and knocked out many of its lining bricks; restoration returned the lighthouse to public tours in 2010.",
         "factIndexes": [
-          1,
-          2
+          6
         ]
       }
     ]
@@ -15528,96 +15301,84 @@
   },
   {
     "id": "nc-bodie-island-light",
-    "summary": "Bodie Island’s current tower was built in 1872, following earlier towers from 1847 and 1859. The Coast Guard describes a conical brick tower with white-and-black bands above a granite base.",
+    "summary": "Soon after Bodie Island’s lighthouse opened in 1872, flocks of geese crashed into its lens; screening around the lantern helped solve the problem. Isolation proved harder to fix: with the nearest school in Manteo accessible only by boat, keepers’ wives and children lived away from the station for much of the year until school buses could reach the island.",
     "summarySources": [
       {
-        "url": "https://en.wikipedia.org/wiki/Bodie_Island_Lighthouse",
-        "label": "Wikipedia — individual lighthouse article"
-      },
-      {
-        "url": "https://navcen.uscg.gov/sites/default/files/msi/lightListD05_1.geojson",
-        "label": "U.S. Coast Guard Light List"
+        "url": "https://www.nps.gov/caha/planyourvisit/bils.htm",
+        "label": "National Park Service — Bodie Island Light Station"
       }
     ],
     "factIndexes": [
-      0,
-      6
+      7,
+      8
     ],
     "sentences": [
       {
-        "text": "Bodie Island’s current tower was built in 1872, following earlier towers from 1847 and 1859.",
+        "text": "Soon after Bodie Island’s lighthouse opened in 1872, flocks of geese crashed into its lens; screening around the lantern helped solve the problem.",
         "factIndexes": [
-          0
+          7
         ]
       },
       {
-        "text": "The Coast Guard describes a conical brick tower with white-and-black bands above a granite base.",
+        "text": "Isolation proved harder to fix: with the nearest school in Manteo accessible only by boat, keepers’ wives and children lived away from the station for much of the year until school buses could reach the island.",
         "factIndexes": [
-          6
+          8
         ]
       }
     ]
   },
   {
     "id": "nc-cape-hatteras-light",
-    "summary": "The current Cape Hatteras tower was first lit on 16 December 1870 and gained its black-and-white stripes in 1873. In 1999, the tower was moved 2,900 feet inland.",
+    "summary": "Cape Hatteras Lighthouse traveled 2,900 feet over 23 days in 1999 as engineers moved it away from an eroding shoreline. The keepers’ homes, oil house and cisterns moved too, preserving their historic arrangement at the new site; erosion had already forced the lighthouse out of service in 1935 before its beacon returned in 1950.",
     "summarySources": [
       {
         "url": "https://www.nps.gov/caha/planyourvisit/chls.htm",
-        "label": "National Park Service"
+        "label": "National Park Service — Cape Hatteras Light Station"
       }
     ],
     "factIndexes": [
-      0,
-      3,
-      4
+      5,
+      6
     ],
     "sentences": [
       {
-        "text": "The current Cape Hatteras tower was first lit on 16 December 1870 and gained its black-and-white stripes in 1873.",
+        "text": "Cape Hatteras Lighthouse traveled 2,900 feet over 23 days in 1999 as engineers moved it away from an eroding shoreline.",
         "factIndexes": [
-          0,
-          3
+          5
         ]
       },
       {
-        "text": "In 1999, the tower was moved 2,900 feet inland.",
+        "text": "The keepers’ homes, oil house and cisterns moved too, preserving their historic arrangement at the new site; erosion had already forced the lighthouse out of service in 1935 before its beacon returned in 1950.",
         "factIndexes": [
-          4
+          6
         ]
       }
     ]
   },
   {
     "id": "nc-cape-lookout-light",
-    "summary": "Cape Lookout’s lighthouse was first lit in 1859. Its 163-foot conical brick tower carries a black-and-white diagonal check pattern described in the Coast Guard’s listing.",
+    "summary": "Cape Lookout’s famous diamonds were a later addition: the 1859 lighthouse began as plain red brick and received its black-and-white pattern in 1873. During the Civil War its light was extinguished to hinder Union navigation, and a Confederate raid damaged the iron stairs; the staircase and original lens were back in place after repairs in 1867.",
     "summarySources": [
       {
-        "url": "https://en.wikipedia.org/wiki/Cape_Lookout_Lighthouse",
-        "label": "Wikipedia — individual lighthouse article"
-      },
-      {
-        "url": "https://navcen.uscg.gov/sites/default/files/msi/lightListD05_1.geojson",
-        "label": "U.S. Coast Guard Light List"
+        "url": "https://www.nps.gov/calo/learn/historyculture/1859lh.htm",
+        "label": "National Park Service — 1859 Lighthouse"
       }
     ],
     "factIndexes": [
-      1,
-      2,
-      6
+      7,
+      8
     ],
     "sentences": [
       {
-        "text": "Cape Lookout’s lighthouse was first lit in 1859.",
+        "text": "Cape Lookout’s famous diamonds were a later addition: the 1859 lighthouse began as plain red brick and received its black-and-white pattern in 1873.",
         "factIndexes": [
-          1
+          7
         ]
       },
       {
-        "text": "Its 163-foot conical brick tower carries a black-and-white diagonal check pattern described in the Coast Guard’s listing.",
+        "text": "During the Civil War its light was extinguished to hinder Union navigation, and a Confederate raid damaged the iron stairs; the staircase and original lens were back in place after repairs in 1867.",
         "factIndexes": [
-          2,
-          6
+          8
         ]
       }
     ]
@@ -15750,32 +15511,28 @@
   },
   {
     "id": "nc-ocracoke-light",
-    "summary": "Ocracoke’s current tower was built in 1823 and first lit on August 15, 1824. The brick tower has a mortar surface; automation followed in 1955.",
+    "summary": "Ocracoke’s light station also served its neighbors during hurricanes: residents sometimes reached the keepers’ home by boat along flooded roads to shelter on its higher ground. Between storms, keeper families gardened, raised livestock and joined village life; a traveling Lighthouse Service library brought boxes of books that circulated between stations every six months.",
     "summarySources": [
       {
-        "url": "https://en.wikipedia.org/wiki/Ocracoke_Light",
-        "label": "Wikipedia — individual lighthouse article"
+        "url": "https://www.nps.gov/caha/planyourvisit/ols.htm",
+        "label": "National Park Service — Ocracoke Light Station"
       }
     ],
     "factIndexes": [
-      0,
-      1,
-      3,
-      4
+      5,
+      6
     ],
     "sentences": [
       {
-        "text": "Ocracoke’s current tower was built in 1823 and first lit on August 15, 1824.",
+        "text": "Ocracoke’s light station also served its neighbors during hurricanes: residents sometimes reached the keepers’ home by boat along flooded roads to shelter on its higher ground.",
         "factIndexes": [
-          0,
-          1
+          5
         ]
       },
       {
-        "text": "The brick tower has a mortar surface; automation followed in 1955.",
+        "text": "Between storms, keeper families gardened, raised livestock and joined village life; a traveling Lighthouse Service library brought boxes of books that circulated between stations every six months.",
         "factIndexes": [
-          3,
-          4
+          6
         ]
       }
     ]
@@ -16070,64 +15827,56 @@
   },
   {
     "id": "nj-absecon-light",
-    "summary": "Absecon Light was first lit in 1857 at Vermont and Pacific Avenues, Atlantic City, New Jersey. Its tower was built from brick and iron and measured 171 feet (52 m).",
+    "summary": "Absecon’s restoration suffered an extraordinary setback in 1998: its reconstructed keeper’s house burned just weeks before completion, while the tower escaped serious damage. The effort continued, opening the tower to visitors in 1999 and completing another keeper’s house in 2001.",
     "summarySources": [
       {
-        "url": "https://en.wikipedia.org/wiki/Absecon_Light",
-        "label": "Wikipedia — individual lighthouse article"
+        "url": "https://abseconlighthouse.org/about/",
+        "label": "Absecon Lighthouse — official station history"
       }
     ],
     "factIndexes": [
-      0,
-      2,
-      3,
-      4
+      5,
+      6
     ],
     "sentences": [
       {
-        "text": "Absecon Light was first lit in 1857 at Vermont and Pacific Avenues, Atlantic City, New Jersey.",
+        "text": "Absecon’s restoration suffered an extraordinary setback in 1998: its reconstructed keeper’s house burned just weeks before completion, while the tower escaped serious damage.",
         "factIndexes": [
-          0,
-          4
+          5
         ]
       },
       {
-        "text": "Its tower was built from brick and iron and measured 171 feet (52 m).",
+        "text": "The effort continued, opening the tower to visitors in 1999 and completing another keeper’s house in 2001.",
         "factIndexes": [
-          3,
-          2
+          6
         ]
       }
     ]
   },
   {
     "id": "nj-barnegat-lighthouse",
-    "summary": "The article identifies 1857 as the current Barnegat tower’s first-light date. The Coast Guard describes a conical brick tower painted red on its upper half and white below.",
+    "summary": "Before commanding Union forces at Gettysburg, George G. Meade designed Barnegat Lighthouse as an Army engineer. The tower had a job well beyond its own inlet: together with Fire Island Light to the north, it helped navigators find the approach to New York Harbor.",
     "summarySources": [
       {
-        "url": "https://en.wikipedia.org/wiki/Barnegat_Lighthouse",
-        "label": "Wikipedia — individual lighthouse article"
-      },
-      {
-        "url": "https://navcen.uscg.gov/sites/default/files/msi/lightListD05_7.geojson",
-        "label": "U.S. Coast Guard Light List"
+        "url": "https://www.nj.gov/dca/njht/funded/sitedetails/barnegatlighthouse.shtml",
+        "label": "New Jersey Historic Trust — Barnegat Lighthouse"
       }
     ],
     "factIndexes": [
-      1,
-      6
+      7,
+      8
     ],
     "sentences": [
       {
-        "text": "The article identifies 1857 as the current Barnegat tower’s first-light date.",
+        "text": "Before commanding Union forces at Gettysburg, George G. Meade designed Barnegat Lighthouse as an Army engineer.",
         "factIndexes": [
-          1
+          7
         ]
       },
       {
-        "text": "The Coast Guard describes a conical brick tower painted red on its upper half and white below.",
+        "text": "The tower had a job well beyond its own inlet: together with Fire Island Light to the north, it helped navigators find the approach to New York Harbor.",
         "factIndexes": [
-          6
+          8
         ]
       }
     ]
@@ -16164,34 +15913,28 @@
   },
   {
     "id": "nj-cape-may-light",
-    "summary": "Cape May’s recorded lighting date is 1859, and automation followed in 1946. The Coast Guard describes a white tower with a red cupola and two white dwellings nearby.",
+    "summary": "Cape May’s 1859 tower is the third lighthouse here; erosion has put the sites of its two predecessors underwater. Inside is a tower-within-a-tower design: a cylindrical brick wall supports the spiral staircase, surrounded by a separate, tapering outer wall.",
     "summarySources": [
       {
-        "url": "https://en.wikipedia.org/wiki/Cape_May_Light",
-        "label": "Wikipedia — individual lighthouse article"
-      },
-      {
-        "url": "https://navcen.uscg.gov/sites/default/files/msi/lightListD05_1.geojson",
-        "label": "U.S. Coast Guard Light List"
+        "url": "https://capemaymac.org/experience/cape-may-lighthouse/",
+        "label": "Cape May MAC — lighthouse history and construction"
       }
     ],
     "factIndexes": [
-      1,
-      4,
-      6
+      7,
+      8
     ],
     "sentences": [
       {
-        "text": "Cape May’s recorded lighting date is 1859, and automation followed in 1946.",
+        "text": "Cape May’s 1859 tower is the third lighthouse here; erosion has put the sites of its two predecessors underwater.",
         "factIndexes": [
-          1,
-          4
+          7
         ]
       },
       {
-        "text": "The Coast Guard describes a white tower with a red cupola and two white dwellings nearby.",
+        "text": "Inside is a tower-within-a-tower design: a cylindrical brick wall supports the spiral staircase, surrounded by a separate, tapering outer wall.",
         "factIndexes": [
-          6
+          8
         ]
       }
     ]
@@ -16550,32 +16293,28 @@
   },
   {
     "id": "nj-sandy-hook-light",
-    "summary": "Sandy Hook Light was built on June 11, 1764 and automated in 1965. Its tower was built from rubble, with a recorded height of 103 feet (31 m).",
+    "summary": "A lottery helped pay for Sandy Hook Light: forty-three New York merchants petitioned for it, and ticket proceeds funded the land and the tower completed in 1764. Its planned optical upgrade took a detour in 1840, when a new Fresnel lens proved too large to fit and went to Navesink Twin Lights instead.",
     "summarySources": [
       {
-        "url": "https://en.wikipedia.org/wiki/Sandy_Hook_Light",
-        "label": "Wikipedia — individual lighthouse article"
+        "url": "https://www.nps.gov/places/000/sandy-hook-lighthouse.htm",
+        "label": "National Park Service — Sandy Hook Lighthouse"
       }
     ],
     "factIndexes": [
-      0,
-      1,
-      2,
-      4
+      6,
+      7
     ],
     "sentences": [
       {
-        "text": "Sandy Hook Light was built on June 11, 1764 and automated in 1965.",
+        "text": "A lottery helped pay for Sandy Hook Light: forty-three New York merchants petitioned for it, and ticket proceeds funded the land and the tower completed in 1764.",
         "factIndexes": [
-          0,
-          4
+          6
         ]
       },
       {
-        "text": "Its tower was built from rubble, with a recorded height of 103 feet (31 m).",
+        "text": "Its planned optical upgrade took a detour in 1840, when a new Fresnel lens proved too large to fit and went to Navesink Twin Lights instead.",
         "factIndexes": [
-          2,
-          1
+          7
         ]
       }
     ]
@@ -17464,64 +17203,56 @@
   },
   {
     "id": "ny-execution-rocks-light",
-    "summary": "Execution Rocks Light was first lit in 1850 and automated in 1979. Its tower was built from granite with brick lining, with a recorded height of 60 feet (18 m).",
+    "summary": "In February 1905, floating ice cut keeper Willis Green and his family off from provisions at Execution Rocks. After they went without food for more than a day, he rowed two hours to shore, then made the dangerous return alone while villagers watched and cheered his safe arrival.",
     "summarySources": [
       {
-        "url": "https://en.wikipedia.org/wiki/Execution_Rocks_Light",
-        "label": "Wikipedia — individual lighthouse article"
+        "url": "https://www.lighthousefriends.com/light.asp?ID=749",
+        "label": "Lighthouse Friends — Execution Rocks history"
       }
     ],
     "factIndexes": [
-      0,
-      2,
-      3,
-      4
+      5,
+      6
     ],
     "sentences": [
       {
-        "text": "Execution Rocks Light was first lit in 1850 and automated in 1979.",
+        "text": "In February 1905, floating ice cut keeper Willis Green and his family off from provisions at Execution Rocks.",
         "factIndexes": [
-          0,
-          4
+          5
         ]
       },
       {
-        "text": "Its tower was built from granite with brick lining, with a recorded height of 60 feet (18 m).",
+        "text": "After they went without food for more than a day, he rowed two hours to shore, then made the dangerous return alone while villagers watched and cheered his safe arrival.",
         "factIndexes": [
-          3,
-          2
+          6
         ]
       }
     ]
   },
   {
     "id": "ny-fire-island-light",
-    "summary": "Fire Island Light was first lit in 1858. Its conical tower was built from brick encased in cement, and the tower measured 168 feet (51 m).",
+    "summary": "Fire Island’s 1858 beacon was a sixteen-foot-tall assembly of glass and brass, turned by clockwork and a flying pendulum. The familiar black-and-white stripes were a later addition: the tower was originally cream-colored and did not receive its striped daymarks until 1892.",
     "summarySources": [
       {
-        "url": "https://en.wikipedia.org/wiki/Fire_Island_Lighthouse",
-        "label": "Wikipedia — individual lighthouse article"
+        "url": "https://www.nps.gov/fiis/learn/historyculture/fire-island-lighthouse-history.htm",
+        "label": "National Park Service — Fire Island lighthouse history"
       }
     ],
     "factIndexes": [
-      1,
-      2,
-      3,
-      4
+      6,
+      7
     ],
     "sentences": [
       {
-        "text": "Fire Island Light was first lit in 1858.",
+        "text": "Fire Island’s 1858 beacon was a sixteen-foot-tall assembly of glass and brass, turned by clockwork and a flying pendulum.",
         "factIndexes": [
-          1
+          6
         ]
       },
       {
-        "text": "Its conical tower was built from brick encased in cement, and the tower measured 168 feet (51 m).",
+        "text": "The familiar black-and-white stripes were a later addition: the tower was originally cream-colored and did not receive its striped daymarks until 1892.",
         "factIndexes": [
-          4,
-          3,
-          2
+          7
         ]
       }
     ]
@@ -17878,32 +17609,28 @@
   },
   {
     "id": "ny-montauk-point-light",
-    "summary": "Montauk Point Light was first lit in 1797 and automated in 1987. Its octagonal pyramidal tower was built from sandstone.",
+    "summary": "Montauk’s survival owes something to reeds, sand and wooden boards: Giorgina Reid used them to terrace the eroding bluff beneath the lighthouse. After years of work on the slopes, she was honored at the lighthouse in 1986 with a commendation signed by President Ronald Reagan.",
     "summarySources": [
       {
-        "url": "https://en.wikipedia.org/wiki/Montauk_Point_Light",
-        "label": "Wikipedia — individual lighthouse article"
+        "url": "https://montauklibrary.org/throwback-thursday-one-woman-in-history/",
+        "label": "Montauk Library — Giorgina Reid archival history"
       }
     ],
     "factIndexes": [
-      0,
-      2,
-      3,
-      4
+      7,
+      8
     ],
     "sentences": [
       {
-        "text": "Montauk Point Light was first lit in 1797 and automated in 1987.",
+        "text": "Montauk’s survival owes something to reeds, sand and wooden boards: Giorgina Reid used them to terrace the eroding bluff beneath the lighthouse.",
         "factIndexes": [
-          0,
-          4
+          7
         ]
       },
       {
-        "text": "Its octagonal pyramidal tower was built from sandstone.",
+        "text": "After years of work on the slopes, she was honored at the lighthouse in 1986 with a commendation signed by President Ronald Reagan.",
         "factIndexes": [
-          3,
-          2
+          8
         ]
       }
     ]
@@ -18287,32 +18014,28 @@
   },
   {
     "id": "ny-race-rock-light",
-    "summary": "Race Rock Light was first lit in 1879 and automated in 1978. Its tower was built from granite, with a recorded height of 45 feet (14 m).",
+    "summary": "Race Rock’s hardest construction work is beneath the tower: its foundation took six years to create, but the lighthouse itself took just nine months. Its builders linked three landmarks: engineer F. Hopkinson Smith later worked on the Statue of Liberty’s pedestal, and diver T. A. Scott had worked on the Brooklyn Bridge’s foundations.",
     "summarySources": [
       {
-        "url": "https://en.wikipedia.org/wiki/Race_Rock_Light",
-        "label": "Wikipedia — individual lighthouse article"
+        "url": "https://mcguirelibrary1998.omeka.net/exhibits/show/keeper-of-the-lights--the-mari/a-triumph-of-design-and-constr",
+        "label": "New London Maritime Society — Race Rock engineering history"
       }
     ],
     "factIndexes": [
-      0,
-      2,
-      3,
-      4
+      5,
+      6
     ],
     "sentences": [
       {
-        "text": "Race Rock Light was first lit in 1879 and automated in 1978.",
+        "text": "Race Rock’s hardest construction work is beneath the tower: its foundation took six years to create, but the lighthouse itself took just nine months.",
         "factIndexes": [
-          0,
-          4
+          5
         ]
       },
       {
-        "text": "Its tower was built from granite, with a recorded height of 45 feet (14 m).",
+        "text": "Its builders linked three landmarks: engineer F. Hopkinson Smith later worked on the Statue of Liberty’s pedestal, and diver T. A. Scott had worked on the Brooklyn Bridge’s foundations.",
         "factIndexes": [
-          3,
-          2
+          6
         ]
       }
     ]
@@ -19404,32 +19127,28 @@
   },
   {
     "id": "oh-marblehead-light",
-    "summary": "First lit in 1822, Marblehead’s lighthouse was built from limestone. Its tower has a tapered conical form, with a listed tower height of 50 feet.",
+    "summary": "Marblehead’s first keeper, Revolutionary War veteran Benajah Wolcott, lit thirteen whale-oil lamps each night and kept records of passing ships and weather. When he died in 1832, his wife Rachel took over those duties, including organizing rescues—a reminder that tending the light meant watching the lake and responding when sailors were in trouble.",
     "summarySources": [
       {
-        "url": "https://en.wikipedia.org/wiki/Marblehead_Light_(Ohio)",
-        "label": "Wikipedia — individual lighthouse article"
+        "url": "https://www.marbleheadohio.org/community/page/marblehead-lighthouse",
+        "label": "Village of Marblehead — Marblehead Lighthouse"
       }
     ],
     "factIndexes": [
-      1,
-      2,
-      3,
-      4
+      7,
+      8
     ],
     "sentences": [
       {
-        "text": "First lit in 1822, Marblehead’s lighthouse was built from limestone.",
+        "text": "Marblehead’s first keeper, Revolutionary War veteran Benajah Wolcott, lit thirteen whale-oil lamps each night and kept records of passing ships and weather.",
         "factIndexes": [
-          1,
-          3
+          7
         ]
       },
       {
-        "text": "Its tower has a tapered conical form, with a listed tower height of 50 feet.",
+        "text": "When he died in 1832, his wife Rachel took over those duties, including organizing rescues—a reminder that tending the light meant watching the lake and responding when sailors were in trouble.",
         "factIndexes": [
-          2,
-          4
+          8
         ]
       }
     ]
@@ -19690,62 +19409,54 @@
   },
   {
     "id": "or-cape-blanco-light",
-    "summary": "Cape Blanco Light was first lit on December 20, 1870 and automated in 1980. Its tower was built from brick, with a recorded height of 59 feet (18 m).",
+    "summary": "Cape Blanco’s keepers James Langlois and James Hughes spent their entire lighthouse careers at this one station—42 years and 37 years respectively. For Hughes, the post was especially close to home: his parents’ 2,000-acre ranch bordered the light station, linking the family’s farming life with decades of tending the lamp and polishing its lens.",
     "summarySources": [
       {
-        "url": "https://en.wikipedia.org/wiki/Cape_Blanco_Light",
-        "label": "Wikipedia — individual lighthouse article"
+        "url": "https://www.capeblancoheritagesociety.com/lightstation-history.html",
+        "label": "Cape Blanco Heritage Society — Light Station History"
       }
     ],
     "factIndexes": [
-      0,
-      2,
-      3,
-      4
+      5
     ],
     "sentences": [
       {
-        "text": "Cape Blanco Light was first lit on December 20, 1870 and automated in 1980.",
+        "text": "Cape Blanco’s keepers James Langlois and James Hughes spent their entire lighthouse careers at this one station—42 years and 37 years respectively.",
         "factIndexes": [
-          0,
-          4
+          5
         ]
       },
       {
-        "text": "Its tower was built from brick, with a recorded height of 59 feet (18 m).",
+        "text": "For Hughes, the post was especially close to home: his parents’ 2,000-acre ranch bordered the light station, linking the family’s farming life with decades of tending the lamp and polishing its lens.",
         "factIndexes": [
-          3,
-          2
+          5
         ]
       }
     ]
   },
   {
     "id": "or-cape-meares-light",
-    "summary": "Cape Meares Light was first lit on 1 January 1890 at Cape Meares, Tillamook County. The lighthouse used an octagonal tower.",
+    "summary": "Cape Meares’s lens traveled from Paris around Cape Horn before facing the final climb to its Oregon home. Workers used a wooden crane made from local timber to haul it 217 feet up the cliff; its red-covered bull’s-eye panels then gave the lighthouse a recognizable red flash amid its white light.",
     "summarySources": [
       {
-        "url": "https://en.wikipedia.org/wiki/Cape_Meares_Light",
-        "label": "Wikipedia — individual lighthouse article"
+        "url": "https://stateparks.oregon.gov/index.cfm?do=park.profile&parkId=131",
+        "label": "Oregon State Parks — Cape Meares State Scenic Viewpoint"
       }
     ],
     "factIndexes": [
-      0,
-      3,
-      4
+      5
     ],
     "sentences": [
       {
-        "text": "Cape Meares Light was first lit on 1 January 1890 at Cape Meares, Tillamook County.",
+        "text": "Cape Meares’s lens traveled from Paris around Cape Horn before facing the final climb to its Oregon home.",
         "factIndexes": [
-          0,
-          4
+          5
         ]
       },
       {
-        "text": "The lighthouse used an octagonal tower.",
+        "text": "Workers used a wooden crane made from local timber to haul it 217 feet up the cliff; its red-covered bull’s-eye panels then gave the lighthouse a recognizable red flash amid its white light.",
         "factIndexes": [
-          3
+          5
         ]
       }
     ]
@@ -19782,64 +19493,54 @@
   },
   {
     "id": "or-coquille-river-light",
-    "summary": "Coquille River Light was first lit in 1896. Its conical tower attached to a signal building was built from stucco-covered brick, and the tower measured 40 feet (12 m).",
+    "summary": "Coquille River’s lighthouse nearly crossed the river: officials proposed moving it to the south side, and Congress funded the plan in 1916. Shippers accustomed to its existing position successfully opposed the move, leaving keepers to continue rowing across to Bandon for supplies while their children attended school in town.",
     "summarySources": [
       {
-        "url": "https://en.wikipedia.org/wiki/Coquille_River_Light",
-        "label": "Wikipedia — individual lighthouse article"
+        "url": "https://www.oregonencyclopedia.org/articles/coquille-river-lighthouse/",
+        "label": "Oregon Historical Society — Coquille River Lighthouse"
       }
     ],
     "factIndexes": [
-      1,
-      2,
-      3,
-      4
+      5
     ],
     "sentences": [
       {
-        "text": "Coquille River Light was first lit in 1896.",
+        "text": "Coquille River’s lighthouse nearly crossed the river: officials proposed moving it to the south side, and Congress funded the plan in 1916.",
         "factIndexes": [
-          1
+          5
         ]
       },
       {
-        "text": "Its conical tower attached to a signal building was built from stucco-covered brick, and the tower measured 40 feet (12 m).",
+        "text": "Shippers accustomed to its existing position successfully opposed the move, leaving keepers to continue rowing across to Bandon for supplies while their children attended school in town.",
         "factIndexes": [
-          4,
-          3,
-          2
+          5
         ]
       }
     ]
   },
   {
     "id": "or-heceta-head-light",
-    "summary": "Heceta Head Light was first lit in 1894 and automated in 1963. Its tower was built from stucco-covered brick, with a recorded height of 56 feet (17 m).",
+    "summary": "Heceta Head’s keeper’s house spent a quarter-century as a college outpost: from 1970 to 1995, Lane Community College leased it as a satellite campus. Two dining rooms were opened into a classroom, with bunk beds upstairs for students; in 1995 the house began its next chapter as a bed-and-breakfast.",
     "summarySources": [
       {
-        "url": "https://en.wikipedia.org/wiki/Heceta_Head_Light",
-        "label": "Wikipedia — individual lighthouse article"
+        "url": "https://www.hecetalighthouse.com/history",
+        "label": "Heceta Head Keeper’s House — Lighthouse History"
       }
     ],
     "factIndexes": [
-      0,
-      2,
-      3,
-      4
+      5
     ],
     "sentences": [
       {
-        "text": "Heceta Head Light was first lit in 1894 and automated in 1963.",
+        "text": "Heceta Head’s keeper’s house spent a quarter-century as a college outpost: from 1970 to 1995, Lane Community College leased it as a satellite campus.",
         "factIndexes": [
-          0,
-          4
+          5
         ]
       },
       {
-        "text": "Its tower was built from stucco-covered brick, with a recorded height of 56 feet (17 m).",
+        "text": "Two dining rooms were opened into a classroom, with bunk beds upstairs for students; in 1995 the house began its next chapter as a bed-and-breakfast.",
         "factIndexes": [
-          3,
-          2
+          5
         ]
       }
     ]
@@ -19882,62 +19583,54 @@
   },
   {
     "id": "or-tillamook-rock-light",
-    "summary": "Tillamook Rock’s lighthouse was first lit on 21 January 1881. Its square tower combines basalt, brick and iron on a concrete foundation, topped by a round lantern.",
+    "summary": "During an October 1934 storm, waves broke Tillamook Rock’s windows and telephone cable, leaving the keepers cut off from shore. Assistant keeper Henry Jenkins assembled a shortwave radio from materials at the station, reaching mainland amateurs who relayed messages while the crew worked to restore the light.",
     "summarySources": [
       {
-        "url": "https://en.wikipedia.org/wiki/Tillamook_Rock_Light",
-        "label": "Wikipedia — individual lighthouse article"
+        "url": "https://www.ohs.org/blog/saga-of-the-tillamook-rock-lighthouse.cfm",
+        "label": "Oregon Historical Society — Tillamook Rock Station Records"
       }
     ],
     "factIndexes": [
-      0,
-      2,
-      4
+      5
     ],
     "sentences": [
       {
-        "text": "Tillamook Rock’s lighthouse was first lit on 21 January 1881.",
+        "text": "During an October 1934 storm, waves broke Tillamook Rock’s windows and telephone cable, leaving the keepers cut off from shore.",
         "factIndexes": [
-          0
+          5
         ]
       },
       {
-        "text": "Its square tower combines basalt, brick and iron on a concrete foundation, topped by a round lantern.",
+        "text": "Assistant keeper Henry Jenkins assembled a shortwave radio from materials at the station, reaching mainland amateurs who relayed messages while the crew worked to restore the light.",
         "factIndexes": [
-          2,
-          4
+          5
         ]
       }
     ]
   },
   {
     "id": "or-umpqua-river-light",
-    "summary": "Umpqua River Light was first lit in 1894. Its conical tower attached to a workroom was built from stucco-covered brick, and the tower measured 61 feet (19 m).",
+    "summary": "Umpqua’s first lighthouse was lost after storms undermined its foundations; workers dismantling the lantern room had to flee as the tower began to fall. The replacement’s historic lens nearly lost its working role in the 1980s, until local protests persuaded the Coast Guard to repair its rotating mechanism and return it to service in 1985.",
     "summarySources": [
       {
-        "url": "https://en.wikipedia.org/wiki/Umpqua_River_Light",
-        "label": "Wikipedia — individual lighthouse article"
+        "url": "https://www.oregonencyclopedia.org/articles/umpqua_river_lighthouse/",
+        "label": "Oregon Historical Society — Umpqua River Lighthouse"
       }
     ],
     "factIndexes": [
-      0,
-      1,
-      2,
-      3
+      6
     ],
     "sentences": [
       {
-        "text": "Umpqua River Light was first lit in 1894.",
+        "text": "Umpqua’s first lighthouse was lost after storms undermined its foundations; workers dismantling the lantern room had to flee as the tower began to fall.",
         "factIndexes": [
-          0
+          6
         ]
       },
       {
-        "text": "Its conical tower attached to a workroom was built from stucco-covered brick, and the tower measured 61 feet (19 m).",
+        "text": "The replacement’s historic lens nearly lost its working role in the 1980s, until local protests persuaded the Coast Guard to repair its rotating mechanism and return it to service in 1985.",
         "factIndexes": [
-          3,
-          2,
-          1
+          6
         ]
       }
     ]
@@ -19974,64 +19667,54 @@
   },
   {
     "id": "or-yaquina-bay-light",
-    "summary": "Yaquina Bay Light was first lit in 1871. Its square tower was built from wood, and the tower measured 51 feet (16 m).",
+    "summary": "Yaquina Bay’s lighthouse had a remarkably short first career: built in 1871, it was discontinued in 1874 in favor of Yaquina Head to the north. The building later served as a lifeboat station, and the Civilian Conservation Corps helped turn its bluff-top surroundings into a park in the 1930s.",
     "summarySources": [
       {
-        "url": "https://en.wikipedia.org/wiki/Yaquina_Bay_Light",
-        "label": "Wikipedia — individual lighthouse article"
+        "url": "https://stateparks.oregon.gov/index.cfm?do=park.profile&parkId=148",
+        "label": "Oregon State Parks — Yaquina Bay State Recreation Site"
       }
     ],
     "factIndexes": [
-      1,
-      2,
-      3,
-      4
+      7
     ],
     "sentences": [
       {
-        "text": "Yaquina Bay Light was first lit in 1871.",
+        "text": "Yaquina Bay’s lighthouse had a remarkably short first career: built in 1871, it was discontinued in 1874 in favor of Yaquina Head to the north.",
         "factIndexes": [
-          1
+          7
         ]
       },
       {
-        "text": "Its square tower was built from wood, and the tower measured 51 feet (16 m).",
+        "text": "The building later served as a lifeboat station, and the Civilian Conservation Corps helped turn its bluff-top surroundings into a park in the 1930s.",
         "factIndexes": [
-          4,
-          3,
-          2
+          7
         ]
       }
     ]
   },
   {
     "id": "or-yaquina-head-light",
-    "summary": "Yaquina Head Light was first lit in 1873 and automated in 1966 in Newport, Oregon. Its tower was built from brick.",
+    "summary": "A keeper’s daughter helped protect Yaquina Head from quarrying: Marguerite Canterbury, born at the station, returned as an adult and was alarmed by the damage. She joined Penelope Hull and other advocates in writing letters and giving testimony; their campaign helped secure the headland’s designation as an Outstanding Natural Area in 1980.",
     "summarySources": [
       {
-        "url": "https://en.wikipedia.org/wiki/Yaquina_Head_Light",
-        "label": "Wikipedia — individual lighthouse article"
+        "url": "https://www.blm.gov/blog/2022-03-22/race-save-yaquina-head",
+        "label": "Bureau of Land Management — The Race to Save Yaquina Head"
       }
     ],
     "factIndexes": [
-      0,
-      2,
-      3,
-      4
+      5
     ],
     "sentences": [
       {
-        "text": "Yaquina Head Light was first lit in 1873 and automated in 1966 in Newport, Oregon.",
+        "text": "A keeper’s daughter helped protect Yaquina Head from quarrying: Marguerite Canterbury, born at the station, returned as an adult and was alarmed by the damage.",
         "factIndexes": [
-          0,
-          3,
-          4
+          5
         ]
       },
       {
-        "text": "Its tower was built from brick.",
+        "text": "She joined Penelope Hull and other advocates in writing letters and giving testimony; their campaign helped secure the headland’s designation as an Outstanding Natural Area in 1980.",
         "factIndexes": [
-          2
+          5
         ]
       }
     ]
@@ -20412,62 +20095,56 @@
   },
   {
     "id": "pr-mona-island-light",
-    "summary": "Mona Island’s lighthouse was first lit in 1900. Its iron skeletal design incorporates a central cylinder, with a listed tower height of 39 feet.",
+    "summary": "Reaching Mona Island’s lighthouse once meant riding a small tramcar under a canopy improvised by its keepers; a 1925 inspection account describes the car being pulled by a mule named Macario. The same account records a difficult family tradeoff: keepers with school-age children left their families on Puerto Rico during term time, while maintaining the isolated station and its troublesome access route.",
     "summarySources": [
       {
-        "url": "https://en.wikipedia.org/wiki/Mona_Island_Light",
-        "label": "Wikipedia — individual lighthouse article"
+        "url": "https://www.lighthousefriends.com/light.asp?ID=1143",
+        "label": "Lighthouse Friends — Isla de Mona Lighthouse"
       }
     ],
     "factIndexes": [
-      1,
-      2,
-      3,
-      4
+      5,
+      6
     ],
     "sentences": [
       {
-        "text": "Mona Island’s lighthouse was first lit in 1900.",
+        "text": "Reaching Mona Island’s lighthouse once meant riding a small tramcar under a canopy improvised by its keepers; a 1925 inspection account describes the car being pulled by a mule named Macario.",
         "factIndexes": [
-          1
+          5
         ]
       },
       {
-        "text": "Its iron skeletal design incorporates a central cylinder, with a listed tower height of 39 feet.",
+        "text": "The same account records a difficult family tradeoff: keepers with school-age children left their families on Puerto Rico during term time, while maintaining the isolated station and its troublesome access route.",
         "factIndexes": [
-          2,
-          3,
-          4
+          6
         ]
       }
     ]
   },
   {
     "id": "pr-port-san-juan-light",
-    "summary": "The rebuilt Port San Juan tower was first lit in 1908. The article identifies brick and masonry construction for that tower, with automation following in 1962.",
+    "summary": "El Morro’s lighthouse was disabled during the U.S. bombardment of San Juan in 1898, then replaced by a concrete tower that developed a serious crack. The present 1908 brick lighthouse answered with a design that echoes the fortress below: a battlement-like parapet and small ornamental guardhouses at its corners surround the lantern.",
     "summarySources": [
       {
-        "url": "https://en.wikipedia.org/wiki/Port_San_Juan_Light",
-        "label": "Wikipedia — individual lighthouse article"
+        "url": "https://www.lighthousefriends.com/light.asp?ID=1165",
+        "label": "Lighthouse Friends — Puerto San Juan (El Morro) Lighthouse"
       }
     ],
     "factIndexes": [
-      0,
-      3,
-      4
+      5,
+      6
     ],
     "sentences": [
       {
-        "text": "The rebuilt Port San Juan tower was first lit in 1908.",
+        "text": "El Morro’s lighthouse was disabled during the U.S. bombardment of San Juan in 1898, then replaced by a concrete tower that developed a serious crack.",
         "factIndexes": [
-          0
+          5
         ]
       },
       {
-        "text": "The article identifies brick and masonry construction for that tower, with automation following in 1962.",
+        "text": "The present 1908 brick lighthouse answered with a design that echoes the fortress below: a battlement-like parapet and small ornamental guardhouses at its corners surround the lantern.",
         "factIndexes": [
-          3,
-          4
+          6
         ]
       }
     ]
@@ -20732,32 +20409,28 @@
   },
   {
     "id": "ri-block-island-southeast-light",
-    "summary": "First lit in 1875, Block Island’s southeast lighthouse uses red brick. The octagonal pyramidal tower is attached to a dwelling, with a listed tower height of 52 feet.",
+    "summary": "By 1983, erosion had left just 80 feet between Southeast Light and the cliff edge; in August 1993, the entire building was moved inland. Saving it took a decade-long campaign and three Acts of Congress, with the light returning to service in 1994.",
     "summarySources": [
       {
-        "url": "https://en.wikipedia.org/wiki/Block_Island_Southeast_Light",
-        "label": "Wikipedia — individual lighthouse article"
+        "url": "https://southeastlighthouse.org/history/",
+        "label": "Southeast Lighthouse Foundation — station history"
       }
     ],
     "factIndexes": [
-      1,
-      2,
-      3,
-      4
+      5,
+      6
     ],
     "sentences": [
       {
-        "text": "First lit in 1875, Block Island’s southeast lighthouse uses red brick.",
+        "text": "By 1983, erosion had left just 80 feet between Southeast Light and the cliff edge; in August 1993, the entire building was moved inland.",
         "factIndexes": [
-          1,
-          3
+          5
         ]
       },
       {
-        "text": "The octagonal pyramidal tower is attached to a dwelling, with a listed tower height of 52 feet.",
+        "text": "Saving it took a decade-long campaign and three Acts of Congress, with the light returning to service in 1994.",
         "factIndexes": [
-          2,
-          4
+          6
         ]
       }
     ]
@@ -21030,32 +20703,28 @@
   },
   {
     "id": "ri-ida-lewis-rock-light",
-    "summary": "First lit in 1854, this Newport Harbor lighthouse used a brick tower attached to the lightkeeper’s house. Automation is recorded in 1927.",
+    "summary": "In 1869, Ida Lewis and her brother Hosea rowed into a storm to rescue two soldiers clinging to an overturned boat and brought them back to the lighthouse. Newport thanked her with a rowboat named Rescue, later preserved by the city’s historical society.",
     "summarySources": [
       {
-        "url": "https://en.wikipedia.org/wiki/Ida_Lewis_Rock_Light",
-        "label": "Wikipedia — individual lighthouse article"
+        "url": "https://newporthistory.org/remembering-ida-lewis/",
+        "label": "Newport Historical Society — Ida Lewis collections"
       }
     ],
     "factIndexes": [
-      0,
-      2,
-      3,
-      4
+      5,
+      6
     ],
     "sentences": [
       {
-        "text": "First lit in 1854, this Newport Harbor lighthouse used a brick tower attached to the lightkeeper’s house.",
+        "text": "In 1869, Ida Lewis and her brother Hosea rowed into a storm to rescue two soldiers clinging to an overturned boat and brought them back to the lighthouse.",
         "factIndexes": [
-          0,
-          2,
-          4
+          5
         ]
       },
       {
-        "text": "Automation is recorded in 1927.",
+        "text": "Newport thanked her with a rowboat named Rescue, later preserved by the city’s historical society.",
         "factIndexes": [
-          3
+          6
         ]
       }
     ]
@@ -21598,32 +21267,28 @@
   },
   {
     "id": "sc-charleston-light",
-    "summary": "Charleston Light was first lit in 1962 and automated in 1975. Its tower was built from steel with aluminum alloy skin, with a recorded height of 140 feet (43 m).",
+    "summary": "Charleston Light brought modern architecture to the shoreline in 1962: its triangular steel frame wears aluminum siding, and its interior includes a service elevator. The original red-orange and white paint drew complaints from island residents and was replaced with black and white; even with the elevator, reaching the lantern still requires a 35-foot ladder climb.",
     "summarySources": [
       {
-        "url": "https://en.wikipedia.org/wiki/Charleston_Light",
-        "label": "Wikipedia — individual lighthouse article"
+        "url": "https://www.nps.gov/fosu/learn/historyculture/charleston-light.htm",
+        "label": "National Park Service — Charleston Light"
       }
     ],
     "factIndexes": [
-      0,
-      2,
-      3,
-      4
+      5,
+      6
     ],
     "sentences": [
       {
-        "text": "Charleston Light was first lit in 1962 and automated in 1975.",
+        "text": "Charleston Light brought modern architecture to the shoreline in 1962: its triangular steel frame wears aluminum siding, and its interior includes a service elevator.",
         "factIndexes": [
-          0,
-          4
+          5
         ]
       },
       {
-        "text": "Its tower was built from steel with aluminum alloy skin, with a recorded height of 140 feet (43 m).",
+        "text": "The original red-orange and white paint drew complaints from island residents and was replaced with black and white; even with the elevator, reaching the lantern still requires a 35-foot ladder climb.",
         "factIndexes": [
-          3,
-          2
+          6
         ]
       }
     ]
@@ -21826,36 +21491,28 @@
   },
   {
     "id": "sc-hunting-island-light",
-    "summary": "Hunting Island’s recorded lighting date is 1875. The conical tower uses cast iron with a brick lining; the Coast Guard describes a white exterior with a black top.",
+    "summary": "Hunting Island’s cast-iron lighthouse was designed to come apart and move when the shoreline changed. That foresight mattered in 1889, when beach erosion forced the tower 1.3 miles inland; this was already a replacement, rebuilt in 1875 after the earlier lighthouse was destroyed during the Civil War.",
     "summarySources": [
       {
-        "url": "https://en.wikipedia.org/wiki/Hunting_Island_Light",
-        "label": "Wikipedia — individual lighthouse article"
-      },
-      {
-        "url": "https://navcen.uscg.gov/sites/default/files/msi/lightListD07_1.geojson",
-        "label": "U.S. Coast Guard Light List"
+        "url": "https://southcarolinaparks.com/hunting-island/lighthouse",
+        "label": "South Carolina State Parks — Hunting Island Lighthouse"
       }
     ],
     "factIndexes": [
-      1,
-      2,
-      3,
-      5
+      6,
+      7
     ],
     "sentences": [
       {
-        "text": "Hunting Island’s recorded lighting date is 1875.",
+        "text": "Hunting Island’s cast-iron lighthouse was designed to come apart and move when the shoreline changed.",
         "factIndexes": [
-          1
+          6
         ]
       },
       {
-        "text": "The conical tower uses cast iron with a brick lining; the Coast Guard describes a white exterior with a black top.",
+        "text": "That foresight mattered in 1889, when beach erosion forced the tower 1.3 miles inland; this was already a replacement, rebuilt in 1875 after the earlier lighthouse was destroyed during the Civil War.",
         "factIndexes": [
-          2,
-          3,
-          5
+          7
         ]
       }
     ]
@@ -21958,32 +21615,28 @@
   },
   {
     "id": "tx-halfmoon-reef-light",
-    "summary": "Halfmoon Reef Light was first lit in 1858. Its hexagonal tower was built from wood, and the tower measured 20 feet (6.1 m).",
+    "summary": "After a 1942 hurricane damaged Halfmoon Reef Lighthouse, the Coast Guard sold the structure to businessmen who planned to use it as night-watchmen’s quarters at a dredging operation. It later became a preservation project: donated to the county historical commission in 1978, it was restored through an Eagle Scout project and eventually placed on new piers in Port Lavaca.",
     "summarySources": [
       {
-        "url": "https://en.wikipedia.org/wiki/Halfmoon_Reef_Light",
-        "label": "Wikipedia — individual lighthouse article"
+        "url": "https://texasmaritimemuseum.org/halfmoon-reef-lighthouse/",
+        "label": "Texas Maritime Museum — Halfmoon Reef Lighthouse"
       }
     ],
     "factIndexes": [
-      0,
-      1,
-      2,
-      3
+      5,
+      6
     ],
     "sentences": [
       {
-        "text": "Halfmoon Reef Light was first lit in 1858.",
+        "text": "After a 1942 hurricane damaged Halfmoon Reef Lighthouse, the Coast Guard sold the structure to businessmen who planned to use it as night-watchmen’s quarters at a dredging operation.",
         "factIndexes": [
-          0
+          5
         ]
       },
       {
-        "text": "Its hexagonal tower was built from wood, and the tower measured 20 feet (6.1 m).",
+        "text": "It later became a preservation project: donated to the county historical commission in 1978, it was restored through an Eagle Scout project and eventually placed on new piers in Port Lavaca.",
         "factIndexes": [
-          3,
-          2,
-          1
+          6
         ]
       }
     ]
@@ -22024,66 +21677,56 @@
   },
   {
     "id": "tx-point-bolivar-light",
-    "summary": "Point Bolivar Light was first lit in 1852. Its round tower was built from brick covered with cast iron sheets, and the tower measured 116 feet (35 m).",
+    "summary": "Bolivar Point Lighthouse sheltered 125 people during the Galveston hurricane of 1900, including travelers who escaped a train surrounded by rising water. When another hurricane struck in 1915, the tower sheltered 61 people; shaking stopped the lens machinery, so the keeper rotated it by hand until the storm washed away the oil supply.",
     "summarySources": [
       {
-        "url": "https://en.wikipedia.org/wiki/Point_Bolivar_Light",
-        "label": "Wikipedia — individual lighthouse article"
+        "url": "https://bolivarpointlighthouse.org/history/",
+        "label": "Bolivar Point Lighthouse Foundation — History"
       }
     ],
     "factIndexes": [
-      0,
-      1,
-      2,
-      3
+      5,
+      6
     ],
     "sentences": [
       {
-        "text": "Point Bolivar Light was first lit in 1852.",
+        "text": "Bolivar Point Lighthouse sheltered 125 people during the Galveston hurricane of 1900, including travelers who escaped a train surrounded by rising water.",
         "factIndexes": [
-          0
+          5
         ]
       },
       {
-        "text": "Its round tower was built from brick covered with cast iron sheets, and the tower measured 116 feet (35 m).",
+        "text": "When another hurricane struck in 1915, the tower sheltered 61 people; shaking stopped the lens machinery, so the keeper rotated it by hand until the storm washed away the oil supply.",
         "factIndexes": [
-          3,
-          2,
-          1
+          6
         ]
       }
     ]
   },
   {
     "id": "tx-point-isabel-light",
-    "summary": "Point Isabel Light was first lit in 1853 and added to the historic register on April 30, 1976. The site is off State Highway 100 in Port Isabel, Texas.",
+    "summary": "Both Confederate and Union forces used Port Isabel Lighthouse as an observation post during the Civil War. Long after its navigation service ended in 1905, a reproduction third-order Fresnel lens was installed in 2022, returning a soft display glow to a tower that had spent more than a century without a working beacon.",
     "summarySources": [
       {
-        "url": "https://en.wikipedia.org/wiki/Point_Isabel_Light",
-        "label": "Wikipedia — individual lighthouse article"
-      },
-      {
-        "url": "https://en.wikipedia.org/wiki/List_of_lighthouses_in_Texas",
-        "label": "Wikipedia — published lighthouse inventory"
+        "url": "https://thc.texas.gov/state-historic-sites/port-isabel-lighthouse/port-isabel-lighthouse-history",
+        "label": "Texas Historical Commission — Port Isabel Lighthouse History"
       }
     ],
     "factIndexes": [
-      0,
-      1,
-      2
+      4,
+      5
     ],
     "sentences": [
       {
-        "text": "Point Isabel Light was first lit in 1853 and added to the historic register on April 30, 1976.",
+        "text": "Both Confederate and Union forces used Port Isabel Lighthouse as an observation post during the Civil War.",
         "factIndexes": [
-          2,
-          1
+          4
         ]
       },
       {
-        "text": "The site is off State Highway 100 in Port Isabel, Texas.",
+        "text": "Long after its navigation service ended in 1905, a reproduction third-order Fresnel lens was installed in 2022, returning a soft display glow to a tower that had spent more than a century without a working beacon.",
         "factIndexes": [
-          0
+          5
         ]
       }
     ]
@@ -22310,32 +21953,28 @@
   },
   {
     "id": "va-assateague-light",
-    "summary": "Assateague Light was first lit in 1867 and automated in 1933. Its tower was built from red brick, with a recorded height of 142 feet (43 m).",
+    "summary": "Assateague’s keepers belonged to a village, not just a remote station: they married local residents and shared a community with a general store and a school that doubled as a church. When the village’s later church closed in 1921, the building itself was floated over to Chincoteague.",
     "summarySources": [
       {
-        "url": "https://en.wikipedia.org/wiki/Assateague_Light",
-        "label": "Wikipedia — individual lighthouse article"
+        "url": "https://www.lighthousedigest.com/digest/StoryPage.cfm?StoryKey=3301",
+        "label": "Lighthouse Digest — Assateague Lighthouse and its island"
       }
     ],
     "factIndexes": [
-      0,
-      1,
-      2,
-      3
+      5,
+      6
     ],
     "sentences": [
       {
-        "text": "Assateague Light was first lit in 1867 and automated in 1933.",
+        "text": "Assateague’s keepers belonged to a village, not just a remote station: they married local residents and shared a community with a general store and a school that doubled as a church.",
         "factIndexes": [
-          0,
-          3
+          5
         ]
       },
       {
-        "text": "Its tower was built from red brick, with a recorded height of 142 feet (43 m).",
+        "text": "When the village’s later church closed in 1921, the building itself was floated over to Chincoteague.",
         "factIndexes": [
-          2,
-          1
+          6
         ]
       }
     ]
@@ -22406,32 +22045,28 @@
   },
   {
     "id": "va-cape-henry-light-old",
-    "summary": "Completed in November 1792, this sandstone tower was built by John McComb Jr. It was the first federal construction project under the U.S. Constitution.",
+    "summary": "Cape Henry’s old tower passed through both sides of the Civil War: Confederate forces damaged it, and Union forces repaired it to help ships enter Chesapeake Bay. After its replacement was built in 1881, the old tower stayed useful as a daylight landmark for taking bearings.",
     "summarySources": [
       {
-        "url": "https://en.wikipedia.org/wiki/Cape_Henry_Lighthouse",
-        "label": "Wikipedia — individual lighthouse article"
+        "url": "https://www.nps.gov/came/cape-henry-lighthouses.htm",
+        "label": "National Park Service — Cape Henry lighthouses"
       }
     ],
     "factIndexes": [
-      0,
-      1,
-      2,
-      3
+      4,
+      5
     ],
     "sentences": [
       {
-        "text": "Completed in November 1792, this sandstone tower was built by John McComb Jr.",
+        "text": "Cape Henry’s old tower passed through both sides of the Civil War: Confederate forces damaged it, and Union forces repaired it to help ships enter Chesapeake Bay.",
         "factIndexes": [
-          0,
-          1,
-          2
+          4
         ]
       },
       {
-        "text": "It was the first federal construction project under the U.S. Constitution.",
+        "text": "After its replacement was built in 1881, the old tower stayed useful as a daylight landmark for taking bearings.",
         "factIndexes": [
-          3
+          5
         ]
       }
     ]
@@ -23177,30 +22812,27 @@
   },
   {
     "id": "wa-admiralty-head-light",
-    "summary": "Admiralty Head’s original tower dates to 1861; the current tower was built in 1903. Its brick-and-stucco design combines a conical tower with an attached, two-story Spanish-style residence.",
+    "summary": "Admiralty Head’s replacement lantern house came from an unusual workshop: students at three Whidbey Island high schools spent two years building it with help from boatbuilders and other mentors. A crane lifted their historically accurate creation onto the lighthouse in August 2012, turning a school project into part of the landmark itself.",
     "summarySources": [
       {
-        "url": "https://en.wikipedia.org/wiki/Admiralty_Head_Light",
-        "label": "Wikipedia — individual lighthouse article"
+        "url": "https://www.whidbeynewstimes.com/2012/08/24/student-built-lantern-house-put-into-place-at-admiralty-head-lighthouse/",
+        "label": "Whidbey News-Times — Rebecca Olson, Student-Built Lantern House"
       }
     ],
     "factIndexes": [
-      0,
-      2,
-      3
+      5
     ],
     "sentences": [
       {
-        "text": "Admiralty Head’s original tower dates to 1861; the current tower was built in 1903.",
+        "text": "Admiralty Head’s replacement lantern house came from an unusual workshop: students at three Whidbey Island high schools spent two years building it with help from boatbuilders and other mentors.",
         "factIndexes": [
-          0
+          5
         ]
       },
       {
-        "text": "Its brick-and-stucco design combines a conical tower with an attached, two-story Spanish-style residence.",
+        "text": "A crane lifted their historically accurate creation onto the lighthouse in August 2012, turning a school project into part of the landmark itself.",
         "factIndexes": [
-          2,
-          3
+          5
         ]
       }
     ]
@@ -23335,32 +22967,27 @@
   },
   {
     "id": "wa-cape-disappointment-light",
-    "summary": "Cape Disappointment Light was first lit in 1856 and automated in 1973. Its tower was built from brick, with a recorded height of 53 feet (16 m).",
+    "summary": "Cape Disappointment’s lighthouse project suffered the very danger it was meant to reduce: the bark Oriole wrecked in 1853 while arriving with construction materials. A second shipment allowed building to proceed in 1854, but the tower still waited two more years for its lens before the keeper could light it in October 1856.",
     "summarySources": [
       {
-        "url": "https://en.wikipedia.org/wiki/Cape_Disappointment_Light",
-        "label": "Wikipedia — individual lighthouse article"
+        "url": "https://www.historylink.org/File/5622",
+        "label": "HistoryLink — William S. Hanable, Lighthouses on Cape Disappointment"
       }
     ],
     "factIndexes": [
-      0,
-      1,
-      2,
-      3
+      5
     ],
     "sentences": [
       {
-        "text": "Cape Disappointment Light was first lit in 1856 and automated in 1973.",
+        "text": "Cape Disappointment’s lighthouse project suffered the very danger it was meant to reduce: the bark Oriole wrecked in 1853 while arriving with construction materials.",
         "factIndexes": [
-          0,
-          3
+          5
         ]
       },
       {
-        "text": "Its tower was built from brick, with a recorded height of 53 feet (16 m).",
+        "text": "A second shipment allowed building to proceed in 1854, but the tower still waited two more years for its lens before the keeper could light it in October 1856.",
         "factIndexes": [
-          2,
-          1
+          5
         ]
       }
     ]
@@ -23559,64 +23186,54 @@
   },
   {
     "id": "wa-grays-harbor-light",
-    "summary": "Grays Harbor Light was first lit in 1898. Its octagonal tower was built from brick and concrete, and the tower measured 107 feet (33 m).",
+    "summary": "Grays Harbor’s lighthouse was built about 400 feet from the water’s edge, but accumulating sand pushed the beach outward until the tower stood roughly 3,000 feet inland by the late 1960s. Nearby, the opposite happened to a replacement fog-signal building: erosion took away its ground until it fell into the sea.",
     "summarySources": [
       {
-        "url": "https://en.wikipedia.org/wiki/Grays_Harbor_Light",
-        "label": "Wikipedia — individual lighthouse article"
+        "url": "https://www.historylink.org/File/5714",
+        "label": "HistoryLink — William S. Hanable, Grays Harbor Lighthouse"
       }
     ],
     "factIndexes": [
-      0,
-      1,
-      2,
-      3
+      7
     ],
     "sentences": [
       {
-        "text": "Grays Harbor Light was first lit in 1898.",
+        "text": "Grays Harbor’s lighthouse was built about 400 feet from the water’s edge, but accumulating sand pushed the beach outward until the tower stood roughly 3,000 feet inland by the late 1960s.",
         "factIndexes": [
-          0
+          7
         ]
       },
       {
-        "text": "Its octagonal tower was built from brick and concrete, and the tower measured 107 feet (33 m).",
+        "text": "Nearby, the opposite happened to a replacement fog-signal building: erosion took away its ground until it fell into the sea.",
         "factIndexes": [
-          3,
-          2,
-          1
+          7
         ]
       }
     ]
   },
   {
     "id": "wa-lime-kiln-light",
-    "summary": "Lime Kiln Light was first lit in 1919 and automated in 1962. Its tower was built from concrete, with a recorded height of 38 feet (12 m).",
+    "summary": "Lime Kiln’s lighthouse is also a listening post for whales: researchers use a station inside the building to monitor underwater microphones offshore. The recordings capture orca calls, echolocation and background noise in the Salish Sea, and a live stream lets listeners hear the same underwater world from far away.",
     "summarySources": [
       {
-        "url": "https://en.wikipedia.org/wiki/Lime_Kiln_Light",
-        "label": "Wikipedia — individual lighthouse article"
+        "url": "https://whalemuseum.org/pages/seasound-remote-sensing-network",
+        "label": "The Whale Museum — SeaSound at Lime Kiln Lighthouse"
       }
     ],
     "factIndexes": [
-      0,
-      2,
-      3,
-      4
+      5
     ],
     "sentences": [
       {
-        "text": "Lime Kiln Light was first lit in 1919 and automated in 1962.",
+        "text": "Lime Kiln’s lighthouse is also a listening post for whales: researchers use a station inside the building to monitor underwater microphones offshore.",
         "factIndexes": [
-          0,
-          4
+          5
         ]
       },
       {
-        "text": "Its tower was built from concrete, with a recorded height of 38 feet (12 m).",
+        "text": "The recordings capture orca calls, echolocation and background noise in the Salish Sea, and a live stream lets listeners hear the same underwater world from far away.",
         "factIndexes": [
-          3,
-          2
+          5
         ]
       }
     ]
@@ -23655,96 +23272,81 @@
   },
   {
     "id": "wa-mukilteo-light",
-    "summary": "Mukilteo Light was first lit in 1906 and automated in 1979. Its tower was built from wood, with a recorded height of 38 feet (12 m).",
+    "summary": "Mukilteo’s first keeper, Peter Christiansen, arrived after years in the merchant marine, the Navy and the lighthouse service at Turn Point. He tended Mukilteo from its 1906 opening until his death in 1925; his wife Theodine then kept the station operating until the next keeper arrived.",
     "summarySources": [
       {
-        "url": "https://en.wikipedia.org/wiki/Mukilteo_Light",
-        "label": "Wikipedia — individual lighthouse article"
+        "url": "https://mukilteohistorical.org/2020/05/04/muk-revisited-light-keepers/",
+        "label": "Mukilteo Historical Society — Our First Light Keepers"
       }
     ],
     "factIndexes": [
-      0,
-      2,
-      3,
-      4
+      5
     ],
     "sentences": [
       {
-        "text": "Mukilteo Light was first lit in 1906 and automated in 1979.",
+        "text": "Mukilteo’s first keeper, Peter Christiansen, arrived after years in the merchant marine, the Navy and the lighthouse service at Turn Point.",
         "factIndexes": [
-          0,
-          4
+          5
         ]
       },
       {
-        "text": "Its tower was built from wood, with a recorded height of 38 feet (12 m).",
+        "text": "He tended Mukilteo from its 1906 opening until his death in 1925; his wife Theodine then kept the station operating until the next keeper arrived.",
         "factIndexes": [
-          3,
-          2
+          5
         ]
       }
     ]
   },
   {
     "id": "wa-new-dungeness-light",
-    "summary": "New Dungeness Light was first lit in 1857. Its conical tower was built from brick, sandstone and stucco, and the tower measured 63 feet (19 m).",
+    "summary": "New Dungeness became shorter in 1927 when deteriorating brickwork forced crews to remove the tower’s upper section, using chutes to keep falling debris from damaging the attached dwelling. A lantern salvaged from the abandoned Admiralty Head lighthouse topped the shortened tower, paired with a smaller, rotating Fresnel lens.",
     "summarySources": [
       {
-        "url": "https://en.wikipedia.org/wiki/New_Dungeness_Light",
-        "label": "Wikipedia — individual lighthouse article"
+        "url": "https://newdungenesslighthouse.com/the-lighthouse/",
+        "label": "New Dungeness Light Station Association — Pictorial History"
       }
     ],
     "factIndexes": [
-      1,
-      2,
-      3,
-      4
+      7
     ],
     "sentences": [
       {
-        "text": "New Dungeness Light was first lit in 1857.",
+        "text": "New Dungeness became shorter in 1927 when deteriorating brickwork forced crews to remove the tower’s upper section, using chutes to keep falling debris from damaging the attached dwelling.",
         "factIndexes": [
-          1
+          7
         ]
       },
       {
-        "text": "Its conical tower was built from brick, sandstone and stucco, and the tower measured 63 feet (19 m).",
+        "text": "A lantern salvaged from the abandoned Admiralty Head lighthouse topped the shortened tower, paired with a smaller, rotating Fresnel lens.",
         "factIndexes": [
-          4,
-          3,
-          2
+          7
         ]
       }
     ]
   },
   {
     "id": "wa-north-head-light",
-    "summary": "North Head Light was first lit in 1898 and automated in 1961. Its tower was built from brick, with a recorded height of 65 feet (20 m).",
+    "summary": "North Head filled a blind spot for ships approaching the Columbia River from the north, where Cape Disappointment’s light could be difficult to see. Not every hazard came from the sea: in April 1932, a wild duck crashed through a lantern-room storm pane and slightly damaged the lens.",
     "summarySources": [
       {
-        "url": "https://en.wikipedia.org/wiki/North_Head_Light",
-        "label": "Wikipedia — individual lighthouse article"
+        "url": "https://www.lighthousefriends.com/light.asp?ID=116&lang=en",
+        "label": "Lighthouse Friends — North Head Lighthouse"
       }
     ],
     "factIndexes": [
-      0,
-      2,
-      3,
-      4
+      5
     ],
     "sentences": [
       {
-        "text": "North Head Light was first lit in 1898 and automated in 1961.",
+        "text": "North Head filled a blind spot for ships approaching the Columbia River from the north, where Cape Disappointment’s light could be difficult to see.",
         "factIndexes": [
-          0,
-          4
+          5
         ]
       },
       {
-        "text": "Its tower was built from brick, with a recorded height of 65 feet (20 m).",
+        "text": "Not every hazard came from the sea: in April 1932, a wild duck crashed through a lantern-room storm pane and slightly damaged the lens.",
         "factIndexes": [
-          3,
-          2
+          5
         ]
       }
     ]
@@ -24329,32 +23931,28 @@
   },
   {
     "id": "wi-devils-island-light",
-    "summary": "Devils Island Light was first lit in 1901 and automated in 1978. Its tower was built from cast iron, with a recorded height of 71 feet (22 m).",
+    "summary": "Devils Island’s tower once shook so badly in high winds that its keepers reported the motion could put out the lamp. External braces added in 1914 steadied the tower and created its distinctive outline; the station later became the last staffed lighthouse in the Apostle Islands, remaining manned until 1978.",
     "summarySources": [
       {
-        "url": "https://en.wikipedia.org/wiki/Devils_Island_Light",
-        "label": "Wikipedia — individual lighthouse article"
+        "url": "https://www.nps.gov/apis/learn/historyculture/devils-light.htm",
+        "label": "National Park Service — Devils Island Light"
       }
     ],
     "factIndexes": [
-      0,
-      1,
-      2,
-      4
+      7,
+      8
     ],
     "sentences": [
       {
-        "text": "Devils Island Light was first lit in 1901 and automated in 1978.",
+        "text": "Devils Island’s tower once shook so badly in high winds that its keepers reported the motion could put out the lamp.",
         "factIndexes": [
-          0,
-          4
+          7
         ]
       },
       {
-        "text": "Its tower was built from cast iron, with a recorded height of 71 feet (22 m).",
+        "text": "External braces added in 1914 steadied the tower and created its distinctive outline; the station later became the last staffed lighthouse in the Apostle Islands, remaining manned until 1978.",
         "factIndexes": [
-          2,
-          1
+          8
         ]
       }
     ]
@@ -24969,64 +24567,56 @@
   },
   {
     "id": "wi-north-point-light",
-    "summary": "North Point’s construction history records cast iron from 1888 and steel from 1912. The octagonal tower is listed at 74 feet tall on a concrete foundation.",
+    "summary": "Georgia Stebbins came to North Point in 1873 after a tuberculosis diagnosis, seeking better air while staying with her parents at the lighthouse. Finding them in poor health, she gradually took over her father’s duties and became official keeper in 1881; she served until 1907, tending the lamp, winding the lens mechanism and keeping the station’s daily log.",
     "summarySources": [
       {
-        "url": "https://en.wikipedia.org/wiki/North_Point_Light",
-        "label": "Wikipedia — individual lighthouse article"
+        "url": "https://northpointlighthouse.org/learn/keepers/georgia-stebbins/",
+        "label": "North Point Lighthouse and Museum — Georgia Stebbins"
       }
     ],
     "factIndexes": [
-      1,
-      2,
-      3,
-      4
+      5,
+      6
     ],
     "sentences": [
       {
-        "text": "North Point’s construction history records cast iron from 1888 and steel from 1912.",
+        "text": "Georgia Stebbins came to North Point in 1873 after a tuberculosis diagnosis, seeking better air while staying with her parents at the lighthouse.",
         "factIndexes": [
-          2
+          5
         ]
       },
       {
-        "text": "The octagonal tower is listed at 74 feet tall on a concrete foundation.",
+        "text": "Finding them in poor health, she gradually took over her father’s duties and became official keeper in 1881; she served until 1907, tending the lamp, winding the lens mechanism and keeping the station’s daily log.",
         "factIndexes": [
-          1,
-          3,
-          4
+          6
         ]
       }
     ]
   },
   {
     "id": "wi-outer-island-light",
-    "summary": "Outer Island’s light was first lit in 1874 and automated in 1961. The 90-foot brick tower incorporates Italianate brackets.",
+    "summary": "Lake Superior battered Outer Island’s station from the start: its dock washed away during the first year of operation, and collapsing clay banks destroyed the fog-signal building below the bluff. A replacement was built on the clifftop in 1875, but moving uphill made it harder for the keepers to supply water to the steam-powered whistle.",
     "summarySources": [
       {
-        "url": "https://en.wikipedia.org/wiki/Outer_Island_Light",
-        "label": "Wikipedia — individual lighthouse article"
+        "url": "https://www.nps.gov/apis/learn/historyculture/outer-light.htm",
+        "label": "National Park Service — Outer Island Light"
       }
     ],
     "factIndexes": [
-      0,
-      1,
-      2,
-      3
+      5,
+      6
     ],
     "sentences": [
       {
-        "text": "Outer Island’s light was first lit in 1874 and automated in 1961.",
+        "text": "Lake Superior battered Outer Island’s station from the start: its dock washed away during the first year of operation, and collapsing clay banks destroyed the fog-signal building below the bluff.",
         "factIndexes": [
-          0,
-          3
+          5
         ]
       },
       {
-        "text": "The 90-foot brick tower incorporates Italianate brackets.",
+        "text": "A replacement was built on the clifftop in 1875, but moving uphill made it harder for the keepers to supply water to the steam-powered whistle.",
         "factIndexes": [
-          1,
-          2
+          6
         ]
       }
     ]
@@ -25355,32 +24945,28 @@
   },
   {
     "id": "wi-raspberry-island-light",
-    "summary": "Raspberry Island Light was first lit in 1862. Its square tower attached to a white building with a red roof was built from wood, and the tower measured 43 feet (13 m).",
+    "summary": "In 1887, Raspberry Island keeper Francis Jacker was blown off course while moving the station boat before a storm and spent nearly three days stranded on Oak Island. His wife discovered him missing and organized a search; the incident helped persuade officials to provide an assistant, and Jacker hired his son Edward.",
     "summarySources": [
       {
-        "url": "https://en.wikipedia.org/wiki/Raspberry_Island_Light",
-        "label": "Wikipedia — individual lighthouse article"
+        "url": "https://www.nps.gov/apis/learn/historyculture/raspberry-light.htm",
+        "label": "National Park Service — Raspberry Island Light"
       }
     ],
     "factIndexes": [
-      0,
-      1,
-      2,
-      3
+      5,
+      6
     ],
     "sentences": [
       {
-        "text": "Raspberry Island Light was first lit in 1862.",
+        "text": "In 1887, Raspberry Island keeper Francis Jacker was blown off course while moving the station boat before a storm and spent nearly three days stranded on Oak Island.",
         "factIndexes": [
-          0
+          5
         ]
       },
       {
-        "text": "Its square tower attached to a white building with a red roof was built from wood, and the tower measured 43 feet (13 m).",
+        "text": "His wife discovered him missing and organized a search; the incident helped persuade officials to provide an assistant, and Jacker hired his son Edward.",
         "factIndexes": [
-          3,
-          2,
-          1
+          6
         ]
       }
     ]
@@ -25449,32 +25035,28 @@
   },
   {
     "id": "wi-sand-island-light",
-    "summary": "Sand Island Light was first lit in 1881 on Sand Island, Wisconsin. Its tower was built from sandstone and measured 42 feet (13 m).",
+    "summary": "Sand Island keeper Charles Lederle rowed several miles onto Lake Superior in 1885 to rescue the entire crew of the burning steamer Prussia. His home and workplace had been built just four years earlier from sandstone quarried at the lighthouse site, with a tower that changes from a square base to an octagon.",
     "summarySources": [
       {
-        "url": "https://en.wikipedia.org/wiki/Sand_Island_Light_(Wisconsin)",
-        "label": "Wikipedia — individual lighthouse article"
+        "url": "https://www.nps.gov/apis/learn/historyculture/sand-light.htm",
+        "label": "National Park Service — Sand Island Light"
       }
     ],
     "factIndexes": [
-      0,
-      1,
-      2,
-      3
+      4,
+      5
     ],
     "sentences": [
       {
-        "text": "Sand Island Light was first lit in 1881 on Sand Island, Wisconsin.",
+        "text": "Sand Island keeper Charles Lederle rowed several miles onto Lake Superior in 1885 to rescue the entire crew of the burning steamer Prussia.",
         "factIndexes": [
-          0,
-          3
+          4
         ]
       },
       {
-        "text": "Its tower was built from sandstone and measured 42 feet (13 m).",
+        "text": "His home and workplace had been built just four years earlier from sandstone quarried at the lighthouse site, with a tower that changes from a square base to an octagon.",
         "factIndexes": [
-          2,
-          1
+          5
         ]
       }
     ]

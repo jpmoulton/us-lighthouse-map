@@ -66,21 +66,45 @@ if(requireRelease) {
     if(actual!==release.outputSha256?.[file])throw new Error(`Approved data changed after audit: ${file}`);
   }
 }
+// Story additions have their own source review; the original fact archive stays intact.
+const digest=file=>crypto.createHash('sha256').update(fs.readFileSync(path.join(root,'data/info',file))).digest('hex');
+const hashRecord=value=>crypto.createHash('sha256').update(JSON.stringify(value)).digest('hex');
+const stories=JSON.parse(read('data/info/story-facts.json'));
+const storyRelease=JSON.parse(read('data/info/story-release.json'));
+if(storyRelease.status!=='approved'||!Array.isArray(stories)||stories.length!==storyRelease.records||
+  digest('profiles.json')!==storyRelease.inputSha256?.['profiles.json']||
+  digest('story-facts.json')!==storyRelease.outputSha256?.['story-facts.json'])throw new Error('Story source review is missing or stale');
+if(!Array.isArray(storyRelease.reviews)||storyRelease.reviews.length!==stories.length)throw new Error('Story review does not cover every addition');
+const storyReviews=new Map(storyRelease.reviews.map(r=>[r.id,r]));
+if(storyReviews.size!==stories.length)throw new Error('Duplicate story reviews');
+const storyIds=new Set();
+for(const row of stories) {
+  const profile=profiles[row.id],review=storyReviews.get(row.id);
+  if(!profile||storyIds.has(row.id)||!Array.isArray(row.facts)||!row.facts.length||
+    !review||review.status!=='accepted'||review.factsSha256!==hashRecord(row.facts))throw new Error(`Unreviewed story facts: ${row.id}`);
+  for(const fact of row.facts)if(!fact.label||!fact.value||!/^https:\/\//.test(fact.sourceUrl||'')||
+    !fact.sourceLabel||!['primary','secondary'].includes(fact.sourceClass))throw new Error(`Unsourced story fact: ${row.id}`);
+  profile.facts.push(...row.facts);
+  profile.reviewNote='This summary and its added historical facts were checked against the linked sources. The remaining record details retain their earlier source review.';
+  storyIds.add(row.id);
+}
+if(stories.reduce((n,row)=>n+row.facts.length,0)!==storyRelease.facts)throw new Error('Story fact count disagrees with review');
 // Summaries are an independently reviewed addition; the original fact audit stays intact.
 const summariesPath='data/info/summaries.json';
 let summaryCount=0;
+if((requireRelease||storyIds.size)&&!fs.existsSync(path.join(root,summariesPath)))throw new Error('Reviewed summaries are required for this release');
 if(fs.existsSync(path.join(root,summariesPath))) {
   const summaries=JSON.parse(read(summariesPath));
   const release=JSON.parse(read('data/info/summary-release.json'));
   if(release.status!=='approved'||release.records!==lights.length||summaries.length!==lights.length)throw new Error('Summary audit does not cover every lighthouse');
-  const digest=file=>crypto.createHash('sha256').update(fs.readFileSync(path.join(root,'data/info',file))).digest('hex');
-  for(const file of ['profiles.json','base-corrections.json'])if(digest(file)!==release.inputSha256?.[file])throw new Error(`Summary audit is stale for ${file}`);
+  for(const file of ['profiles.json','base-corrections.json','story-facts.json','story-release.json'])if(digest(file)!==release.inputSha256?.[file])throw new Error(`Summary audit is stale for ${file}`);
   if(digest('summaries.json')!==release.outputSha256?.['summaries.json'])throw new Error('Summaries changed after audit');
   const seen=new Set();
   for(const row of summaries) {
     const profile=profiles[row.id];
     if(!profile||seen.has(row.id)||!row.summary?.trim())throw new Error(`Missing or duplicate summary: ${row.id}`);
     if(!Array.isArray(row.sentences)||!row.sentences.length||row.sentences.map(s=>s.text).join(' ')!==row.summary)throw new Error(`Untraceable summary sentences: ${row.id}`);
+    if(storyIds.has(row.id)&&storyReviews.get(row.id).summarySha256!==hashRecord(row))throw new Error(`Story summary changed after review: ${row.id}`);
     const indexes=[...new Set(row.sentences.flatMap(s=>s.factIndexes||[]))].sort((a,b)=>a-b);
     if(!indexes.length||row.sentences.some(s=>!s.factIndexes?.length)||indexes.some(i=>!Number.isInteger(i)||!profile.facts[i]))throw new Error(`Summary cites an unknown fact: ${row.id}`);
     if(JSON.stringify(indexes)!==JSON.stringify([...new Set(row.factIndexes||[])].sort((a,b)=>a-b)))throw new Error(`Summary fact references disagree: ${row.id}`);

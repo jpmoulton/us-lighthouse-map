@@ -1,0 +1,915 @@
+{
+  "status": "approved",
+  "records": 100,
+  "facts": 162,
+  "method": "Each added fact and rewritten sentence was independently compared with the cited source page. Approval binds the exact fact list and complete summary record; unsupported claims require revision before release.",
+  "inputSha256": {
+    "profiles.json": "dd0be71f3d00d6a1c102be667d775e0052c7ebfe3eff16ea163bb5237aec3b1f"
+  },
+  "outputSha256": {
+    "story-facts.json": "060a727131c9290a07e949da3286694ef225d44f204dbdfaa0f7f258f2f45977"
+  },
+  "reviews": [
+    {
+      "id": "ak-cape-st-elias-light",
+      "status": "accepted",
+      "factsSha256": "2f334e39e98a90f0997bdeef257de0b3a5b796a7d29f2ce2d7d1efba5791f3eb",
+      "summarySha256": "b99248ce5ba7a0590b5af7b6f7920f229ad7dba7ac7ae63b4c79583be057715e",
+      "sourceUrls": [
+        "https://www.history.uscg.mil/Browse-by-Topic/Assets/Land/All/Article/1911649/cape-st-elias-light/"
+      ]
+    },
+    {
+      "id": "ak-eldred-rock-light",
+      "status": "accepted",
+      "factsSha256": "0480ce2213ce48f890186006b572f8a442e0d4bb917a84875b779193fe9b1849",
+      "summarySha256": "fb5aa0e8bcd1b6e781a88a4c068399ecb26c64fcec7ebcb1a89293ae7020af0b",
+      "sourceUrls": [
+        "https://www.sheldonmuseum.org/vignette/eldred-rock-lighthouse/"
+      ]
+    },
+    {
+      "id": "ak-five-finger-islands-light",
+      "status": "accepted",
+      "factsSha256": "2402a08a8009f064a99f76da45b01056b461463dfc5a3b6f0d750e4157888de1",
+      "summarySha256": "471bdb962000e161824533ca2e4287644840984deba486aeccd614d45c557c42",
+      "sourceUrls": [
+        "https://www.fivefingerlighthouse.com/timeline-events"
+      ]
+    },
+    {
+      "id": "ak-scotch-cap-light",
+      "status": "accepted",
+      "factsSha256": "42615a0e29c437eea90cd408850b470e5a4c437aa4e1f174f1ca1faf4f72c656",
+      "summarySha256": "ff5ef0b8ddc3eed22fb3ec5d935a01443f7dfeb9b19189a686ef466f18cf0517",
+      "sourceUrls": [
+        "https://www.history.uscg.mil/Browse-by-Topic/Assets/Land/All/Article/1988680/scotch-cap-light/"
+      ]
+    },
+    {
+      "id": "al-middle-bay-light",
+      "status": "accepted",
+      "factsSha256": "294f9ce3722bd76d8f607a1fca9851fb846041133240dcc60ba9ba48523f6cb8",
+      "summarySha256": "08201410fe6e6358a469a8fe261a4ca944241fb20a815474d84699589b0bbbdd",
+      "sourceUrls": [
+        "https://ahc.alabama.gov/properties/middlebay/middlebay.aspx"
+      ]
+    },
+    {
+      "id": "al-sand-island-light",
+      "status": "accepted",
+      "factsSha256": "4b762cee539e13552e7cb5d3542ad514ea283a877f08d3471c9d5a8c9efc5d87",
+      "summarySha256": "fd1b2d3852c3792f6972da69215b493854b15c5acd397c248db5a9d16066b955",
+      "sourceUrls": [
+        "https://www.history.uscg.mil/Browse-by-Topic/Assets/Land/All/Article/1988493/sand-island-light-al/"
+      ]
+    },
+    {
+      "id": "ca-alcatraz-island-light",
+      "status": "accepted",
+      "factsSha256": "0c3b6de9033c0badc105a7947cf3c45f689fc0101f1b1e5f39a1325f84ba2650",
+      "summarySha256": "6174f660bcb42a67269fd5f7218a826f3876199a22c0d1109d3b187f61dd88cd",
+      "sourceUrls": [
+        "https://alcatrazlighthouse.org/lighthouse-history"
+      ]
+    },
+    {
+      "id": "ca-anacapa-island-light",
+      "status": "accepted",
+      "factsSha256": "2fc19e9b82406c5ff842f7d6c3cd55a59ee52cfd5d8ade05cd4b8ff93d1840f9",
+      "summarySha256": "81bae930e3124e9066912530902dee064e6e32955df28bfc9dbf96393a300c87",
+      "sourceUrls": [
+        "https://www.nps.gov/places/000/lighthouse.htm"
+      ]
+    },
+    {
+      "id": "ca-fort-point-light",
+      "status": "accepted",
+      "factsSha256": "78b740b59d150c561c76354b391439570d8add2d5f1b9ce1b0c5f05978591486",
+      "summarySha256": "0564e2a81d1daa94ed273d77c5c5fbdc5f52ee74fa26397cf8b2729e63b68bc3",
+      "sourceUrls": [
+        "https://www.nps.gov/places/000/fort-point-lighthouse-fort-point-tour.htm"
+      ]
+    },
+    {
+      "id": "ca-pigeon-point-light",
+      "status": "accepted",
+      "factsSha256": "85430d2fba13173584d4d8811301a2434efaa27da6b51bb158f678cb4f22167e",
+      "summarySha256": "9d062d00b1b7e855fed3be7f786c596351f54ee278573712076cc89c29950b0b",
+      "sourceUrls": [
+        "https://www.parks.ca.gov/?page_id=22034"
+      ]
+    },
+    {
+      "id": "ca-point-arena-light",
+      "status": "accepted",
+      "factsSha256": "e1876e073c7b97f1f1fb7d843bc6bf4a54021129d4b242616f16280070ce61bf",
+      "summarySha256": "632f7f033fa47731f97435ab0f41c5e97d58a52d5befa66107ec1692424b35b9",
+      "sourceUrls": [
+        "https://old.pointarenalighthouse.com/about/lighthouse-history/"
+      ]
+    },
+    {
+      "id": "ca-point-bonita-light",
+      "status": "accepted",
+      "factsSha256": "3308ad666eac87521861803068638440770b274bb2d8ecbff2df76976a4d2186",
+      "summarySha256": "9408b91ef1eb6fd4c3002c012188e22294d65a229b98e313dba6ce792790cce8",
+      "sourceUrls": [
+        "https://www.nps.gov/goga/learn/historyculture/upload/Point-Bonita-Historic-District.pdf"
+      ]
+    },
+    {
+      "id": "ca-point-cabrillo-light",
+      "status": "accepted",
+      "factsSha256": "b6cdb9dfd98384d45a939672d02ee0157166dff4835521160e5295ba404d6543",
+      "summarySha256": "47b36d27cfb3c9f7b333b636a3c511078c5aa080084f4f66dbcdd52edf81057f",
+      "sourceUrls": [
+        "https://pointcabrillo.org/learn/history/frolic/frolic1850/"
+      ]
+    },
+    {
+      "id": "ca-point-fermin-light",
+      "status": "accepted",
+      "factsSha256": "fc423f7fd3d4927a00369f1579b3761b1a31689c9dfc4ce5a33043fbfbbf0abb",
+      "summarySha256": "a2570208f1804e58e9e31dbdc0adac41c6701c0d5663409247c622a281e56e07",
+      "sourceUrls": [
+        "https://www.pflhs.org/copy-of-145th-birthday-2",
+        "https://ohp.parks.ca.gov/pages/1067/files/01_Point%20Fermin%20Historic%20District%20National%20Register%20Nomination%20Form.pdf"
+      ]
+    },
+    {
+      "id": "ca-point-loma-light-new",
+      "status": "accepted",
+      "factsSha256": "918035d4e18c69546a909da7ee9d1191e0d27d8d72d3d12e1b970c957b79693e",
+      "summarySha256": "daca50ff553a831c6a556a0d11c4a368739ccab59d3f060c58364e2a96ea9b8b",
+      "sourceUrls": [
+        "https://www.nps.gov/places/new-point-loma-lighthouse.htm"
+      ]
+    },
+    {
+      "id": "ca-point-loma-light-old",
+      "status": "accepted",
+      "factsSha256": "fb16258087a6dcecf5902bedaeeed018f603c93d7d1112f715cde190b754ca4c",
+      "summarySha256": "6f53bfc8e0c233d77aa3c1980819e2496299f464c172d703653e3166e33b3022",
+      "sourceUrls": [
+        "https://www.nps.gov/places/old-point-loma-lighthouse-grounds.htm"
+      ]
+    },
+    {
+      "id": "ca-point-montara-light",
+      "status": "accepted",
+      "factsSha256": "dfbd35df9a8b27b0e4f37e34a1d0f13587669bf6e9c44d29f9a00ad2b226e863",
+      "summarySha256": "090839ec4bd456bae2f8bc2c06c65f1cf18376972e92f1f3eadc34c2d0f2cc40",
+      "sourceUrls": [
+        "https://www.hiusa.org/blog/miscellaneous/history-point-montara-lighthouse"
+      ]
+    },
+    {
+      "id": "ca-point-pinos-light",
+      "status": "accepted",
+      "factsSha256": "01075c553d60a4b5a4d32e5267aa9489dd860400d965942cb0f82aa71fe43102",
+      "summarySha256": "d136f8d0f17577d8cd9ce74f94cdbd973049c31dc6df8406fdaa293427fd94ba",
+      "sourceUrls": [
+        "https://www.pointpinoslighthouse.org/pdf/1906.pdf"
+      ]
+    },
+    {
+      "id": "ca-point-reyes-light",
+      "status": "accepted",
+      "factsSha256": "9b0ecca72b4c52ba4f5b69635db698adfd6de078d31e42950c392ea460abaccd",
+      "summarySha256": "4c5f8b86f51668747e46173f98ce6aa61ecf7a16abfba77ed0dc97c3045595a2",
+      "sourceUrls": [
+        "https://www.nps.gov/pore/learn/photosmultimedia/photogallery_thenandnow_pointreyeslighthouse.htm"
+      ]
+    },
+    {
+      "id": "ca-point-san-luis-light",
+      "status": "accepted",
+      "factsSha256": "bbb086a25668ba3cb4264a3c2c5ed5799a3c50fd3a9bfb16eb16b033bf182bc3",
+      "summarySha256": "3d61f2e7a9a635316f30e7e61d46524117b5665cbbd51ad9fed50a2233eb4884",
+      "sourceUrls": [
+        "https://www.pointsanluislighthouse.org/about"
+      ]
+    },
+    {
+      "id": "ca-st-george-reef-light",
+      "status": "accepted",
+      "factsSha256": "4dcd6f92b1711dfc09e1f6bb7117a2b1f1f8bd13b840fcd49899bacf7ed3b4c8",
+      "summarySha256": "c7a73e6e70c978af27a118436fed594c79d797cac0b1c574916a6751c92fcb7a",
+      "sourceUrls": [
+        "https://delnortehistory.org/st-george-reef-lighthouse/"
+      ]
+    },
+    {
+      "id": "ct-new-london-ledge-light",
+      "status": "accepted",
+      "factsSha256": "d5e1c50b2f72baebb2973a703a894c615f6f34c257ad4f0e38c90060aab2e5f3",
+      "summarySha256": "d8bd13e033153624b47eabe28f0f5821769e0316d07c1eb0dae52bc5211445c0",
+      "sourceUrls": [
+        "https://mcguirelibrary1998.omeka.net/exhibits/show/keeper-of-the-lights--the-mari/new-london-ledge-light--the-ho"
+      ]
+    },
+    {
+      "id": "fl-cape-canaveral-light-new",
+      "status": "accepted",
+      "factsSha256": "9f9ecfab73bb61f969c4e8044bf0c956103e54ad91614da52a2dc5c95e2a97fb",
+      "summarySha256": "50ce1e76dd3c9d053d1c8361fa36dbb981f3f5270a5c3b441863df4166b68710",
+      "sourceUrls": [
+        "https://canaverallight.org/explore-and-learn/"
+      ]
+    },
+    {
+      "id": "fl-cape-florida-light",
+      "status": "accepted",
+      "factsSha256": "7575e6a25e755e2870fe3a2192c4a97d8534ab8a02b5d1cfd21f209c3560a302",
+      "summarySha256": "142302bcf85bde7900785e3df392a516259eb4402e7306620d1aed4363993dc9",
+      "sourceUrls": [
+        "https://www.history.uscg.mil/Browse-by-Topic/Assets/Land/All/Article/1955776/cape-florida-lighthouse/"
+      ]
+    },
+    {
+      "id": "fl-egmont-key-light",
+      "status": "accepted",
+      "factsSha256": "a112c124f90f5d7987e5d3045c93d19db8275d238d3a0e5ce3b90369af2d31b3",
+      "summarySha256": "d69bbfe22a5f46b00b4c714492a587eb5aa910621a035aabf9732f6bcec5ff6c",
+      "sourceUrls": [
+        "https://www.history.uscg.mil/Browse-by-Topic/Assets/Land/Lighthouses-Light-Stations/Article/1915905/egmont-key-light/"
+      ]
+    },
+    {
+      "id": "fl-jupiter-inlet-light",
+      "status": "accepted",
+      "factsSha256": "bb29e3ad1db4b6a3b82d03f18e22f89313e95f77d005dbfd44a831cd99abea6e",
+      "summarySha256": "4a75a5e090a04a72c98992156d519e1c6db558667b377e0b4967f9367a291b80",
+      "sourceUrls": [
+        "https://www.jupiterlighthouse.org/explore/history/world-way-ii-secret-station-j/"
+      ]
+    },
+    {
+      "id": "fl-key-west-light",
+      "status": "accepted",
+      "factsSha256": "2abf9697a63a77ee4b6d15b6926db10243b18acb41ce18d1a4758ec04dcb8cdc",
+      "summarySha256": "4da83160750d6a721cbc3d852d0dc3229d98503a44238a65040a6d1e50a8379b",
+      "sourceUrls": [
+        "https://www.kwahs.org/u-s-coast-guard-cutter-barbara-mabrity-wlm-559-scheduled-for-key-west-port-visit-and-public-tours/"
+      ]
+    },
+    {
+      "id": "fl-ponce-de-leon-inlet-light",
+      "status": "accepted",
+      "factsSha256": "694f6127d7be3d74f4c8ebe43e657b3ab1e8eb2f88880af4e6f798d69704fa65",
+      "summarySha256": "cb21e697372b085339304ae687a4b8bc907e1f09ff2d57a62409f484ab5dbc41",
+      "sourceUrls": [
+        "https://www.ponceinlet.org/history-and-education/lighthouse-history/"
+      ]
+    },
+    {
+      "id": "fl-st-augustine-light-new",
+      "status": "accepted",
+      "factsSha256": "8475a831486b6dbf89942775f761d74adf39e81eab333402da9f6bd67ac19457",
+      "summarySha256": "affde3ac153ccb7cdecb0a19d45857d3d07681e44cd1eb6335902e2b636c699f",
+      "sourceUrls": [
+        "https://www.staugustinelighthouse.org/get-involved/about-mission-uvp/history/"
+      ]
+    },
+    {
+      "id": "ga-cockspur-island-light",
+      "status": "accepted",
+      "factsSha256": "cc69d6d464fb9d80c4f84cd682181e7b4589d0ee217e042de1070ee3e20e24d1",
+      "summarySha256": "ad9cb1b5c7cbd0e0f733b228ad7b2b0af17d8799892b8dc776eeb043360eae68",
+      "sourceUrls": [
+        "https://www.nps.gov/places/cockspur-island-lighthouse.htm"
+      ]
+    },
+    {
+      "id": "ga-st-simons-island-light",
+      "status": "accepted",
+      "factsSha256": "97faf8840f9a9bddfda7c3461743a585a97fd7e3ebb92af037159b22be4fbc5f",
+      "summarySha256": "f9c3178fc74a9a1cc952b3a104873c0c9f1179aa369e90b4ff52a08234bc5d54",
+      "sourceUrls": [
+        "https://stsimonsisland.com/history-of-the-st-simons-lighthouse/"
+      ]
+    },
+    {
+      "id": "ga-tybee-island-light",
+      "status": "accepted",
+      "factsSha256": "dea77fdb9e2e3cb08c10a2ad893cbfb2caff0949e1615ab0ae571ec43ef52e20",
+      "summarySha256": "4f524063f6b83aa147bfbb1b5961e5c458acfbd0bd30505959b3b601a3c1847d",
+      "sourceUrls": [
+        "https://www.tybeelighthouse.org/history-of-tybee-light-station-and-fort-screven"
+      ]
+    },
+    {
+      "id": "hi-aloha-tower",
+      "status": "accepted",
+      "factsSha256": "cec6532f0e4b550043b1ac394a80ae068c5004074711426e3b4c0a1e2d7fbe1e",
+      "summarySha256": "1b28d6b19a512804871cf821b2f730ebd0465215d53dfc72b983b220f761929d",
+      "sourceUrls": [
+        "https://alohatower.com/history/index.html"
+      ]
+    },
+    {
+      "id": "hi-barbers-point-light",
+      "status": "accepted",
+      "factsSha256": "1b3bee2b14d13bbfbb556bea58566a3d5733bdbe052354717231af812cee4d67",
+      "summarySha256": "4031bc45c5a8a051ec770cd5a655301a60b652d7173c3c2847090aece3f996e5",
+      "sourceUrls": [
+        "https://www.history.uscg.mil/Research/THE-LONG-BLUE-LINE/Article/2939234/the-long-blue-line-hawaiian-keepers-of-the-light/"
+      ]
+    },
+    {
+      "id": "hi-cape-kumukahi-light",
+      "status": "accepted",
+      "factsSha256": "cde7536ba43662b1d07616e8236f197ca4511c87efcc21067d58cbbf4437b7d7",
+      "summarySha256": "9492ce2168347eddaa99968ce0e4ae1a536ebc2f10fe766f2948200194b54f92",
+      "sourceUrls": [
+        "https://www.usgs.gov/volcanoes/kilauea/science/1960-kapoho-eruption-provided-lesson-kilauea-behavior"
+      ]
+    },
+    {
+      "id": "hi-diamond-head-light",
+      "status": "accepted",
+      "factsSha256": "7482099ad9295ac85372e84a5d1ffa7c1b0eed13072367ce4f5224599ceef6c7",
+      "summarySha256": "0684d5d012f166272f6620c425809b2a9bc04b005d2e411c886a6e99d17b0127",
+      "sourceUrls": [
+        "https://www.history.uscg.mil/Browse-by-Topic/Assets/Land/Lighthouses-Light-Stations/Article/1913302/diamond-head-lighthouse/"
+      ]
+    },
+    {
+      "id": "hi-kilauea-light",
+      "status": "accepted",
+      "factsSha256": "875afb4e2ba3d3b0aebf33615dce3f503d0f50883111d14e7c731739c5c3903e",
+      "summarySha256": "e853f5ee3b2cdd2b8bc9f0ab50bc6069787a292f3b19ca2384c85957c7d5146e",
+      "sourceUrls": [
+        "https://www.kauairefuges.org/history-lighthouse"
+      ]
+    },
+    {
+      "id": "hi-lahaina-light",
+      "status": "accepted",
+      "factsSha256": "ecc5fa81d23df6cc37210c38bf1026e10e6abe9544d36a398d6c766801bb1935",
+      "summarySha256": "5f3c1090088b25b25ba054ec378ec196a5b4605f4e5714ede695376a62f7e967",
+      "sourceUrls": [
+        "https://lahainarestoration.org/Maps/lahaina-historical-trail-brochure.pdf"
+      ]
+    },
+    {
+      "id": "il-grosse-point-light",
+      "status": "accepted",
+      "factsSha256": "dde380ee478e68e08aa901d63e8c95c85fe0752b0230fe7a5332523a5d91589e",
+      "summarySha256": "fee06d8ee75905c387c2726aaa7ca7100c7e5561eebfadcf3be3533553a3cacd",
+      "sourceUrls": [
+        "https://www.history.uscg.mil/Browse-by-Topic/Assets/Land/Lighthouses-Light-Stations/Article/1944470/grosse-point-light/"
+      ]
+    },
+    {
+      "id": "in-old-michigan-city-light",
+      "status": "accepted",
+      "factsSha256": "227128178541c2a5933571bebee09c25ce7f3a992321ee0478650cee79b0d586",
+      "summarySha256": "651b370399eb3b7410cd940eb66914a516f532a35666c42d2c269d3bf1b04984",
+      "sourceUrls": [
+        "https://www.nps.gov/people/harriet-colfax.htm"
+      ]
+    },
+    {
+      "id": "la-new-canal-light",
+      "status": "accepted",
+      "factsSha256": "fb13dd1adc8b2ed0008d48813934415d152b7f1b200dae5f87f768ec795ae626",
+      "summarySha256": "b42cf18cc70f37ab4f6c805bd8be4481401f79b5b78046043dcdb009aa572b9f",
+      "sourceUrls": [
+        "https://www.epa.gov/urbanwaterspartners/new-canal-lighthouse-museum-and-education-center-project"
+      ]
+    },
+    {
+      "id": "la-ship-shoal-light",
+      "status": "accepted",
+      "factsSha256": "f3f74fcd849347864b885f9d7955cf5f40fba03e77db90b2397008cad244d58a",
+      "summarySha256": "8fccaaa95729e6fab14725e61408fb79a2310bf14b72a25b7e83a4a92ef3426b",
+      "sourceUrls": [
+        "https://www.history.uscg.mil/Browse-by-Topic/Assets/Land/All/Article/1989182/ship-shoal-light/"
+      ]
+    },
+    {
+      "id": "ma-boston-light",
+      "status": "accepted",
+      "factsSha256": "01bd4b1f76e8d33e25a76d5352037dd37bfe642248318aa99dac09911bf3bcaa",
+      "summarySha256": "c7d898f953c60cc0af95d969ced376e2a9f0dfa969db8d1dcfd91ba13f4b012d",
+      "sourceUrls": [
+        "https://www.nps.gov/boha/learn/historyculture/boston-light.htm"
+      ]
+    },
+    {
+      "id": "ma-minot-s-ledge-light",
+      "status": "accepted",
+      "factsSha256": "795d848695d23f7fc010d8b1cde047c7f8b0468f925fbb590c8397a840bfd683",
+      "summarySha256": "2441e1b1b819b8769a5205a01c8945de5ff93c3509a04555c384b56f9d1e1e7e",
+      "sourceUrls": [
+        "https://www.history.uscg.mil/Research/THE-LONG-BLUE-LINE/Article/2866509/the-long-blue-line-minotsloss-of-the-deadly-lovers-light-170-years-ago/"
+      ]
+    },
+    {
+      "id": "md-seven-foot-knoll-light",
+      "status": "accepted",
+      "factsSha256": "e460d0c6f64d726b80dfe2f9e3e5f46dea9dc90164111ff5947a1c6417fcc296",
+      "summarySha256": "285fd21a4671b088fbe687d94a3600a6fbe0bef0619e8dea053300ff66b5f546",
+      "sourceUrls": [
+        "https://historicships.org/uploads/files/Volume11Issue3-Fall2009.pdf"
+      ]
+    },
+    {
+      "id": "md-thomas-point-shoal-light",
+      "status": "accepted",
+      "factsSha256": "ccf6479e7dbaaae393ff1199c3120eadc6af1d51a08c5b964c1df9f15bfdeeef",
+      "summarySha256": "745106745d6fe5273f8ad154e01f673c04dda04a41e66931f51da9bf60370a30",
+      "sourceUrls": [
+        "https://uslhs.org/travel/cruises/thomas-point-shoal-lighthouse/history/annual-reports"
+      ]
+    },
+    {
+      "id": "me-boon-island-light",
+      "status": "accepted",
+      "factsSha256": "97df3b20df3b5d6863ea428fdc90c3574af780c2fcde19d5e89e25fea41a8a84",
+      "summarySha256": "87f428e4cddc7121380b8f9e12ab4d2ec49e3c738ce666914bacae15072bd9cd",
+      "sourceUrls": [
+        "https://www.newenglandlighthouses.net/boon-island-light-history.html"
+      ]
+    },
+    {
+      "id": "me-portland-head-light",
+      "status": "accepted",
+      "factsSha256": "10dbab39bd421e8b6962e63b76950960c0159c148cb46c4c7254331ccd028a58",
+      "summarySha256": "8f58658e33f56affcd9d0efdc159a806e9d881469b147cb22c81dae8112796cd",
+      "sourceUrls": [
+        "https://portlandheadlight.com/about-us/"
+      ]
+    },
+    {
+      "id": "me-whaleback-light",
+      "status": "accepted",
+      "factsSha256": "b066781230fab0a98dd9943abefc16efbfecd58cab9d533c8abc9f943518b734",
+      "summarySha256": "75306cd2bbed8232a3c4d58f7b989677c7bba5fae8d55a86cd4511c033d9f016",
+      "sourceUrls": [
+        "https://lighthousefoundation.org/2017/10/lighthouse-keepers-leander-white-and-henry-m-cuskley-honored/"
+      ]
+    },
+    {
+      "id": "mi-au-sable-light",
+      "status": "accepted",
+      "factsSha256": "79662abe37886380c7b9d83c3ab54d7cd6a22b2da7e0e972febcfb83849e713a",
+      "summarySha256": "b69713a4f6190ea90e9230116cc2e0c9e881998afecf7bdcde055b8c5f2d0cef",
+      "sourceUrls": [
+        "https://www.nps.gov/piro/learn/historyculture/ausablelightstation.htm"
+      ]
+    },
+    {
+      "id": "mi-rock-harbor-light",
+      "status": "accepted",
+      "factsSha256": "650ff562056fb2e107a668ca7ce58226aaa82798a1bd81cdb6df86d311b5a648",
+      "summarySha256": "f24bf4aa9e1a27207dd857602966ea8214c88195ec14cc813186e3e0b72aa6dd",
+      "sourceUrls": [
+        "https://www.nps.gov/articles/000/rock-harbor-lighthouse.htm"
+      ]
+    },
+    {
+      "id": "mi-south-manitou-island-light",
+      "status": "accepted",
+      "factsSha256": "fef5e626b8bafe20a4ba2cf132f0429da8f7ff625e4740e2726e577000919b15",
+      "summarySha256": "28a1ade2d762f66a3147816d629bc447c46eb6c923ef75cc8c23dd3ce60a9387",
+      "sourceUrls": [
+        "https://www.nps.gov/places/000/south-manitou-lighthouse-complex.htm"
+      ]
+    },
+    {
+      "id": "mi-st-helena-island-light",
+      "status": "accepted",
+      "factsSha256": "bbfcbc3d36c3bb8814f37aa852392853b442dce7f41b3f68cc2f8f1384ee5bc1",
+      "summarySha256": "0885c15a971bcf3f908f0912724824934a4c4d9179701626c3b81c1460fbdc41",
+      "sourceUrls": [
+        "https://www.gllka.org/gllka-chronology"
+      ]
+    },
+    {
+      "id": "mi-tawas-point-light",
+      "status": "accepted",
+      "factsSha256": "578c86a493595a643a799b304e36fad0bc32a6fcbdbbe49ebd565f8544587caa",
+      "summarySha256": "99c83fc98e9a800f778633eb03df349659b58d0db542afa78c9a25c8adddf7cd",
+      "sourceUrls": [
+        "https://www.michigan.gov/mhc/museums/tawas"
+      ]
+    },
+    {
+      "id": "mn-split-rock-lighthouse",
+      "status": "accepted",
+      "factsSha256": "d5965c3a15b93b9dcb6d2c0809eb059718976bc42f0ad7bfd6dfe81b4a9969a5",
+      "summarySha256": "ef5a5940b11a7b3d7c47e700c73dc995845dbd44bc1a6a9b0cf2c92697d3ab64",
+      "sourceUrls": [
+        "https://www.mnhs.org/splitrock/learn/history"
+      ]
+    },
+    {
+      "id": "ms-biloxi-light",
+      "status": "accepted",
+      "factsSha256": "40128d7036180bc3288b17ebff8de7cd97b469cd0bc9684024aa82cc4631be6a",
+      "summarySha256": "074937d3a7bb98518d620427e7808b2cd2a3d930fd45427783822a86f628bdd5",
+      "sourceUrls": [
+        "https://biloxi.ms.us/visitor-info/museums/lighthouse/"
+      ]
+    },
+    {
+      "id": "nc-bodie-island-light",
+      "status": "accepted",
+      "factsSha256": "3b9ba277dcd68ba3a43beaa2628c70b8e68cad5dff447f28dafe4705d4d173c9",
+      "summarySha256": "0459b2505fd9b14642a660d0a7867f8fff70bd066d4ab0af1b9b5d8a1ab46b58",
+      "sourceUrls": [
+        "https://www.nps.gov/caha/planyourvisit/bils.htm"
+      ]
+    },
+    {
+      "id": "nc-cape-hatteras-light",
+      "status": "accepted",
+      "factsSha256": "c6577a62e8c91c2c79288aa50de10544e3dc49f12a72e99350b9a60d09fa5d8f",
+      "summarySha256": "242ce959544a9bd159e4284d92e0213050017bd1798120ad3ab708266d325a3a",
+      "sourceUrls": [
+        "https://www.nps.gov/caha/planyourvisit/chls.htm"
+      ]
+    },
+    {
+      "id": "nc-cape-lookout-light",
+      "status": "accepted",
+      "factsSha256": "a6c5ec6266dc5fee17647c5032c8d7a44052c241b399c0342f03a5a286b3e580",
+      "summarySha256": "399194fade7d11caff5700afc0b4e83bf2e51291bbb81cbad88475dac9b5c3bc",
+      "sourceUrls": [
+        "https://www.nps.gov/calo/learn/historyculture/1859lh.htm"
+      ]
+    },
+    {
+      "id": "nc-ocracoke-light",
+      "status": "accepted",
+      "factsSha256": "c7b2057405b995e1974a12fac697d0ee8e63ddf0656d42a39d22e96d3e12fb89",
+      "summarySha256": "fdc455fdfad2d369996b8db55e0fae87fffa9f582f98f1e4de9aef4a34174601",
+      "sourceUrls": [
+        "https://www.nps.gov/caha/planyourvisit/ols.htm"
+      ]
+    },
+    {
+      "id": "nj-absecon-light",
+      "status": "accepted",
+      "factsSha256": "51b4d30db0f20bff4020d8badf53c18a1991ecd328f121ccc0d7d99b71f572d9",
+      "summarySha256": "dc312a9b372de535b73bcbb541de3699b5f22b6cf3c76a5860cd67ba589261dd",
+      "sourceUrls": [
+        "https://abseconlighthouse.org/about/"
+      ]
+    },
+    {
+      "id": "nj-barnegat-lighthouse",
+      "status": "accepted",
+      "factsSha256": "6b17f10487e7fdef9bc35a5c8296da5b49f4b2098e382c256ccb805138a8bdb3",
+      "summarySha256": "3f66375eef595480b37a2a5490a425f39386f714261baf569d310b2df5f841c2",
+      "sourceUrls": [
+        "https://www.nj.gov/dca/njht/funded/sitedetails/barnegatlighthouse.shtml"
+      ]
+    },
+    {
+      "id": "nj-cape-may-light",
+      "status": "accepted",
+      "factsSha256": "01ddc3ef51a6d77f2d37eae7629529ab653c757765267c9cb58ae1946536949c",
+      "summarySha256": "047278b7915a4ec5633bf6189ccee71fe89458f7bab340a4dc5b0b37f684134f",
+      "sourceUrls": [
+        "https://capemaymac.org/experience/cape-may-lighthouse/"
+      ]
+    },
+    {
+      "id": "nj-sandy-hook-light",
+      "status": "accepted",
+      "factsSha256": "d5599328e8fab10d29df9406d2345f39738f3c51a62717d55ca47b3e15ba3f43",
+      "summarySha256": "d321aa293f07a53c658863cd8a25cbae50ffe73245f02610c37d4592150d4be2",
+      "sourceUrls": [
+        "https://www.nps.gov/places/000/sandy-hook-lighthouse.htm"
+      ]
+    },
+    {
+      "id": "ny-execution-rocks-light",
+      "status": "accepted",
+      "factsSha256": "561677fd32a6b16918755036aff549762cabf4a660d4f7bcdb83c5ce60c95c56",
+      "summarySha256": "ab87a9db1c5419fa73800fc43691b605afdb5e5b2d181fb16d3e7875647c45fb",
+      "sourceUrls": [
+        "https://www.lighthousefriends.com/light.asp?ID=749"
+      ]
+    },
+    {
+      "id": "ny-fire-island-light",
+      "status": "accepted",
+      "factsSha256": "292a981e874d485a4d3441e77df058f6c55e1fc1d147903918df4ff39dd69e75",
+      "summarySha256": "3073cc67bcec8c38b3233dfa2ea435c85fa5524e4edb7bd82fdd7eba1a048186",
+      "sourceUrls": [
+        "https://www.nps.gov/fiis/learn/historyculture/fire-island-lighthouse-history.htm"
+      ]
+    },
+    {
+      "id": "ny-montauk-point-light",
+      "status": "accepted",
+      "factsSha256": "8908f6ec212915c96e2c90e71f3330b8011782cd5d1cc797e8a6af9bf8e721e7",
+      "summarySha256": "3097a5e4f6608abec6d77c33c0c766a30e01d0ced36d1cd42684ab960cc704bc",
+      "sourceUrls": [
+        "https://montauklibrary.org/throwback-thursday-one-woman-in-history/"
+      ]
+    },
+    {
+      "id": "ny-race-rock-light",
+      "status": "accepted",
+      "factsSha256": "64d3878566b01e6b80e27ba85c7c722fc4a1729d5a9cc506abe4666a9abedef8",
+      "summarySha256": "b3ef90464f5246d08f7a46bcec90e008a10d78530c4893724b299890a5e9b29a",
+      "sourceUrls": [
+        "https://mcguirelibrary1998.omeka.net/exhibits/show/keeper-of-the-lights--the-mari/a-triumph-of-design-and-constr"
+      ]
+    },
+    {
+      "id": "oh-marblehead-light",
+      "status": "accepted",
+      "factsSha256": "35f7d18d1c0a19846438f2e262365ab2c5d7f44bf558b542d4ec9000ec035c8b",
+      "summarySha256": "dcde9e581b030fa62907a8fc6021c42fc329e9bc04e60f869c5c6292633a11bc",
+      "sourceUrls": [
+        "https://www.marbleheadohio.org/community/page/marblehead-lighthouse"
+      ]
+    },
+    {
+      "id": "or-cape-blanco-light",
+      "status": "accepted",
+      "factsSha256": "67d2fc3cafd4a76b8989ce83ec057204525977ce7ad0b1ba30d053b64ae125ed",
+      "summarySha256": "e46a585600b7cf6b30a156ebe2d69a9dd8416b958446a648ea5141d05bc68212",
+      "sourceUrls": [
+        "https://www.capeblancoheritagesociety.com/lightstation-history.html"
+      ]
+    },
+    {
+      "id": "or-cape-meares-light",
+      "status": "accepted",
+      "factsSha256": "4fdabd8d6ac1b9bc6301eeec9c2cac887e74e585964920d10fe3b04809abeb4c",
+      "summarySha256": "335820426dfe2b4cb2339c110dedc99df0648b0eb3211dcf5ccb16c92e80003e",
+      "sourceUrls": [
+        "https://stateparks.oregon.gov/index.cfm?do=park.profile&parkId=131"
+      ]
+    },
+    {
+      "id": "or-coquille-river-light",
+      "status": "accepted",
+      "factsSha256": "60fa7dbaaa02d30c08c22987b37c4d352751b9a7189722bdefa79a28cec74a5d",
+      "summarySha256": "38e8c50e29c7578c87dda093f36378831ed5b5996c65f038eeb1875c3ac9bbd2",
+      "sourceUrls": [
+        "https://www.oregonencyclopedia.org/articles/coquille-river-lighthouse/"
+      ]
+    },
+    {
+      "id": "or-heceta-head-light",
+      "status": "accepted",
+      "factsSha256": "044078e840b00aefe5937e5fa3683e989eea53caf1ec573233effd322130286d",
+      "summarySha256": "e714e629cc0f6b6d8847b9b921985b1335e0eefce4d184b07b20d27e01a62305",
+      "sourceUrls": [
+        "https://www.hecetalighthouse.com/history"
+      ]
+    },
+    {
+      "id": "or-tillamook-rock-light",
+      "status": "accepted",
+      "factsSha256": "108faf4379b4c5f4ccb15a2a503fdbdce34fd441c947693824611e1cfcd3dca8",
+      "summarySha256": "d7765c7ed3c8fcb919be21084547c8852ecfcd6b01656437792cbfb31e4d7108",
+      "sourceUrls": [
+        "https://www.ohs.org/blog/saga-of-the-tillamook-rock-lighthouse.cfm"
+      ]
+    },
+    {
+      "id": "or-umpqua-river-light",
+      "status": "accepted",
+      "factsSha256": "a4c7ac4ed1613f24efdb8bee5c76dd7273afa8475dd72ab02b33ee7aae3b8b3e",
+      "summarySha256": "d354301cd9717bf6e58c5ca7dea29d7042b6b6c1732ac98e8b4c560438b1b245",
+      "sourceUrls": [
+        "https://www.oregonencyclopedia.org/articles/umpqua_river_lighthouse/"
+      ]
+    },
+    {
+      "id": "or-yaquina-bay-light",
+      "status": "accepted",
+      "factsSha256": "2c13cc62e45319e0d72a698e6acd36601a8283dcae8059a0e3c9fdabd5a3299f",
+      "summarySha256": "0dbcd8ef6d2c790c5e83b1de3887f2f199255fcc9e79bf793bdecf9bdc75801f",
+      "sourceUrls": [
+        "https://stateparks.oregon.gov/index.cfm?do=park.profile&parkId=148"
+      ]
+    },
+    {
+      "id": "or-yaquina-head-light",
+      "status": "accepted",
+      "factsSha256": "a9ef7a05fe7344dcd68ebd814fa2372e4310d179759bc5ea890557f6acb23e6c",
+      "summarySha256": "9d036fb28d5cb9c0520842091dffb4528ea1b6fffec7c981dce163626387a387",
+      "sourceUrls": [
+        "https://www.blm.gov/blog/2022-03-22/race-save-yaquina-head"
+      ]
+    },
+    {
+      "id": "pr-mona-island-light",
+      "status": "accepted",
+      "factsSha256": "80d865136adeede56129c91f4b55694ba585992f29c82cc9337ec70d7033be7f",
+      "summarySha256": "178dcbfc7b36badc021851f630258d61cd51ddf90b3cba5af4bd78925cd6b5f0",
+      "sourceUrls": [
+        "https://www.lighthousefriends.com/light.asp?ID=1143"
+      ]
+    },
+    {
+      "id": "pr-port-san-juan-light",
+      "status": "accepted",
+      "factsSha256": "38c139e64fb07790f162706c45e95569c06624f5d0c72d43ac7d2e474fd2ad9a",
+      "summarySha256": "70037ac8817ec38f9beb7ffb06b23325e8f29256bfa8024c1ca871c129b65a1d",
+      "sourceUrls": [
+        "https://www.lighthousefriends.com/light.asp?ID=1165"
+      ]
+    },
+    {
+      "id": "ri-block-island-southeast-light",
+      "status": "accepted",
+      "factsSha256": "71be1bba43b48cfa21a9de8a23acabac079e28d45de9fbd4c79da62e79d1a565",
+      "summarySha256": "b0f034be2144fe52492cd2ca55c6a5c6b52ac4d82e1561dc901be579025d2ae5",
+      "sourceUrls": [
+        "https://southeastlighthouse.org/history/"
+      ]
+    },
+    {
+      "id": "ri-ida-lewis-rock-light",
+      "status": "accepted",
+      "factsSha256": "2d1aadfc1ac597e45fcbb9a35d2ce3b805ba9397b9f6673c8ae34fb1da2aa47b",
+      "summarySha256": "1f10ba8f59445e6611d4c9127726799f0aecbd581099803991a8b9ae70f38899",
+      "sourceUrls": [
+        "https://newporthistory.org/remembering-ida-lewis/"
+      ]
+    },
+    {
+      "id": "sc-charleston-light",
+      "status": "accepted",
+      "factsSha256": "82c913e15675617623db216076fc22f84a791f5f6c2f465d83a2dbab13925ff3",
+      "summarySha256": "6fbd0494fbe68ad504bd2be33f77ba44507ecefd2b27971139f39eacfaa2f143",
+      "sourceUrls": [
+        "https://www.nps.gov/fosu/learn/historyculture/charleston-light.htm"
+      ]
+    },
+    {
+      "id": "sc-hunting-island-light",
+      "status": "accepted",
+      "factsSha256": "60b69f1b73a89c36b3fe27a62eba04c71a3f89a50275c657b4e29d8aa45fc10d",
+      "summarySha256": "d34108f66d23ee46b2a316c08f7208b24bd0d979703e44203313f266b658edce",
+      "sourceUrls": [
+        "https://southcarolinaparks.com/hunting-island/lighthouse"
+      ]
+    },
+    {
+      "id": "tx-halfmoon-reef-light",
+      "status": "accepted",
+      "factsSha256": "7e6ca04d3b355a0bf7e1fde0b621f0b796e60260f1df426de3a86ecb99507e17",
+      "summarySha256": "05032d7bebedb2a4de7e8528e7beb33bae5721899f9cac4dc8e03a0cd763d1b7",
+      "sourceUrls": [
+        "https://texasmaritimemuseum.org/halfmoon-reef-lighthouse/"
+      ]
+    },
+    {
+      "id": "tx-point-bolivar-light",
+      "status": "accepted",
+      "factsSha256": "26f114735d2dd54e17a86ca6ef7ba062e969542e6f1280040d488a2f5c6db2c6",
+      "summarySha256": "364087839458057c1ef8699d4c9fb594d643cfbdbd205eb4285a0f291c331c05",
+      "sourceUrls": [
+        "https://bolivarpointlighthouse.org/history/"
+      ]
+    },
+    {
+      "id": "tx-point-isabel-light",
+      "status": "accepted",
+      "factsSha256": "5765a45254b56826dd4e78925382690cd6f55ae8c97c34863c091cae1bf3739e",
+      "summarySha256": "7b08518ba7141a8703994f124288715e63a49b3c60a6c4415576af0fef607a29",
+      "sourceUrls": [
+        "https://thc.texas.gov/state-historic-sites/port-isabel-lighthouse/port-isabel-lighthouse-history"
+      ]
+    },
+    {
+      "id": "va-assateague-light",
+      "status": "accepted",
+      "factsSha256": "ecac7063e95dca55e286328d8e0451b2979d52375ea8252e0337138dd081d990",
+      "summarySha256": "ae8e007a94a4cbfd7c65cb3c78f79bc9f967186cbb022bbc93077f9267fb2a76",
+      "sourceUrls": [
+        "https://www.lighthousedigest.com/digest/StoryPage.cfm?StoryKey=3301"
+      ]
+    },
+    {
+      "id": "va-cape-henry-light-old",
+      "status": "accepted",
+      "factsSha256": "14253a0936bb5ae1ef493f55ae4ffe312b9bf2f85be41098260dd7e5d40c98d0",
+      "summarySha256": "7fa30efd29674ce62db6dfe6fa6c0f80bd7f6c1be73d980b3763640e20e19b70",
+      "sourceUrls": [
+        "https://www.nps.gov/came/cape-henry-lighthouses.htm"
+      ]
+    },
+    {
+      "id": "wa-admiralty-head-light",
+      "status": "accepted",
+      "factsSha256": "fa119305b000099449ec59f1c17aa15e5fbf67653a352a0c9ea21681f0c10359",
+      "summarySha256": "f7c4ace70d32fdacd23773f85e82e63cabd3d809aecfd02b6acd90039d4bf345",
+      "sourceUrls": [
+        "https://www.whidbeynewstimes.com/2012/08/24/student-built-lantern-house-put-into-place-at-admiralty-head-lighthouse/"
+      ]
+    },
+    {
+      "id": "wa-cape-disappointment-light",
+      "status": "accepted",
+      "factsSha256": "19268c1e215e5085e80edc2e421b9a34c29897cdb2307befb14ee46c403d0b9d",
+      "summarySha256": "6103ce40954166c01660fe0b7217b4ffb3939bf6b10e067394608ce46363e3b5",
+      "sourceUrls": [
+        "https://www.historylink.org/File/5622"
+      ]
+    },
+    {
+      "id": "wa-grays-harbor-light",
+      "status": "accepted",
+      "factsSha256": "38d2a7c430c3c58785884165416bf5b214d3762c8e971a11228ee5429a12fed4",
+      "summarySha256": "92162d99a386cf9bd3f95a753af55b7261d3f77528ec3c930a28df00ac3af02d",
+      "sourceUrls": [
+        "https://www.historylink.org/File/5714"
+      ]
+    },
+    {
+      "id": "wa-lime-kiln-light",
+      "status": "accepted",
+      "factsSha256": "acace4baac40517e1f85521bf5fa0b05dd89d65d4800eacc474a73027d801223",
+      "summarySha256": "5f0523f2c8a7e99dce3a7f87c011899dfeebed0cac0d6a74af391cea8472eaae",
+      "sourceUrls": [
+        "https://whalemuseum.org/pages/seasound-remote-sensing-network"
+      ]
+    },
+    {
+      "id": "wa-mukilteo-light",
+      "status": "accepted",
+      "factsSha256": "6c71c3e114797119616f82f6bd5669b67a2b54455acd574d3a955bb97280e383",
+      "summarySha256": "1a00b03543a5fd89d183d8ee350fb4ebddc624eb62cae701b5c77e8ca6206d7a",
+      "sourceUrls": [
+        "https://mukilteohistorical.org/2020/05/04/muk-revisited-light-keepers/"
+      ]
+    },
+    {
+      "id": "wa-new-dungeness-light",
+      "status": "accepted",
+      "factsSha256": "c84b8163220e1a5d04354c5d6ee9c1d4b8ee23fd5f9dd6f8d2b14749294e1ad8",
+      "summarySha256": "bd4c9c021dabd6a3b55a33807c7b2462af9a7cdbeee599cf86a34c2688a05f81",
+      "sourceUrls": [
+        "https://newdungenesslighthouse.com/the-lighthouse/"
+      ]
+    },
+    {
+      "id": "wa-north-head-light",
+      "status": "accepted",
+      "factsSha256": "59ad28a6d35f6f2245635f63f0b11ad6948c662f9e5ea09dc709a9c74d815c5c",
+      "summarySha256": "499b5a27b072147a6487ac3e6f7dbe4f6bfd438f33948ced9f189f37bb214f55",
+      "sourceUrls": [
+        "https://www.lighthousefriends.com/light.asp?ID=116&lang=en"
+      ]
+    },
+    {
+      "id": "wi-devils-island-light",
+      "status": "accepted",
+      "factsSha256": "4206fbd8299cb0a8c848ce8f6466101248b30296034025983770761d070c88f9",
+      "summarySha256": "d5507b9f75c8089330ac252c96a7d89be70fcb72715b3614db96040fca21bce0",
+      "sourceUrls": [
+        "https://www.nps.gov/apis/learn/historyculture/devils-light.htm"
+      ]
+    },
+    {
+      "id": "wi-north-point-light",
+      "status": "accepted",
+      "factsSha256": "72fa8031d96d231678c8e5f61a1422794374e2305dcae51b27e633e6496b4b1d",
+      "summarySha256": "55a7f90d14cbe35d36ff02e10878a086f2b40016729a70c4c3d5652a558ba613",
+      "sourceUrls": [
+        "https://northpointlighthouse.org/learn/keepers/georgia-stebbins/"
+      ]
+    },
+    {
+      "id": "wi-outer-island-light",
+      "status": "accepted",
+      "factsSha256": "a24e4eee29ac138efc84a019561ad27bafc510c6177755d83907d8bb89d325f7",
+      "summarySha256": "5c8efda5315fe73caa33849e4c22d4f4a08888f96066dfc1497ba346bf8f7154",
+      "sourceUrls": [
+        "https://www.nps.gov/apis/learn/historyculture/outer-light.htm"
+      ]
+    },
+    {
+      "id": "wi-raspberry-island-light",
+      "status": "accepted",
+      "factsSha256": "842f3342b0aac85f683c85602ffa27fc6258f0529b90eaaca2994cd024645ffb",
+      "summarySha256": "2e06f866e0cbc61ffed7d34ad8f420cf54ffa0d124ab6dd8d5454a59429a5199",
+      "sourceUrls": [
+        "https://www.nps.gov/apis/learn/historyculture/raspberry-light.htm"
+      ]
+    },
+    {
+      "id": "wi-sand-island-light",
+      "status": "accepted",
+      "factsSha256": "b8b689fbf152f185b20e352ebd299cfc54d398dc485e65926994b74db65994a5",
+      "summarySha256": "132a12c142d12ac16a0ef7029a0e0cef2be3a1079a3714ca9263d38a5c68a142",
+      "sourceUrls": [
+        "https://www.nps.gov/apis/learn/historyculture/sand-light.htm"
+      ]
+    }
+  ]
+}
